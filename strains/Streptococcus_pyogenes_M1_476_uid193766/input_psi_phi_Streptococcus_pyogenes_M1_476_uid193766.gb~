@@ -1,0 +1,3959 @@
+LOCUS       NC_020540            1831128 bp    DNA     circular CON 14-AUG-2015
+DEFINITION  Streptococcus pyogenes M1 476 DNA, complete genome.
+ACCESSION   NC_020540
+VERSION     NC_020540.2  GI:523414886
+DBLINK      BioProject: PRJNA224116
+            Assembly: GCF_000349925.2
+KEYWORDS    RefSeq.
+SOURCE      Streptococcus pyogenes M1 476
+  ORGANISM  Streptococcus pyogenes M1 476
+            Bacteria; Firmicutes; Bacilli; Lactobacillales; Streptococcaceae;
+            Streptococcus.
+REFERENCE   1
+  AUTHORS   Miyoshi-Akiyama,T., Watanabe,S. and Kirikae,T.
+  TITLE     Complete genome sequence of Streptococcus pyogenes M1 476, isolated
+            from a patient with streptococcal toxic shock syndrome
+  JOURNAL   J. Bacteriol. 194 (19), 5466 (2012)
+   PUBMED   22965090
+REFERENCE   2  (bases 1 to 1831128)
+  AUTHORS   Akiyama,T., Watanabe,S., Iwai,H. and Kirikae,T.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (12-JUL-2012) Contact:Tohru Akiyama National Center for
+            Global Health and Medicine, Department of Infectious Diseases;
+            1-21-1,Toyama, Shinju-ku, Tokyo 162-8655, Japan
+FEATURES             Location/Qualifiers
+     source          1..1831128
+                     /organism="Streptococcus pyogenes M1"
+                     /mol_type="genomic DNA"
+                     /strain="M1"
+     gene            1253294..1255027
+                     /locus_tag=
+                     /old_locus_tag=
+     CDS             1253294..1255027
+                     /locus_tag=""
+                     /old_locus_tag=""
+                     /inference=""
+                     /note=""
+                     /codon_start=1
+                     /transl_table=11
+                     /product=""
+                     /protein_id="gi|523414886|ref|NC_020540.2|_1233"
+                     /db_xref=""
+                     /translation="MKRYPLLVQLISYVFVIVIALITTLGLLYYQTSSRNIRQLIERDT
+                     RQSIRQSSQFIDAYIKPLKETTSVLAKNTEIQAFASQIHQENDKQVLQLMKMVLATNSD
+                     LQAAVLVTKDGRTVSTNSQLTMKTSSDMMAEPWYKAAIDRQAMPILTPARQLSLSSKKE
+                     WVVSVTQEVVDRAGHNLGVLRLDIAYPTIKASLDQLQLGRQGFAFIVNDKHEFVYHPKK
+                     SVYSSSKEMAAMKPYLAIQNGYTKDKTSFVYQKLIPNSQWTLVGVASLDQLHRVQRQIF
+                     WSFLGTGLLACLICGFATVLVLRRWIRPIQQLQQVILAIQKGDRQLRAQETGSPELTDL
+                     AQQFNALLDQIDSLMVAVADKEKAIGQYRLQALASQINPHFLYNTLDTIIWMAEFNDSK
+                     RVVEVTKSLAKYFRLALNQGNEYIRLADELDHVSQYLFIQKQRYGDKLSYEVQGLDVYA
+                     DFVIPKLILQPLVENAIYHGIKEVDRKGMIKVTVSDTAQHLMLTVWDNGKGIEDSSLTN
+                     SQSLLARGGVGLKNVDQRLKLHYGEGYHMTIHSQSDQFTEIQLSLPKMHELMADDTQEN
+                     E*"
+     gene            1656612..1657973
+                     /locus_tag=
+                     /old_locus_tag=
+     CDS             1656612..1657973
+                     /locus_tag=""
+                     /old_locus_tag=""
+                     /inference=""
+                     /note=""
+                     /codon_start=1
+                     /transl_table=11
+                     /product=""
+                     /protein_id="gi|523414886|ref|NC_020540.2|_1612"
+                     /db_xref=""
+                     /translation="MAKKKATFICQECGYQSPKYLGRCPNCSAWSSFVEEVEVKEVKNA
+                     RVSLAGEKSRPVKLKDVDNISYHRTQTDMSEFNRVLGGGVVPGSLILIGGDPGIGKSTL
+                     LLQVSTQLANKGTVLYVSGEESAEQIKLRSERLGDIDNEFYLYAETNMQAIRTEIENIK
+                     PDFLIIDSIQTIMSPDITGVQGSVSQVREVTAELMQLAKTNNIATFIVGHVTKEGTLAG
+                     PRMLEHMVDTVLYFEGERHHTFRILRAVKNRFGSTNEIGIFEMQSGGLVEVLNPSQVFL
+                     EERLDGATGSAVVVTMEGSRPILAEVQSLVTPTVFGNARRTTTGLDFNRVSLIMAVLEK
+                     RCGLLLQNQDAYLKSAGGVKLDEPAIDLAVAVAIASSYKEKPTSPQEAFLGEIGLTGEI
+                     RRVTRIEQRINEAAKLGFTKVYAPKNALQGIDIPQGIEVVGVTTVGQVLNAVFS*"
+     gene            292032..293150
+                     /locus_tag=
+                     /old_locus_tag=
+     CDS             292032..293150
+                     /locus_tag=""
+                     /old_locus_tag=""
+                     /inference=""
+                     /note=""
+                     /codon_start=1
+                     /transl_table=11
+                     /product=""
+                     /protein_id="gi|523414886|ref|NC_020540.2|_267"
+                     /db_xref=""
+                     /translation="MEELFCIGCGIQIQTEDKEKAGFTPAAALKKGMETGELYCQRCFR
+                     LRHYNEITDVHITDDEFLRLLHEVGDSDALVVNVIDIFDFNGSIIPGLSRFISGNDVLL
+                     VGNKKDILPKSVKDGKVTQWLTERAHEEGLRPLDVMLTSAQNKYAIKDLIGRINELRNG
+                     RDVYVVGVTNVGKSTLINAIIQEITGNKDVITTSRFPGTTLDKIEIPLDDGTFIFDTPG
+                     IIHRHQMAHYLSPKELKIVSPKKEIKPKTYQLNPEQTLFLGGLARFDFINGERQGFTAF
+                     FDNQLELHRTKLAGADAFYDKHVGTLLTPPDKKELTAFPKLVRHEFTIDQKMDIVFSGL
+                     GWIRVNGQKDSKAIVAAWAPEGVAVIVRKAII*"
+     gene            313604..314098
+                     /locus_tag=
+                     /old_locus_tag=
+     CDS             313604..314098
+                     /locus_tag=""
+                     /old_locus_tag=""
+                     /inference=""
+                     /note=""
+                     /codon_start=1
+                     /transl_table=11
+                     /product=""
+                     /protein_id="gi|523414886|ref|NC_020540.2|_289"
+                     /db_xref=""
+                     /translation="MRCPKCNYHKSSVVDSRQAEDGNTIRRRRECEQCHTRFTTFERVE
+                     ELPLLVIKKDGTREQFSRDKILNGVVQSAQKRPVSSTDIENVISRIEQEVRTTYENEVS
+                     STAIGNLVMDELAELDEITYVRFASVYKSFKDVDEIEELLQQITNRVRGKKKRLNNDET
+                     N*"
+     gene            354644..355273
+                     /locus_tag=
+                     /old_locus_tag=
+     CDS             354644..355273
+                     /locus_tag=""
+                     /old_locus_tag=""
+                     /inference=""
+                     /note=""
+                     /codon_start=1
+                     /transl_table=11
+                     /product=""
+                     /protein_id="gi|523414886|ref|NC_020540.2|_333"
+                     /db_xref=""
+                     /translation="MGKCQVISHPLIQHKLSILRRQTTSTKDFRELVNEIAMLMGYEVS
+                     RDLPLEDVDIQTPVSKTVQKQLAGKKLAIVPILRAGIGMVDGLLSLVPAAKVGHIGMYR
+                     NEETLEPVEYLVKLPEDINQRQIFLVDPMLATGGSAILAVDSLKKRGAANIKFVCLVAA
+                     PEGVKKLQEAHPDIDIFTAALDDHLNEHGYIVPGLGDAGDRLFGTK*"
+     gene            268350..268496
+                     /locus_tag=
+                     /old_locus_tag=
+     CDS             268350..268496
+                     /locus_tag=""
+                     /old_locus_tag=""
+                     /inference=""
+                     /note=""
+                     /codon_start=1
+                     /transl_table=11
+                     /product=""
+                     /protein_id="gi|523414886|ref|NC_020540.2|_250"
+                     /db_xref=""
+                     /translation="MKNSKDILTNAIEEVSEKELMEVAGGKKGSGWFATITDDCPNSVF
+                     VCC*"
+     gene            271475..273382
+                     /locus_tag=
+                     /old_locus_tag=
+     CDS             271475..273382
+                     /locus_tag=""
+                     /old_locus_tag=""
+                     /inference=""
+                     /note=""
+                     /codon_start=1
+                     /transl_table=11
+                     /product=""
+                     /protein_id="gi|523414886|ref|NC_020540.2|_254"
+                     /db_xref=""
+                     /translation="MIWSITKSNIKKNFSLYRIYFLATIGLLSIFIAFLNFISDKIITE
+                     KIGDSGQALVIANGSLIFLIVFLVVFLIYFNNFFVKKRSQELGVLAILGFSKRELTKLL
+                     TLENLVILVLSYLVSLLLGPTLYFLAVLAITHLLNLTMEVQWFITVNEIIESLGILVVV
+                     FLINVITNGLIISKQSLIEFVNFSRKAEKKIKIRKVRAIIAITALLLSYILCLATVFSS
+                     TRNMLLSIGMVPVSLLIIVLVVLGTVFTIRYGLAFVVSLLKENKKRLYRPLSNIIYPKF
+                     NYRIATKNKLLTVLGGLLTVTVSVAGMMVMLYAYSLNGIERLTPSAIEYNVESENGQVN
+                     VTTILENDQVSLVDVGLLRLNTIPEVTITDSGQTIPYFDIINYSDYKELMKAQGRTNSI
+                     EGSKSLPLLINYYPTEISLGKTFNLGNAYDVTVKQVSTNNVFSFSTSVTTLVVSDKLYA
+                     KLSSRFPEKEMTIRTFNGTSIRSSEAFYNQFSMVPDVISSYSKEHTVKTANIATYIFIT
+                     FLSILFIICTGSILYFTSLIEIMENKEEYGYLSKLGYSKKMIHRILRYETGILFLIPVF
+                     IGIVNGGMLLIYYKYLFMDTLVAGNIIMLSLLLCLLFFLIIYGTFYVLTLRLVTSIIKN
+                     *"
+     gene            1687678..1687962
+                     /locus_tag=
+                     /old_locus_tag=
+     CDS             1687678..1687962
+                     /locus_tag=""
+                     /old_locus_tag=""
+                     /inference=""
+                     /note=""
+                     /codon_start=1
+                     /transl_table=11
+                     /product=""
+                     /protein_id="gi|523414886|ref|NC_020540.2|_1637"
+                     /db_xref=""
+                     /translation="MKFKKVLVIPALALAATCFLTACGTKKDSKKEEVKEIKMSDIKDD
+                     AVSKKTKVVDGEEVTEYTTKDGNVIQIPAGNEEGMESKDAGGSGAPAKN*"
+     gene            361879..362235
+                     /locus_tag=
+                     /old_locus_tag=
+     CDS             361879..362235
+                     /locus_tag=""
+                     /old_locus_tag=""
+                     /inference=""
+                     /note=""
+                     /codon_start=1
+                     /transl_table=11
+                     /product=""
+                     /protein_id="gi|523414886|ref|NC_020540.2|_343"
+                     /db_xref=""
+                     /translation="MITIYQYPKCSTCQRAMAELKQLVSDFEAIDIKANPPKAQDLKHW
+                     METSGYTIKNFFNTSGNSYRELGLKDKIDQLSLDKAAELLATDGMLIKRPILIKDGNVL
+                     QVGYRKPYQELDLG*"
+     gene            1649693..1650430
+                     /locus_tag=
+                     /old_locus_tag=
+     CDS             1649693..1650430
+                     /locus_tag=""
+                     /old_locus_tag=""
+                     /inference=""
+                     /note=""
+                     /codon_start=1
+                     /transl_table=11
+                     /product=""
+                     /protein_id="gi|523414886|ref|NC_020540.2|_1606"
+                     /db_xref=""
+                     /translation="MNIFILEDDFIQQTRIESIVVGILKETRIPCNQLEVFSTPQKLFE
+                     SIQERGDHQLYFLDIEIGEYTRCGLELAAAIRQKDPNAVIVFVTTHSEFAPISFKYKVS
+                     ALDFIDKAGGQKQFKEQIEECIRYTYDMMSSRESKDMFLFETPQTRLKLPYKDILYFAT
+                     ATTPHKVCLWTQTERLEFYGNLSEIQAVAPKLFLCHRSYLVNLDKVVRIDKSKQLLYFE
+                     NGDSCMVSRLKMKCLFERWEALR*"
+     gene            1430646..1430813
+                     /locus_tag=
+                     /old_locus_tag=
+     CDS             1430646..1430813
+                     /locus_tag=""
+                     /old_locus_tag=""
+                     /inference=""
+                     /note=""
+                     /codon_start=1
+                     /transl_table=11
+                     /product=""
+                     /protein_id="gi|523414886|ref|NC_020540.2|_1396"
+                     /db_xref=""
+                     /translation="MKKEYVVRIYTGREKNFEAKPQFEEKTFTRKADMLKFWNSCEATV
+                     KEKYTREWKK*"
+     gene            1658054..1658500
+                     /locus_tag=
+                     /old_locus_tag=
+     CDS             1658054..1658500
+                     /locus_tag=""
+                     /old_locus_tag=""
+                     /inference=""
+                     /note=""
+                     /codon_start=1
+                     /transl_table=11
+                     /product=""
+                     /protein_id="gi|523414886|ref|NC_020540.2|_1613"
+                     /db_xref=""
+                     /translation="MTKIRGFELVSSFTNPDLLPKRETTHAAGYDLSVAEAVTIAPGEI
+                     KLVPTGVKAYMQDGEVLYLYDRSSNPRKKGIILINSVGVIDADYYGNEANEGHIFAQMQ
+                     NITDHPVTLAVGERIVQGVFMPFLIADGDQARGERTGGFGSTGQ*"
+     gene            1680261..1681862
+                     /locus_tag=
+                     /old_locus_tag=
+     CDS             1680261..1681862
+                     /locus_tag=""
+                     /old_locus_tag=""
+                     /inference=""
+                     /note=""
+                     /codon_start=1
+                     /transl_table=11
+                     /product=""
+                     /protein_id="gi|523414886|ref|NC_020540.2|_1631"
+                     /db_xref=""
+                     /translation="MKKRKLLAVTLLSTILLNSAVPLVVADTSLRNSTSSTDQPTTADT
+                     DTDDESETPKKDKKSKETASQHDTQKDHKPSHTHPTPPSNDTKQTDQASSEATDKPNKD
+                     KNDTKQPDSSDQSTPSPKDQSSQKESQNKDGRPTPSPDQQKDQTPDKTPEKGPEKATDK
+                     TPEPNRDAPKPIQPPLAAAPVFIPWRESDKDLSKLKPSSRSSAAYVRHWTGDSAYTHNL
+                     LSRRYGITAEQLDGFLNSLGIHYDKERLNGKRLLEWEKLTGLDVRAIVAIAMAESSLGT
+                     QGVAKEKGANMFGYGAFDFNPNNAKKYSDEVAIRHMVEDTIIANKNQTFERQDLKAKKW
+                     SLGQLDTLIDGGVYFTDTSGSGQRRADIMTKLDQWIDDHGSTPEIPEHLKITSGTQFSE
+                     VPVGYKRSQPQNVLTYKSETYSFGQCTWYAYNRVKELGYQVDRYMGNGGDWQRKPGFVT
+                     THKPKVGYVVSFAPGQAGADATYGHVAVVEQIKEDGSILISESNVMGLGTISYRTFTAE
+                     QASLLTYVVGDKLPRP*"
+     gene            1074419..1076413
+                     /locus_tag=
+                     /old_locus_tag=
+     CDS             1074419..1076413
+                     /locus_tag=""
+                     /old_locus_tag=""
+                     /inference=""
+                     /note=""
+                     /codon_start=1
+                     /transl_table=11
+                     /product=""
+                     /protein_id="gi|523414886|ref|NC_020540.2|_1041"
+                     /db_xref=""
+                     /translation="MLSKKELAIITFLIHHKEQFVSSATLAEVIGMSDRTVRKYLKELI
+                     SSLPEHGAHIISKQGRGYCLEIDHSMAFDIFWQESVTSKKRLADVTQVEESVDREDYVL
+                     HKFFFEDAVQDFEELCQELYISRTTLKHVLAGIKERIIPYQLELEITHQHIQIRGKEED
+                     IRHFIMDYFFVTSFDNTLSTMVGNTFLEGINFAEIMIIVLDECRDAKLKLSDFVMNNLV
+                     LHIALMVQRIRSGCPLELFSIPIAIRQSDEYQVALRILYRVEEVMGIRFPKEEANYIAL
+                     HLKVKHSVGKHWQDDNTDEKLQDHLKACIAKISQLTGMTLETDTNLFQGLLAHMMPLTI
+                     RLENHIQLTNPLTEEIKSQYPEIFTLTKQTFSDLLVCQKNDVSDDEWAYISLHLMAAIE
+                     RYSNRHKLRVLVVCATGYGSAMMLKNRLEKEFEGRLRIVDVISYYEITEERLKTVDLII
+                     SSISLANLMFLTPVITVSVFLSNQDIETIRQFIGEQEGIKKEVSLPSQMSLAKAEQLLT
+                     GVFSPNRFLYLDEKISKEDLLLRMIACLDEAGTETFVEDFYHQMVLRENYSPVIYGEVL
+                     AFPHPANPMTYSEQVVVVICREPLEWDKAHQAVHFVFLLSPSKGHNHRLKYVSPGLASF
+                     VNQVELQQALLEEPNYSKFMTVFTPLIHD*"
+     gene            821738..822061
+                     /locus_tag=
+                     /old_locus_tag=
+     CDS             821738..822061
+                     /locus_tag=""
+                     /old_locus_tag=""
+                     /inference=""
+                     /note=""
+                     /codon_start=1
+                     /transl_table=11
+                     /product=""
+                     /protein_id="gi|523414886|ref|NC_020540.2|_769"
+                     /db_xref=""
+                     /translation="MKFLDLFAGIGGFRLGLINQCHECIGFCEIDKFARQSYKAIYETE
+                     GEIEFHDIRQVTDQDFRQLRGQVDIICGGFSLVKHFHSQADDWDLRALGELSSLRLLER
+                     PNR*"
+     gene            1690570..1690875
+                     /locus_tag=
+                     /old_locus_tag=
+     CDS             1690570..1690875
+                     /locus_tag=""
+                     /old_locus_tag=""
+                     /inference=""
+                     /note=""
+                     /codon_start=1
+                     /transl_table=11
+                     /product=""
+                     /protein_id="gi|523414886|ref|NC_020540.2|_1641"
+                     /db_xref=""
+                     /translation="MEMHFVRTEPEARRIAETFCAENTQTKTPMRVQQLSYPSDTDHSG
+                     GELYIYALSPAGFIIVSGDTRAHTILGYSFDNNLDLNHDNVRSMIEAYQKQINSLD*"
+     gene            825870..826010
+                     /locus_tag=
+                     /old_locus_tag=
+     CDS             825870..826010
+                     /locus_tag=""
+                     /old_locus_tag=""
+                     /inference=""
+                     /note=""
+                     /codon_start=1
+                     /transl_table=11
+                     /product=""
+                     /protein_id="gi|523414886|ref|NC_020540.2|_774"
+                     /db_xref=""
+                     /translation="MNNTIKDFDLDLKTNKKDTATPYVGSRYLCTPGSCWKLVCFTTTV
+                     K*"
+     gene            698283..700295
+                     /locus_tag=
+                     /old_locus_tag=
+     CDS             698283..700295
+                     /locus_tag=""
+                     /old_locus_tag=""
+                     /inference=""
+                     /note=""
+                     /codon_start=1
+                     /transl_table=11
+                     /product=""
+                     /protein_id="gi|523414886|ref|NC_020540.2|_656"
+                     /db_xref=""
+                     /translation="MKKYFILKSSVLSILTSFTLLVTDVQADQVDVQFLGVNDFHGALD
+                     NTGTAYTPSGKIPNAGTAAQLGAYMDDAEIDFKQANQDGTSIRVQAGDMVGASPANSAL
+                     LQDEPTVKVFNKMKFEYGTLGNHEFDEGLDEFNRIMTGQAPDPESTINDITKQYEHEAS
+                     HQTIVIANVIDKKTKDIPYGWKPYAIKDIAINDKIVKIGFIGVVTTEIPNLVLKQNYEH
+                     YQFLDVAETIAKYAKELQEQHVHAIVVLAHVPATSKDGVVDHEMATVMEKVNQIYPEHS
+                     IDIIFAGHNHQYTNGTIGKTRIVQALSQGKAYADVRGTLDTDTNDFIKTPSANVVAVAP
+                     GIKTENSDIKAIINHANDIVKTVTERKIGTATNSSTISKTENIDKESPVGNLATTAQLT
+                     IAKKTFPTVDFAMTNNGGIRSDLVVKNDRTITWGAAQAVQPFGNILQVIQMTGQHIYDV
+                     LNQQYDENQTYFLQMSGLTYTYTDNDPKNSDTPFKIVKVYKDNGEEINLTTTYTVVVND
+                     FLYGGGDGFSAFKKAKLIGAINTDTEAFITYITNLEASGKTVNATIKGVKNYVTSNLES
+                     STKVNSAGKHSIISKVFRNRDGNTVSSEVISDLLTSTENTNNSLGKKETTTNKNTISSS
+                     TLPITGDNYKMSPIMTILALISLGGLNAFIKKRKS*"
+     gene            355497..356087
+                     /locus_tag=
+                     /old_locus_tag=
+     CDS             355497..356087
+                     /locus_tag=""
+                     /old_locus_tag=""
+                     /inference=""
+                     /note=""
+                     /codon_start=1
+                     /transl_table=11
+                     /product=""
+                     /protein_id="gi|523414886|ref|NC_020540.2|_334"
+                     /db_xref=""
+                     /translation="MIPVVIEQTSRGERSYDIYSRLLKDRIIMLTGPVEDNMANSVIAQ
+                     LLFLDAQDNTKDIYLYVNTPGGSVSAGLAIVDTMNFIKADVQTIVMGMAASMGTVIASS
+                     GTKGKRFMLPNAEYMIHQPMGGTGGGTQQTDMAIAAEHLLKTRHRLEKILAQNAGKTIK
+                     QIHKDAERDYWMSAEETLAYGFIDEIMENNELK*"
+     gene            819735..820235
+                     /locus_tag=
+                     /old_locus_tag=
+     CDS             819735..820235
+                     /locus_tag=""
+                     /old_locus_tag=""
+                     /inference=""
+                     /note=""
+                     /codon_start=1
+                     /transl_table=11
+                     /product=""
+                     /protein_id="gi|523414886|ref|NC_020540.2|_766"
+                     /db_xref=""
+                     /translation="MSEAIIAKKAEQVELIAEKMKAAASIVIVDSRGLTVDQDTVLRRS
+                     LRESGVEFKVIKNSILTRAAEKAGLDELKDVFVGPSAVAFSNEDVIAPAKVINDFTKTA
+                     DALEIKGGAIEGAVSSKEEIQALATLPNREGMLSMLLSVLQAPVRNVAYAVKAVAENKE
+                     GAA*"
+     gene            820300..820665
+                     /locus_tag=
+                     /old_locus_tag=
+     CDS             820300..820665
+                     /locus_tag=""
+                     /old_locus_tag=""
+                     /inference=""
+                     /note=""
+                     /codon_start=1
+                     /transl_table=11
+                     /product=""
+                     /protein_id="gi|523414886|ref|NC_020540.2|_767"
+                     /db_xref=""
+                     /translation="MALNIENIIAEIKEASILELNDLVKAIEEEFGVTAAAPVAAAAAG
+                     GAEEAAKDSFDVELTSAGDKKVGVIKAVREITGLGLKEAKGLVDGAPANVKEGVAAAEA
+                     EEIKAKLEEAGATITLK*"
+     gene            711771..713000
+                     /locus_tag=
+                     /old_locus_tag=
+     CDS             711771..713000
+                     /locus_tag=""
+                     /old_locus_tag=""
+                     /inference=""
+                     /note=""
+                     /codon_start=1
+                     /transl_table=11
+                     /product=""
+                     /protein_id="gi|523414886|ref|NC_020540.2|_669"
+                     /db_xref=""
+                     /translation="MAGSRTNDIKVYCSFCGKSQDDVKKIIAGNNVFICNECVALSQEI
+                     IKEELAEEVLADLTEVPKPKELLDVLNQYVVGQDRAKRALSVAVYNHYKRVSFTESRDD
+                     DDVDLQKSNILMIGPTGSGKTFLAQTLAKSLNVPFAIADATSLTEAGYVGEDVENILLK
+                     LIQAADYNVERAERGIIYVDEIDKIAKKGENVSITRDVSGEGVQQALLKIIEGTVASVP
+                     PQGGRKHPNQEMIQIDTKNILFIVGGAFDGIEEIVKQRLGEKVIGFGQNSRKIDDNASY
+                     MQEIISEDIQKFGLIPEFIGRLPVVAALEQLNTSDLIQILTEPRNALVKQYQALLSYDG
+                     VELAFDKEALEAIANKAIERKTGARGLRSIIEETMLDIMFEIPSQEDVTKVRITKAAVE
+                     GKSKPVLETA*"
+     gene            305653..306327
+                     /locus_tag=
+                     /old_locus_tag=
+     CDS             305653..306327
+                     /locus_tag=""
+                     /old_locus_tag=""
+                     /inference=""
+                     /note=""
+                     /codon_start=1
+                     /transl_table=11
+                     /product=""
+                     /protein_id="gi|523414886|ref|NC_020540.2|_281"
+                     /db_xref=""
+                     /translation="MLKRKTVGVLGLGIFGRTVARELSNFDQDVIAIDIRESHVKEVAD
+                     LVTKAAVGDITDKEFLLAVGIEHCDTVVIASGNNLESSVLAVMHCKKLGVPTIIAKAKN
+                     KIFEEVLYGIGATKVITPERDSGKRVASNLLRRHIESIIYLEHGISMIEFVIPKSWEGQ
+                     SLSELDVRRKYELNVIGMRQKEVKTLDTNVKPFEPLEPNTIIVAIANDHTFEKFDYLGY
+                     LK*"
+     gene            302034..302726
+                     /locus_tag=
+                     /old_locus_tag=
+     CDS             302034..302726
+                     /locus_tag=""
+                     /old_locus_tag=""
+                     /inference=""
+                     /note=""
+                     /codon_start=1
+                     /transl_table=11
+                     /product=""
+                     /protein_id="gi|523414886|ref|NC_020540.2|_278"
+                     /db_xref=""
+                     /translation="MSQLIQTYLPNVYELGWSGDAGWGLAIWNTLYMTIVPFIVGGAIG
+                     LLLGLLLVLTGPDGVIENKTICWVIDKVTSIFRAIPFVILIAILASFTYLLLRTTLGAT
+                     AALVPLTFATFPFYARQVQVVFSELDKGVIEAAQASGATFWDIVKVYLSEGLPDLIRVS
+                     TVTLISLVGETAMAGAIGAGGLGNVAISYGYNRFNNDVTWVATIIILLIIFAIQFIGDS
+                     LTRRFSHK*"
+     gene            809151..810197
+                     /locus_tag=
+                     /old_locus_tag=
+     CDS             809151..810197
+                     /locus_tag=""
+                     /old_locus_tag=""
+                     /inference=""
+                     /note=""
+                     /codon_start=1
+                     /transl_table=11
+                     /product=""
+                     /protein_id="gi|523414886|ref|NC_020540.2|_757"
+                     /db_xref=""
+                     /translation="MLKLKRKWLLSFLLVIIILAIVNVAMYIFSSSKKDSAKELVILTP
+                     NSQTILTGTIPAFEEKYGVKVRLIQGGTGQLIDQLGRKDKPLNADIFFGGNYTQFESHK
+                     DLFESYVSPQVSTVISDYQLPSHRATPYTINGSVLIVNNELARGLHITSYEDLLQPALK
+                     GKIAFADPNSSSSAFSQLTNILLAKGGYTNADAWAYMKRLLVNMNSIRATSSSEVYQSV
+                     AEGKMIVGLTYEDPCINLQKSGANVSIVYPKEGTVFVPSSVAIIKHAPNMTEAKLFINF
+                     MLSRDVQNAFGQSTSNRPIRQDAQTSHDMKALETIATLKEDYAYVTKHKKKIVATYNQL
+                     RQRLEKAK*"
+     gene            710035..710874
+                     /locus_tag=
+                     /old_locus_tag=
+     CDS             710035..710874
+                     /locus_tag=""
+                     /old_locus_tag=""
+                     /inference=""
+                     /note=""
+                     /codon_start=1
+                     /transl_table=11
+                     /product=""
+                     /protein_id="gi|523414886|ref|NC_020540.2|_666"
+                     /db_xref=""
+                     /translation="MTKADQIFKANIQKIINEGSLSEQARPKYKDGRTAHSKYITGAFA
+                     EYDLAKGEFPITTLRPIPIKSAIKELFWIYQDQSNSLDVLEAKYNVHYWNEWEVDQTRT
+                     IGQRYGAVVKKHDIISKILKQLAENPWNRRNVISLWDYEAFEETKGLLPCAFQIMFDVR
+                     RVGEDLYLDASLTQRSNDILVAHHINAMQYVALQMMIAKHFGWKIGKFFYFVNNLHIYD
+                     NQFDQAQELLKRQPVASQPKLVLNVPDRTNFFDIKPDDFELQNYDPVKPQLHFDLAI*"
+     gene            1690877..1692073
+                     /locus_tag=
+                     /old_locus_tag=
+     CDS             1690877..1692073
+                     /locus_tag=""
+                     /old_locus_tag=""
+                     /inference=""
+                     /note=""
+                     /codon_start=1
+                     /transl_table=11
+                     /product=""
+                     /protein_id="gi|523414886|ref|NC_020540.2|_1642"
+                     /db_xref=""
+                     /translation="MNKKKLGVRLLSLLALGGFVLANPVFADQNFARNEKEAKDSAITF
+                     IQKSAAIKAGARSAEDIKLDKVNLGGELSGSNMYVYNISTGGFVIVSGDKRSPEILGYS
+                     TSGSFDANGKENIASFMESYVEQIKENKKLDTTYAGTAEIKQPVVKSLLDSKGIHYNQG
+                     NPYNLLTPVIEKVKPGEQSFVGQHAATGCVATATAQIMKYHNYPNKGLKDYTYTLSSNN
+                     PYFNHPKNLFAAISTRQYNWNNILPTYSGRESNVQKMAISELMADVGISVDMDYGPSSG
+                     SAGSSRVQRALKENFGYNQSVHQINRGDFSKQDWEAQIDKELSQNQPVYYQGVGKVGGH
+                     AFVIDGADGRNFYHVNWGWGGVSDGFFRLDALNPSALGTGGGAGGFNGYQSAVVGIKP*
+                     "
+     gene            815822..816424
+                     /locus_tag=
+                     /old_locus_tag=
+     CDS             815822..816424
+                     /locus_tag=""
+                     /old_locus_tag=""
+                     /inference=""
+                     /note=""
+                     /codon_start=1
+                     /transl_table=11
+                     /product=""
+                     /protein_id="gi|523414886|ref|NC_020540.2|_763"
+                     /db_xref=""
+                     /translation="MKFLELNKKRHAIKTFNDQPVDYEDLRTAIEIATLAPSANNIQPW
+                     KFVVVQEKKAELAKGLPLANKVQVEQAQYVVALFSDTDLALRSRKIARIGVKSLPDDLI
+                     GYYMETLPPRFAAFNEVQTGEYLAINAGIVAMNLVLSLTDQKIASNIILGFDKSTTNEI
+                     LDIDPRFRPELLITVGYSDEKPEPSYRLPVDEVIERR*"
+     gene            306337..307728
+                     /locus_tag=
+                     /old_locus_tag=
+     CDS             306337..307728
+                     /locus_tag=""
+                     /old_locus_tag=""
+                     /inference=""
+                     /note=""
+                     /codon_start=1
+                     /transl_table=11
+                     /product=""
+                     /protein_id="gi|523414886|ref|NC_020540.2|_282"
+                     /db_xref=""
+                     /translation="MSGGNMKRSFIKSLSVTQRLTFSFAIVILIGTLLLSMPFTHYQNG
+                     PNTVYLDHFFNVVSMVCVTGLSVVPVAEVYNGIGQTIAMALMQIGGLGLVTLIAVSTFA
+                     LKRKMRLSDQTLLQSALNRGDSKDLKHYLFFAYKVTFSLEAFAAIVIMIDFIPRFGWKN
+                     GIFNSIFLAVSAFCNAGFDNLGSSSLKDFMLNPTLNVIITFLIISGGLGFAVWVDLGVA
+                     FKKYFFEKPHCYGATFRKLSNQSRLVLQTTAVILFLGTFLTWFLEKDNSKTIANFSLHQ
+                     QLMVSFFQTVTMRTAGFATISYNDTLAPTNILYMIQMVIGGAPGGTAGGIKVTTAAITF
+                     LLFKAELSGQSEVTFRNRIIANKTIKQTMTVLIFFFAVLMIGFILLLSVEPHIAPIPLL
+                     FESISAIATVGVSMDLTPQLSTAGRLIVIVLMFVGRVGPITVLISLIQRKEKTIQYATT
+                     DILVG*"
+     gene            1440755..1441030
+                     /locus_tag=
+                     /old_locus_tag=
+     CDS             1440755..1441030
+                     /locus_tag=""
+                     /old_locus_tag=""
+                     /inference=""
+                     /note=""
+                     /codon_start=1
+                     /transl_table=11
+                     /product=""
+                     /protein_id="gi|523414886|ref|NC_020540.2|_1410"
+                     /db_xref=""
+                     /translation="MDSRLLQMLDEFEAGLIDRKIKVMKMINNETEIYPLELNKKQVSK
+                     MFGVDPKTFDARFNSHKDFPRIETGGREKYPRDLAIEWYHRNWSIT*"
+     gene            1071595..1071747
+                     /locus_tag=
+                     /old_locus_tag=
+     CDS             1071595..1071747
+                     /locus_tag=""
+                     /old_locus_tag=""
+                     /inference=""
+                     /note=""
+                     /codon_start=1
+                     /transl_table=11
+                     /product=""
+                     /protein_id="gi|523414886|ref|NC_020540.2|_1036"
+                     /db_xref=""
+                     /translation="MTEKNGATFLMAVGFFLIAISPMVGNKYLHIVTGLALTGLGYYLT
+                     KHKRP*"
+     gene            310395..310928
+                     /locus_tag=
+                     /old_locus_tag=
+     CDS             310395..310928
+                     /locus_tag=""
+                     /old_locus_tag=""
+                     /inference=""
+                     /note=""
+                     /codon_start=1
+                     /transl_table=11
+                     /product=""
+                     /protein_id="gi|523414886|ref|NC_020540.2|_286"
+                     /db_xref=""
+                     /translation="MLAISEIRKHPDGLSFDRLCDVKSMLLERDQQIIDIKAVKAVGNV
+                     RYDKGLYLLDYQLSYEVILPSSRSMVPVCLSEVQHIQELFIEATDLADKKELVEDNLVL
+                     VLDKDAINLEESIVDNILLAIPLQVLTEEEKKSKELPAGQNWAVLTEEDYQCLKEEKQK
+                     ENNPFASLQGLFDE*"
+     gene            740727..741713
+                     /locus_tag=
+                     /old_locus_tag=
+     CDS             740727..741713
+                     /locus_tag=""
+                     /old_locus_tag=""
+                     /inference=""
+                     /note=""
+                     /codon_start=1
+                     /transl_table=11
+                     /product=""
+                     /protein_id="gi|523414886|ref|NC_020540.2|_695"
+                     /db_xref=""
+                     /translation="MSEKIRVLLYYKYVSIENAQEYAAKHLEFCKSIGLKGRILIADEG
+                     INGTVSGDYETTQKYMDWVHSDERFADLWFKIDEENQQAFRKMFVRYKKEIVHLGLEDN
+                     NFDSDINPLETTGEYLNPKQFKEALLDEDTVVLDTRNDYEYDLGHFRGAIRPDIRNFRE
+                     LPQWVRDNKDKFMEKRVVVYCTGGVRCEKFSGWMVREGFKDVGQLHGGIATYGKDPEVQ
+                     GELWDGAMYVFDDRISVPINHVNPTVISKDYFDGTPCERYVNCANPFCNKQIFASEENE
+                     TKYVRGCSPECRAHERNRYVQENGLSRQEWAERLEAIGESLPEFVGA*"
+     gene            302780..304150
+                     /locus_tag=
+                     /old_locus_tag=
+     CDS             302780..304150
+                     /locus_tag=""
+                     /old_locus_tag=""
+                     /inference=""
+                     /note=""
+                     /codon_start=1
+                     /transl_table=11
+                     /product=""
+                     /protein_id="gi|523414886|ref|NC_020540.2|_279"
+                     /db_xref=""
+                     /translation="MKQKNVYIVIGFMLFALFFGAANLIYPAFLGIYSGHQILWSIIGF
+                     CLTGVSLPLLGVIAVAKSGSGDVESLARPISKWYAIFYSSILYLSIGPFFAIPRTGATS
+                     FSVGIAPILGDNTTNKAIYAILFFGLSYFLAIKPSKLAENIGKFLTPTLLVVISILVIA
+                     SFVHPAGNYGDAFNAGVGVNNAFKDFPFVAGLIQGYGTMDALASLVFAILVIEATKQFG
+                     AKTDKEMTKITLISGAIAILLLALVYIFVGRIGATSQSLFPFIDGSFTLHGNPVNGGQI
+                     LSHASRFYLGGIGQAFLAVVIFLACLTTSTGLITSSAEYFHKLVPALSHIAWATIFTLL
+                     SAFFYFGGLSVIINWSAPVLFLLYPLTVDLIFLVLAQKCFNNDPIVYRTTIGLTFIPAI
+                     FDALLTLSQMTGLFHLPEAVVTFFQKTVPLGQFSMGWIIFAAIGFLIGLILSKTKKS*"
+     gene            695022..696899
+                     /locus_tag=
+                     /old_locus_tag=
+     CDS             695022..696899
+                     /locus_tag=""
+                     /old_locus_tag=""
+                     /inference=""
+                     /note=""
+                     /codon_start=1
+                     /transl_table=11
+                     /product=""
+                     /protein_id="gi|523414886|ref|NC_020540.2|_654"
+                     /db_xref=""
+                     /translation="MSHFLVEKLTKTVGDKTVFQDISFIIHDFDRIGIIGVNGTGKTTL
+                     LDVLSGRLGFDGDHSPFSKANDYKIAYLTQDPEFNDAASVLDTVLSADVKAIQLIRQYE
+                     LLMANYTEDKQESLESLMSEMDRLDAWSIESDVKTVLSKLGITDLEQKVGDLSGGMRRR
+                     VQLAQVLLGAADLLLLDEPTNHLDIDTIAWLTTYLKTAKKTVLFITHDRYFLDHVATRI
+                     FELDKAGLTEYQGNYQDYVRLKAEQDERDAANLHKKKQLYKQELAWMRTQPQARATKQQ
+                     ARINRFSDLKKEVHQDSSADKLEMTFETSRIGKKVIHFEDLSFAYGDRQLIKDFNLIIQ
+                     NKDRIGIVGDNGVGKSTLLNIINGDLKPTSGKLDIGDTIRVGYFSQQLKDMDETKRVIN
+                     YLQEVADEVKTSVGTTSISELLEQFLFPRSSHGTLIAKLSGGEKKRLYLLKLLIEKPNV
+                     LLLDEPTNDLDIATLKVLENFLANFAGPVITVSHDRYFLDKVATKILAFEEGDIRVFYG
+                     NYSDYLDEKVFEKETVEADLAKTTVTEEVPLPQKEERKRMSYLEKQEWAQIEDKIATIE
+                     ANIEEIENQMLTVVSDYGQLAQLQKELDQRNNDLLLAYERFEYLSGLDI*"
+     gene            1440392..1440595
+                     /locus_tag=
+                     /old_locus_tag=
+     CDS             1440392..1440595
+                     /locus_tag=""
+                     /old_locus_tag=""
+                     /inference=""
+                     /note=""
+                     /codon_start=1
+                     /transl_table=11
+                     /product=""
+                     /protein_id="gi|523414886|ref|NC_020540.2|_1408"
+                     /db_xref=""
+                     /translation="MSKWELQKQLLANATDFESTVEALFELNELGEISDEELLLNLRSS
+                     YRKYSEEKLCIIDKLIKLGGAE*"
+     gene            838530..839684
+                     /locus_tag=
+                     /old_locus_tag=
+     CDS             838530..839684
+                     /locus_tag=""
+                     /old_locus_tag=""
+                     /inference=""
+                     /note=""
+                     /codon_start=1
+                     /transl_table=11
+                     /product=""
+                     /protein_id="gi|523414886|ref|NC_020540.2|_792"
+                     /db_xref=""
+                     /translation="MTKPIITFNNVSKTFEDSGTQVLKNINFDLEEGKFYTLLGASGSG
+                     KSTILNIMAGLLDASSGDIYLDGERINDLPINKRDIHTVFQNYALFPHMTVFENVAFAL
+                     KLKKVDKKEIAKRVKETLKMVQLEGFENRSIQKLSGGQRQRVAIARAIINQPRVVLLDE
+                     PLSALDLKLRTEMQYELRELQQRLGITFVFVTHDQEEALAMSDWIFVMNEGEIVQSGTP
+                     VDIYDEPINHFVANFIGESNIINGTMIEDYLVSFNGKEFESVDGGMRPNEPVEVVIRPE
+                     DLQITLPEEGKLQVKVDTQLFRGVHYEIIAYDELGNEWMIHSTRKAIEGEVIGLDFTPE
+                     DLHIMRLNETEEEFDARIEEYVEMDEPEDGLINAIEEERNEENL*"
+     gene            1439860..1440012
+                     /locus_tag=
+                     /old_locus_tag=
+     CDS             1439860..1440012
+                     /locus_tag=""
+                     /old_locus_tag=""
+                     /inference=""
+                     /note=""
+                     /codon_start=1
+                     /transl_table=11
+                     /product=""
+                     /protein_id="gi|523414886|ref|NC_020540.2|_1406"
+                     /db_xref=""
+                     /translation="MNISLKFIDETLAGLNDILRQGGLSCSQSQALADAVFILTALKQV
+                     IEERK*"
+     gene            713010..713609
+                     /locus_tag=
+                     /old_locus_tag=
+     CDS             713010..713609
+                     /locus_tag=""
+                     /old_locus_tag=""
+                     /inference=""
+                     /note=""
+                     /codon_start=1
+                     /transl_table=11
+                     /product=""
+                     /protein_id="gi|523414886|ref|NC_020540.2|_670"
+                     /db_xref=""
+                     /translation="MAEEQVLNTHNASILLSAANKSHYPQDDLPEIALAGRSNVGKSSF
+                     INTILGRKNLARTSSKPGKTQLLNFFNIDDKLRFVDVPGYGYAKVSKSERAKWGKMIEE
+                     YLTSRDNLRAVVSLVDLRHAPSKEDIQMYDFLKYYDIPVIVVATKADKIPRGKWNKHES
+                     VVKKALNFDKSDTFIVFSSVERIGIDDSWDAILEQV*"
+     gene            713757..714500
+                     /locus_tag=
+                     /old_locus_tag=
+     CDS             713757..714500
+                     /locus_tag=""
+                     /old_locus_tag=""
+                     /inference=""
+                     /note=""
+                     /codon_start=1
+                     /transl_table=11
+                     /product=""
+                     /protein_id="gi|523414886|ref|NC_020540.2|_671"
+                     /db_xref=""
+                     /translation="MTQVAQGRSKGKSLLCHQCNALFVFIIFLILLAVLFGVRYRNSSI
+                     EGIWRTTSIDQKLGDDFAKRLTGLHQSPLIDDSLLTSSQMILTVKNNNVDLSFSVQVER
+                     DIFVKRLAAYHQNELLKTLKENHLVVGDLSSKERQIIENSMPASHELEMILDQAFEKLA
+                     SQIGGKYNQKTGHLSAVVLKGKVNRILHTIDIKEEVAAGHTSFSKGLLTPNGYFDYTRF
+                     GKKLELLGDEKIIFKKALKKSPSSV*"
+     gene            1668144..1669211
+                     /locus_tag=
+                     /old_locus_tag=
+     CDS             1668144..1669211
+                     /locus_tag=""
+                     /old_locus_tag=""
+                     /inference=""
+                     /note=""
+                     /codon_start=1
+                     /transl_table=11
+                     /product=""
+                     /protein_id="gi|523414886|ref|NC_020540.2|_1624"
+                     /db_xref=""
+                     /translation="MRRAENNKHSRYSIRKLSVGVTSIAIASLFLGKVAYAVDGIPPIS
+                     LTQKTTATTSENWHHIDKDGLIPLGISLEAAKEEFKKEVEESRLSEAQKETYKQKIKTA
+                     PDKDKLLFTYHSEYMTAVKDLPASTESTTQPVEAPVQETQASASDSMVTGDSTSVTTDS
+                     PEETPSSESPVAPALSEAPAQPAESEEPSVAASSEETPSPSTPAAPSTPAAPETPEEPA
+                     APSQPAESEESSVAATTSPSPSTPAESETQTPPAVTKDSDKPSSAAEKPAASSLVSEQT
+                     VQQPTSKRSSDKKEEQEQSYSPNRSLSRQVRAHESGKYLPSTGEKAQPLFIATMTLMSL
+                     FGSLLVTKRQKETKK*"
+     gene            1255024..1255764
+                     /locus_tag=
+                     /old_locus_tag=
+     CDS             1255024..1255764
+                     /locus_tag=""
+                     /old_locus_tag=""
+                     /inference=""
+                     /note=""
+                     /codon_start=1
+                     /transl_table=11
+                     /product=""
+                     /protein_id="gi|523414886|ref|NC_020540.2|_1234"
+                     /db_xref=""
+                     /translation="MYSLLIVEDEYLVRQGIRSLVDFSQFKIDRVNEAENGQLAWDLFQ
+                     KEPYDIVLTDINMPKLNGIQLAELIKQESPQTHLVFLTGYDDFNYALSALKLGADDYLL
+                     KPFSKADVEDMLGKLRKKLELSKKTETIQELVEQPQKEVSAIAMAIHERLADSDLTLKS
+                     LAQQLGFSPNYLSVLIKKELGMPFQDYLVQERLKKAKLLLLTSNLKIYEIAEQVGFEDM
+                     NYFSQRFKQLVGVTPSQYKKGGQA*"
+     gene            364814..369757
+                     /locus_tag=
+                     /old_locus_tag=
+     CDS             364814..369757
+                     /locus_tag=""
+                     /old_locus_tag=""
+                     /inference=""
+                     /note=""
+                     /codon_start=1
+                     /transl_table=11
+                     /product=""
+                     /protein_id="gi|523414886|ref|NC_020540.2|_346"
+                     /db_xref=""
+                     /translation="MEKKQRFSLRKYKSGTFSVLIGSVFLVMTTTVAADELSTMSEPTI
+                     TNHAQQQAQHLTNTELSSAESKSQDTSQITLKTNREKEQSQDLVSEPTTTELADTDAAS
+                     MANTGSDATQKSASLPPVNTDVHDWVKTKGAWDKGYKGQGKVVAVIDTGIDPAHQSMRI
+                     SDVSTAKVKSKEDMLARQKAAGINYGSWINDKVVFAHNYVENSDNIKENQFEDFDEDWE
+                     NFEFDAEAEPKAIKKHKIYRPQSTQAPKETVIKTEETDGSHDIDWTQTDDDTKYESHGM
+                     HVTGIVAGNSKEAAATGERFLGIAPEAQVMFMRVFANDIMGSAESLFIKAIEDAVALGA
+                     DVINLSLGTANGAQLSGSKPLMEAIEKAKKAGVSVVVAAGNERVYGSDHDDPLATNPDY
+                     GLVGSPSTGRTPTSVAAINSKWVIQRLMTVKELENRADLNHGKAIYSESVDFKDIKDSL
+                     GYDKSHQFAYVKESTDAGYNAQDVKGKIALIERDPNKTYDEMIALAKKHGALGVLIFNN
+                     KPGQSNRSMRLTANGMGIPSAFISHEFGKAMSQLNGNGTGSLEFDSVVSKAPSQKGNEM
+                     NHFSNWGLTSDGYLKPDITAPGGDIYSTYNDNHYGSQTGTSMASPQIAGASLLVKQYLE
+                     KTQPNLPKEKIADIVKNLLMSNAQIHVNPETKTTTSPRQQGAGLLNIDGAVTSGLYVTG
+                     KDNYGSISLGNITDTMTFDVTVHNLSNKDKTLRYDTELLTDHVDPQKGRFTLTSHSLKT
+                     YQGGEVTVPANGKVTVRVTMDVSQFTKELTKQMPNGYYLEGFVRFRDSQDDQLNRVNIP
+                     FVGFKGQFENLAVAEESIYRLKSQGKTGFYFDESGPKDDIYVGKHFTGLVTLGSETNVS
+                     TKTISDNGLHTLGTFKNADGKFILEKNAQGNPVLAISPNGDNNQDFAAFKGVFLRKYQG
+                     LKASVYHASDKEHKNPLWVSPESFKGDKNFNSDIRFAKSTTLLGTAFSGKSLTGAELPD
+                     GHYHYVVSYYPDVVGAKRQEMTFDMILDRQKPVLSQATFDPETNRFKPEPLKDRGLAGV
+                     RKDSAFYLERKDNKPYTVTINDSYKYVSVEDNKTFVERQADGSFILPLDKAKLGDFYYM
+                     VEDFAGNVAIAKLGDHLPQTLGKTPIKLKLTDGNYQTKETLKDNLEMTQSDTGLVTNQA
+                     QLAVVHRNQPQSQLTKMNQDFFISPNEDGNKDFVAFKGLKNNVYNDLTVNVYAKDDHQK
+                     QTPIWSSQAGASVSAIESTAWYGITARGSKVMPGDYQYVVTYRDEHGKEHQKQYTISVN
+                     DKKPMITQGRFDTINGVDHFTPDKTKALGSSGIVREEVFYLAKKNGRKFDVTEGKDGIT
+                     VSDNKVYIPKNPDGSYTISKRDGVTLSDYYYLVEDRAGNVSFATLRDLKAVGKDKAVVN
+                     FGLDLPVPEDKQIVNFTYLVRDADGKPIENLEYYNNSGNSLILPYGKYTVELLTYDTNA
+                     AKLESDKIVSFTLSADNNFQQVTFKITMLATSQITAHFDHLLPEGSRVSLKTAQDQLIP
+                     LEQSLYVPKAYGKTVQEGTYEVVVSLPKGYRIEGNTKVNTLPNEVHELSLRLVKVGDAS
+                     DSTGDHKVMSKNNSQALTASATPTKSTTSATAKALPSTGEKMGLKLRIVGLVLLGLTCV
+                     FSRKKSTKD*"
+     gene            1655085..1655795
+                     /locus_tag=
+                     /old_locus_tag=
+     CDS             1655085..1655795
+                     /locus_tag=""
+                     /old_locus_tag=""
+                     /inference=""
+                     /note=""
+                     /codon_start=1
+                     /transl_table=11
+                     /product=""
+                     /protein_id="gi|523414886|ref|NC_020540.2|_1610"
+                     /db_xref=""
+                     /translation="MVDNRMRFTIDQNMQFPLVEIDLEHGGSVYLQQGSMVYHTENVTL
+                     NTKLNGKGSGLGKLVGAIGRSMVSGESMFITQAMSNGDGKLALAPNTPGQIVALELGEK
+                     QYRLNDGAFLALDGSAQYKMERQNIGKALFGGQGGLFVMTTEGLGTLLANSFGSIKKIT
+                     LDGGTMTIDNAHVVAWSRELDYDIHLENGFMQSIGTGEGVVNTFRGHGEIYIQSLNLEQ
+                     FAGTLKRYLPTSSN*"
+     gene            273422..274984
+                     /locus_tag=
+                     /old_locus_tag=
+     CDS             273422..274984
+                     /locus_tag=""
+                     /old_locus_tag=""
+                     /inference=""
+                     /note=""
+                     /codon_start=1
+                     /transl_table=11
+                     /product=""
+                     /protein_id="gi|523414886|ref|NC_020540.2|_255"
+                     /db_xref=""
+                     /translation="MIRIKNITKSKFFGTAIILLQQLIALLILVYNRENLSLLFSEKVA
+                     LVMTLIDTAFIWLATILRQKQGDIFKRIISIISLTIWQYLVSVLTRGTPLFLSSGLQII
+                     LLYCYTVEITNLILYGHKQFKDKLDKGLLIIIFVSITSLFVNRILFNFLFLMVFTILHL
+                     YPLLVIVLYYRSFRQQISVVRRSLILFSLLLLVILGSELYGEMLDVNQAFNNLGWYLFP
+                     LIMSVIYYFKTIHDKLSFVTQRWLGDYKARIELLFLLLILCWIVLMKVLVKDFLLFFIV
+                     VDASTLFCLVVISCIFYYLENSKQNFDYENRRLNYFMKSEENMRVEFSNYLHDDVLQNI
+                     IAIKNLFSLENSNITHGFIVNELNDLVSGIRDEMDTYHPIVPANQTMKENIQSLFDDIV
+                     KSRKSNTLLYFNCSDNMVVPSPYGDIVYRFIKELINNAIKYGDGKDIRLSLTIQSDIII
+                     IEESNQVVEKVHSINYGRGLKSFQETLAAFDGDLELQMDTKQFTIRILLPIDWKLCYED
+                     FIN*"
+     gene            743706..743882
+                     /locus_tag=
+                     /old_locus_tag=
+     CDS             743706..743882
+                     /locus_tag=""
+                     /old_locus_tag=""
+                     /inference=""
+                     /note=""
+                     /codon_start=1
+                     /transl_table=11
+                     /product=""
+                     /protein_id="gi|523414886|ref|NC_020540.2|_698"
+                     /db_xref=""
+                     /translation="MVKKYQFVKGLATGVLATAATVAGAVFAVKKTIIDPEEEKAAFIE
+                     ENRKKAARRRVAR*"
+     gene            1655926..1656423
+                     /locus_tag=
+                     /old_locus_tag=
+     CDS             1655926..1656423
+                     /locus_tag=""
+                     /old_locus_tag=""
+                     /inference=""
+                     /note=""
+                     /codon_start=1
+                     /transl_table=11
+                     /product=""
+                     /protein_id="gi|523414886|ref|NC_020540.2|_1611"
+                     /db_xref=""
+                     /translation="MSYFEHFMAANQAYVALHGTAHLPLKPKTKVAIVTCMDSRLHVAQ
+                     ALGLALGDAHILRNAGGRVTEDMIRSLVISQQQMGTREIVVLHHTDCGAQTFTNEGFAK
+                     HIHEHLGVDVSGQDFLPFQDVEDSVREDMAKIRASSLISDDVVINGAVYDVDTGKMTQV
+                     ME*"
+     gene            1666771..1667229
+                     /locus_tag=
+                     /old_locus_tag=
+     CDS             1666771..1667229
+                     /locus_tag=""
+                     /old_locus_tag=""
+                     /inference=""
+                     /note=""
+                     /codon_start=1
+                     /transl_table=11
+                     /product=""
+                     /protein_id="gi|523414886|ref|NC_020540.2|_1622"
+                     /db_xref=""
+                     /translation="MRSIIRLLKNLEVREYWVSSDIKWLCQNYPKWHKLRGIGMTRNTI
+                     DKDGQLSQENRYFIFSFKPDVLTFANCVRGHWQIESMHWLLDVVYHEDHHQTLDKRAAF
+                     NLNLIRKMCLYFLKVMVFPKKDLSYRRKQRYISVHLEDYLVQLFGERG*"
+     gene            443483..444631
+                     /locus_tag=
+                     /old_locus_tag=
+     CDS             443483..444631
+                     /locus_tag=""
+                     /old_locus_tag=""
+                     /inference=""
+                     /note=""
+                     /codon_start=1
+                     /transl_table=11
+                     /product=""
+                     /protein_id="gi|523414886|ref|NC_020540.2|_425"
+                     /db_xref=""
+                     /translation="MTDVYIAAGLRTPIGLVGKQFAKEQPEILGAKLINALQNKYPVPI
+                     DQVICGNTVGTGGNIGRLMTLYSHLGESVSALTVDMQCASAGAALSVGYAKIKAGMASN
+                     LLVGGIESSSLQPESVYASADWRQGAYKVAQFSPDSISPFAMIEGAERVAREHGFTKEY
+                     LNHWTLRSHQKASYCQEQALLADLILDLSGASDQGIRPRLSSKVLSKVPPILGEGHVIS
+                     AANACLTHDAAAFLQLSSQPSAFKLIDVVEVAGDPQRSPLMVIKASQVLLEKHGLGMAD
+                     MTAIEWNEAFAVIDGLFETHYPDLLDRYNIFGGALAYGHPYGASAAIIILHLMRALEIK
+                     NGRYGIAAIAAAGGQGFAVLLKYHKEFSHADKARILGKAMPK*"
+     gene            824376..825722
+                     /locus_tag=
+                     /old_locus_tag=
+     CDS             824376..825722
+                     /locus_tag=""
+                     /old_locus_tag=""
+                     /inference=""
+                     /note=""
+                     /codon_start=1
+                     /transl_table=11
+                     /product=""
+                     /protein_id="gi|523414886|ref|NC_020540.2|_773"
+                     /db_xref=""
+                     /translation="MFKKYSIKNRVWRAVVEIVFGVCITVLMIAIISLSFSKLNIVTSH
+                     NVGEEFYIKDKQSIKQLNNYMKTLGLDYVVFDRKTDKAMEGKYLSKEFSLFNEVAEEKN
+                     NLTFNSVHYDLYTNINYNIVIRYNEIPEFSNHYLRNVSYNMLTFYILGIGTSISIVVAL
+                     TRFVKEISLNFKEIKKLANKMGIEVLSENENYSKIIEFDDILRTLHIKGDNLKSLIERE
+                     ILEKQDLSFQIAALSHDIKTPLTVLKGNLELLELTTLNKNQEGYIVSMNNSISVFEGYF
+                     NSLISYTRMLSEDRSVKLILVEELLSELHFEVDDLLNINNIEFSICNRLIITSFYGDEE
+                     NLIRALSNLLVNAIRFMPVLDKKIEVILSESGEQIHFEIWNNGERFSDSTLKKGDKLFY
+                     TEDYSRGNKHYGIGLAFVKGVAIKHGGNLQLNNPARGGASAIISIKKKI*"
+     gene            359622..360485
+                     /locus_tag=
+                     /old_locus_tag=
+     CDS             359622..360485
+                     /locus_tag=""
+                     /old_locus_tag=""
+                     /inference=""
+                     /note=""
+                     /codon_start=1
+                     /transl_table=11
+                     /product=""
+                     /protein_id="gi|523414886|ref|NC_020540.2|_340"
+                     /db_xref=""
+                     /translation="MQVQKSFKDKKTSGTLYLVPTPIGNLQDMTFRAVATLKEVDFICA
+                     EDTRNTGLLLKHFDIATKQISFHEHNAYEKIPDLIDLLISGRSLAQVSDAGMPSISDPG
+                     HDLVKAAIDSDIAVVALPGASAGITALIASGLAPQPHVFYGFLPRKAGQQKAFFEDKHH
+                     YPETQMFYESPYRIKDTLTNMLACYGDRQVVLVRELTKLFEEYQRGSISEILSYLEETP
+                     LKGECLLIVAGAQADSEVELTADVDLVSLVQKEIQAGAKPNQAIKTIAKAYQVNRQELY
+                     QQFHDL*"
+     gene            309265..310161
+                     /locus_tag=
+                     /old_locus_tag=
+     CDS             309265..310161
+                     /locus_tag=""
+                     /old_locus_tag=""
+                     /inference=""
+                     /note=""
+                     /codon_start=1
+                     /transl_table=11
+                     /product=""
+                     /protein_id="gi|523414886|ref|NC_020540.2|_285"
+                     /db_xref=""
+                     /translation="MLYQQISQNKQRTVVLLVVFFALLALIGASAGYLLLDNYAMGLVL
+                     ALVIGVIYATSMIFQSTSLVMSMNNAREVTEKEAPGFFHIVEDMAMVAQIPMPRVFIIE
+                     DPSLNAFATGSSPQNAAVAATTGLLEVMNREELEGVIGHEISHIRNYDIRISTIAVALA
+                     SAVTVISSIGGRMLWYGGGSRRQRDDGDDDVLRIITLLLSLLSLLLAPLVASLIQLAIS
+                     RQREYLADASSVELTRNPQGMIKALEKLQLSQPMKHPVDDASAALYINEPRKKRSFSSL
+                     FSTHPPIEERIERLKNM*"
+     gene            293175..293483
+                     /locus_tag=
+                     /old_locus_tag=
+     CDS             293175..293483
+                     /locus_tag=""
+                     /old_locus_tag=""
+                     /inference=""
+                     /note=""
+                     /codon_start=1
+                     /transl_table=11
+                     /product=""
+                     /protein_id="gi|523414886|ref|NC_020540.2|_268"
+                     /db_xref=""
+                     /translation="MLTSKQRAFLKSEAHSLKPIVQIGKNGLNDHIKTSIRQALDAREL
+                     IKVTLLQNTDEDIHEVAEILEEEIGCDTVLKIGRILILYKVSAKKENRKLSPKVKAI*"
+     gene            714558..716657
+                     /locus_tag=
+                     /old_locus_tag=
+     CDS             714558..716657
+                     /locus_tag=""
+                     /old_locus_tag=""
+                     /inference=""
+                     /note=""
+                     /codon_start=1
+                     /transl_table=11
+                     /product=""
+                     /protein_id="gi|523414886|ref|NC_020540.2|_672"
+                     /db_xref=""
+                     /translation="MTHFSGKDPFVNMDDIFNQLMANMGGYRSENPRYLVNGREITPEE
+                     FQHYRQTGQLPVATTKATNSQMLTPKADSVLTQLGTNLTQEARQGHLDPVIGRNKEIQD
+                     TAEILARRTKNNPVLVGDAGVGKTAVIEGLAQAIVNGDVPAAIKNKEIVSIDISSLEAG
+                     TQYRGSFEETIQNLIQEVKEAGNIILFFDEIHQIVGAGATSSDSGSKGLADILKPALSR
+                     GELTLIGATTQDEYRNTILKNAALARRFNEVKVNAPSAEDTFHILMGIRNLYEQHHHIT
+                     LPDNVLKAAVDYSIQYIPQRSLPDKAIDLLDMTAAHLAAQHPVTDLKTLETEIAKQKES
+                     QEKAVAKEDFEKALAAKTRIETLQKQIEQHNQSQNVTATVNDIAESVERLTGIPVSNMG
+                     TNDLERLKGISSRLKSHVIGQDEAVAAVARAIRRNRAGFDDGKRPIGSFLFVGPTGVGK
+                     TELAKQLALDLFGSKDAIIRLDMSEYNDRTAVSKLIGTTAGYVGYDDNNNTLTERVRRN
+                     PYAIVLLDEIEKADPQIITLLLQVLDDGRLTDGQGNTINFKNTVIIATSNAGFGQQDTE
+                     TSESNIMDRIAPYFRPEFLNRFNSIIKFNHLQKESLEEIVDLMLAEVNQTTAKKGISLT
+                     ITDDAKAHLIDLGYNHAMGARPLRRIIEQEIRDRITDYYLDHPEVKKLQAILKEGQLVI
+                     RQNDQ*"
+     gene            445930..446925
+                     /locus_tag=
+                     /old_locus_tag=
+     CDS             445930..446925
+                     /locus_tag=""
+                     /old_locus_tag=""
+                     /inference=""
+                     /note=""
+                     /codon_start=1
+                     /transl_table=11
+                     /product=""
+                     /protein_id="gi|523414886|ref|NC_020540.2|_427"
+                     /db_xref=""
+                     /translation="MKQAILDRYQALKCYQNAGLSNQAFRAIAKEPIIDNRLGSPTFWV
+                     IWPIEKENQSAKQLLTFLLDLVEMPFELSGQLHETQTLLTRFHPSLLPDHMFWKELASL
+                     VDQAFPGKTLSQAGELEKRLHQFRYVISSQQAQSIRNHYKMIEMTDAQALALFLRSKKG
+                     PCLWRQAPDYTLMDSARLHNKLRFEDNKVIFPSQEVSYNIKVLLWFHTEFTLDSTGFFL
+                     NEVDAEVVTEKGIVNGASFNYGTDGPRHWDLDVDPISHHDPQFRRDTLKGFRSPKRVFR
+                     QWFRAQKDDFMFSYFNAKGLFAYHNKSSFARVKKSAKQFKRQIHPIKGWF*"
+     gene            1650437..1651720
+                     /locus_tag=
+                     /old_locus_tag=
+     CDS             1650437..1651720
+                     /locus_tag=""
+                     /old_locus_tag=""
+                     /inference=""
+                     /note=""
+                     /codon_start=1
+                     /transl_table=11
+                     /product=""
+                     /protein_id="gi|523414886|ref|NC_020540.2|_1607"
+                     /db_xref=""
+                     /translation="MMVIYSMALFYATIFINSWVIFAKVSAIKLSWKRVSIIGISFVIA
+                     NMIFDKVILIDQLFFIIVSLLSAPKKKLFEHMFNGFFTILIVELLFRVIGSFFLPAVLG
+                     FSIGQINNNLKLLELCYLFVLPIFYLFSYIFSIDLSLIRFISEDKMKKWVFWMNTAMFS
+                     YYFFAHFLVTVQSGFLALYFQYRSILVFIYLAIFIWVIVKLDRFAKDQLSQKLTQAQNE
+                     RIAYLENYNQSIEQLYREIRTVKHDSENILISLKDSIDSGDIDLITRVYDTVIQQSATS
+                     MMRTNYEISSLDNIKEAVIRSIMNSKLLEAQYLGIELYIEIPDVIDHLPIKLIDLIVLF
+                     TGLVDNAIETAKGSRRPFLSIAYFKQDNKQLFIIENSTKTNRVDIAKRFDAQQQNSAHF
+                     LTVLDSYPQITLSTKSDHYRLRQLLEMR*"
+     gene            711471..711641
+                     /locus_tag=
+                     /old_locus_tag=
+     CDS             711471..711641
+                     /locus_tag=""
+                     /old_locus_tag=""
+                     /inference=""
+                     /note=""
+                     /codon_start=1
+                     /transl_table=11
+                     /product=""
+                     /protein_id="gi|523414886|ref|NC_020540.2|_668"
+                     /db_xref=""
+                     /translation="MQRSIFGVFTAFLCVICVLCAIPAFKKNRYGLASLFLLNAFTNLV
+                     NSIHAFYGTLF*"
+     gene            813841..815637
+                     /locus_tag=
+                     /old_locus_tag=
+     CDS             813841..815637
+                     /locus_tag=""
+                     /old_locus_tag=""
+                     /inference=""
+                     /note=""
+                     /codon_start=1
+                     /transl_table=11
+                     /product=""
+                     /protein_id="gi|523414886|ref|NC_020540.2|_762"
+                     /db_xref=""
+                     /translation="MNELIKHKLELLPDSPGCYLHKDKEGTIIYVGKAKNLKKRVRSYF
+                     RGSHDTKTELLVSEIVDFEYIVTESDTEALLLEINLIQKNMPKYNIKLKDDKSYPFLKI
+                     TNESFPRLVITRYIKKNDGLYFGPYPDSYTANEVKKLLDRIFPFKKCKNPINKVCFYYH
+                     LGQCCAHTICHTDKAYWDRLIDDVKHFLNGKDDKIIEDLRSKMLAASKEMAFERAAEYR
+                     DLISGIATMRTKQRVMSKDLQDRDIFGYYVDKGWMCVQVFFVRQGKLIQRDVNLFPYYT
+                     DAEEDFLTYMGQFYQDKQHFIPKEVFIPEAIDEELVAAIVPTKIIKPKRGEKKQLVALA
+                     TKNARVSLQQKFDLLEKDIKKTSGAIENLGQLLRIDKPVRIEAFDNSNIQGTSPVAAMV
+                     VFVDGKPSKKDYRKFKIKTVVGPDDYASMREVLFRRYSRVKKEGLQAPNLIIVDGGVGQ
+                     VNVAKDVIEKQLGLTIPVAGLQKNDKHQTHDLLFGNPLEVVPLPRRSEEFFLLHRIQDE
+                     VHRFAVTFHRQVRRKNSFSSTLDHISGLGPKRKQLLLRHFKTITAIASATSEEIQALGI
+                     PKTVVEAIQQQITDNKNDRSSP*"
+     gene            1653458..1654903
+                     /locus_tag=
+                     /old_locus_tag=
+     CDS             1653458..1654903
+                     /locus_tag=""
+                     /old_locus_tag=""
+                     /inference=""
+                     /note=""
+                     /codon_start=1
+                     /transl_table=11
+                     /product=""
+                     /protein_id="gi|523414886|ref|NC_020540.2|_1609"
+                     /db_xref=""
+                     /translation="MSKPIRVRYAPSPTGLLHIGNARTALFNYLYARRHGGTFIIRIED
+                     TDRKRHVEDGERSQLENLKWLGMDWDESPETHENYRQSERLALYQQYIDQLLAEGKAYK
+                     SYVTEEELAAERERQEAAGETPRYINEFIGMSADEKAKYIAEREAAGIVPTVRLAVNES
+                     GIYKWTDMVKGDIEFEGGNIGGDWVIQKKDGYPTYNFAVVVDDHDMQISHVIRGDDHIA
+                     NTPKQLMVYEALGWEAPEFGHMTLIINSETGKKLSKRDTNTLQFIEDYRKKGYMPEAVF
+                     NFIALLGWNPGGEEEIFSREQLIALFDENRLSKSPAAFDQKKMDWMSNEYLKHADFETV
+                     YALCKPFLEEAGRLTEKAEKLVELYKPQLKSADEIIPLTDLFFSDFPELTEAEKEVMAG
+                     ETVSTVLQAFKAKLEAMSDEDFKPENIFPQIKAVQKETGIKGKNLFMPIRIAVSGEMHG
+                     PELPNTIYLLGRDKSIEHIKNML*"
+     gene            270736..271473
+                     /locus_tag=
+                     /old_locus_tag=
+     CDS             270736..271473
+                     /locus_tag=""
+                     /old_locus_tag=""
+                     /inference=""
+                     /note=""
+                     /codon_start=1
+                     /transl_table=11
+                     /product=""
+                     /protein_id="gi|523414886|ref|NC_020540.2|_253"
+                     /db_xref=""
+                     /translation="MKQLVLKDVCKKYPNQLNYALDHINLIVEKGEFVAVMGRSGSGKT
+                     TLLNVTSIIDKIDSGNIYCADKEISTFSDKEATNFRKNDIGFVFQDYMLLDSLTIRENI
+                     SVALSLKNIDSSKIDDLINSYAKRFNLYEQLKKYPYQLSGGQRQRVSIIRAIIKEPEII
+                     FADEPTGALDLKSSEETMMILSEINKTEKVTILMVTHDVLSASYADRVILLKDGKLHME
+                     IDKKDCGESFYDVISQALSDRGE*"
+     gene            299874..300719
+                     /locus_tag=
+                     /old_locus_tag=
+     CDS             299874..300719
+                     /locus_tag=""
+                     /old_locus_tag=""
+                     /inference=""
+                     /note=""
+                     /codon_start=1
+                     /transl_table=11
+                     /product=""
+                     /protein_id="gi|523414886|ref|NC_020540.2|_276"
+                     /db_xref=""
+                     /translation="MSFKKWIGIVGIALASTVLVACSEKQDDKNTLTIGVMTKTESDQA
+                     RWDKVEELLKKDNITLKYKEFTDYSQPNKAVANGEVDINAFQHYNFLNNWNKENKEHLV
+                     AIADTYISPINLFSGTSQDGKAKYKSVADLPNGTQIAVPNDATNESRALYVLQSAGLIK
+                     LNVSGDQLATIANISENKKKLDIKELDASQTARALVSADAAVVNNSYAVPAKIDYKTSL
+                     FKEKADDNSKQWINIIAGQKDWEKSEKADAIKKLIKAYQTDEVKKVVEKTSNGIDVSVW
+                     *"
+     gene            1669308..1672802
+                     /locus_tag=
+                     /old_locus_tag=
+     CDS             1669308..1672802
+                     /locus_tag=""
+                     /old_locus_tag=""
+                     /inference=""
+                     /note=""
+                     /codon_start=1
+                     /transl_table=11
+                     /product=""
+                     /protein_id="gi|523414886|ref|NC_020540.2|_1625"
+                     /db_xref=""
+                     /translation="MRKKQKLPFDKLAIALMSTSILLNAQSDIKANTVTEDTPATEQAV
+                     ETPQPTAVSEEAPSSKETKTPQTPDDAEETIADDANDLAPQAPAKTADTPATSKATIRD
+                     LNDPSQVKTLQEKAGKGAGTVVAVIDAGFDKNHEAWRLTDKTKARYQSKEDLEKAKKEH
+                     GITYGEWVNDKVAYYHDYSKDGKTAVDQEHGTHVSGILSGNAPSETKEPYRLEGAMPEA
+                     QLLLMRVEIVNGLADYARNYAQAIIDAVNLGAKVINMSFGNAALAYANLPDETKKAFDY
+                     AKSKGVSIVTSAGNDSSFGGKTRLPLADHPDYGVVGTPAAADSTLTVASYSPDKQLTET
+                     ATVKTADQQDKEMPVLSTNRFEPNKAYDYAYANRGMKEDDFKDVKGKIALIERGDIDFK
+                     DKIANAKKAGAVGVLIYDNQDKGFPIELPNVDQMPAAFISRKDGLLLKENPQKTITFNA
+                     TPKVLPTASGTKLSRFSSWGLTADGNIKPDIAAPGQDILSSVANNKYAKLSGTSMSAPL
+                     VAGIMGLLQKQYETQYPDMTPSERLDLAKKVLMSSATALYDEDEKAYFSPRQQGAGAVD
+                     AKKASAATMYVTDKDNTSSKVHLNNVSDKFEVTVTVHNKSDKPQELYYQATVQTDKVDG
+                     KLFALAPKALYETSWQKITIPANSSKQVTIPIDVSQFSKDLLAPMKNGYFLEGFVRFKQ
+                     DPTKEELMSIPYIGFRGDFGNLSALEKPIYDSKDGSSYYHEANSDAKDQLDGDGLQFYA
+                     LKNNFTALTTESNPWTIIKAVKEGVENIEDIESSEITETIFAGTFAKQDDDSHYYIHRH
+                     ANGKPYAAISPNGDGNRDYVQFQGTFLRNAKNLVAEVLDKEGNVVWTSEVTEQVVKNYN
+                     NDLASTLGSTRFEKTRWDGKDKDGKVVANGTYTYRVRYTPISSGAKEQHTDFDVIVDNT
+                     TPEVATSATFSTEDRRLTLASKPKTSQPVYRERIAYTYMDEDLPTTEYISPNEDGTFTL
+                     PEEAETMEGATVPLKMSDFTYVVEDMAGNITYTPVTKLLEGHSNKPEQDGSDQAPDKKP
+                     ETKPEQDGSGQAPDKKPETKPEQDGSGQTPDKKPETKPEKDSSGQTPGKTPQKGQPSRT
+                     LEKRSSKRALATKASTKDQLPTTNDKDTNRLHLLKLVMTTFFLGLVAHIFKTKRTED*"
+     gene            1675020..1675838
+                     /locus_tag=
+                     /old_locus_tag=
+     CDS             1675020..1675838
+                     /locus_tag=""
+                     /old_locus_tag=""
+                     /inference=""
+                     /note=""
+                     /codon_start=1
+                     /transl_table=11
+                     /product=""
+                     /protein_id="gi|523414886|ref|NC_020540.2|_1627"
+                     /db_xref=""
+                     /translation="MNIRNKIENSKTLLFTSLVAVALLGATQPVSAETYTSRNFDWSGD
+                     DWSGDDWPEDDWSSDKKDETEDKTRPPYGEALGTGYEKRDDWGGPGTVATDPYTPPYGG
+                     ALGTGYEKRDDWGGPGTVATDPYTPPYGGALGTGYEKRDDWRGPGHIPKPENEQSPNPS
+                     HIPEPPQIEWPQWNGFDGFDGLSSGPSDWGQSEDTPRFPSEPRVTEKPQHTPQKNPQES
+                     DFDRGFSAGLKAKNSGRGIDFEGFQYGGWSDEYKKGYMQAFGTPYTPSAT*"
+     gene            1450423..1450947
+                     /locus_tag=
+                     /old_locus_tag=
+     CDS             1450423..1450947
+                     /locus_tag=""
+                     /old_locus_tag=""
+                     /inference=""
+                     /note=""
+                     /codon_start=1
+                     /transl_table=11
+                     /product=""
+                     /protein_id="gi|523414886|ref|NC_020540.2|_1425"
+                     /db_xref=""
+                     /translation="MVQQSLVIEEGVPQDAKAVLSLVTAAAKETDFITGVETILEATPQ
+                     ELSDFLSRSQTSFIDFCLLARLDEKVVGLLNLSGEVLSQGQAEADVFMLVAKTYRGYGI
+                     GQLLLEIALDWAEENPYIESLKLDVQVRNTKAIYLYKKYGFRIESMRKNDIKSKNGDDL
+                     DVYHMRKSVSQ*"
+     gene            742680..743588
+                     /locus_tag=
+                     /old_locus_tag=
+     CDS             742680..743588
+                     /locus_tag=""
+                     /old_locus_tag=""
+                     /inference=""
+                     /note=""
+                     /codon_start=1
+                     /transl_table=11
+                     /product=""
+                     /protein_id="gi|523414886|ref|NC_020540.2|_697"
+                     /db_xref=""
+                     /translation="MKHLKTPPLVMSGLALGTLSFGNLLATYVSIFNYLGILAALFIYG
+                     ILLVGMVRNLNDTKMQLRQPLIASVFPTFFMTGMLLSSLFLKVTGGCWLGFLTWWLFFL
+                     GNLVLIAYYQYRFVFSFSWDNVFPSWSVLFVGIAMAALTAPASRQFLLGQVIFWVCLLL
+                     TAVILPFMAKKTYGIGLGQAVMPNISTFCAPLSLLSASYLATFPRPQVGMVIFLLVSSQ
+                     LLYAFVVVQLPRLLNRPFNPGFSAFTFPFVISATSLKMTLSFLGWQGLGWQVLLLGEVL
+                     LATALVTYVYGAYLRFLFQNK*"
+     gene            840459..841235
+                     /locus_tag=
+                     /old_locus_tag=
+     CDS             840459..841235
+                     /locus_tag=""
+                     /old_locus_tag=""
+                     /inference=""
+                     /note=""
+                     /codon_start=1
+                     /transl_table=11
+                     /product=""
+                     /protein_id="gi|523414886|ref|NC_020540.2|_794"
+                     /db_xref=""
+                     /translation="MKKFANLYLASVFVLLYIPIFYLIFYSFNKGGDMNGFTGFTLEHY
+                     QTMFEDSRLMTILLQTFVLAFSSALLATIIGIFGAIFIHHVRGKYQNAMLSANNVLMVS
+                     PDVMIGASFLILFTSLKFQLGMSSVLLSHIAFSIPIVVLMVLPRLKEMNQDMVNAAYDL
+                     GANYFQMLKEVMLPYLTPGIIAGYFMAFTYSLDDFAVTFFLTGNGFTTLSVEIYSRARQ
+                     GISLDINALSTIVFFFSILLVIGYYYMSQDKEEKHA*"
+     gene            954839..955072
+                     /locus_tag=
+                     /old_locus_tag=
+     CDS             954839..955072
+                     /locus_tag=""
+                     /old_locus_tag=""
+                     /inference=""
+                     /note=""
+                     /codon_start=1
+                     /transl_table=11
+                     /product=""
+                     /protein_id="gi|523414886|ref|NC_020540.2|_907"
+                     /db_xref=""
+                     /translation="MANIKSAIKRAELNVKANEKNSAQKSAMRTAIKAFEANPSEELFR
+                     AASSSIDKAESKGLIHKNKASRDKARLAAKLG*"
+     gene            821195..821563
+                     /locus_tag=
+                     /old_locus_tag=
+     CDS             821195..821563
+                     /locus_tag=""
+                     /old_locus_tag=""
+                     /inference=""
+                     /note=""
+                     /codon_start=1
+                     /transl_table=11
+                     /product=""
+                     /protein_id="gi|523414886|ref|NC_020540.2|_768"
+                     /db_xref=""
+                     /translation="MLNSAPSETEKSETEGSETKESNLVIEDEEERKECTSVKKTEGHF
+                     TRQVDQVTKYDKDYIWSLVHSQLREGGLSQAASDLVMSYFEERYAYALEHIRFARTAEA
+                     IAEYVFNGVLSEWTKQLR*"
+     gene            352842..354476
+                     /locus_tag=
+                     /old_locus_tag=
+     CDS             352842..354476
+                     /locus_tag=""
+                     /old_locus_tag=""
+                     /inference=""
+                     /note=""
+                     /codon_start=1
+                     /transl_table=11
+                     /product=""
+                     /protein_id="gi|523414886|ref|NC_020540.2|_332"
+                     /db_xref=""
+                     /translation="MSTEKKQLTQEELMVQGAAWSTAGNFISRLLGVLYIIPWYIWMGQ
+                     YAIQANALFNMGYNVYAYFLLISTTGLNVAIAKQVAKYNSMGQTEHSYQLIRSTLKLML
+                     GLGLIFSAIMYLGSPLFASLSGGDDTLVPIMHSLSLAVFIFPVMSVIRGIFQGHNNIKP
+                     YAVSQIAEQLIRVIWMLLTTFFIMKLGSGDYASAVTQSTFAAFIGMVASMGVLGYYLWK
+                     QGLLAAIFSKPDHTVSIDIKGLLLETLKESIPFIVTGSAIQAFQLIDQWTFVNTMTLFT
+                     DYSRSQLLVLFGYFNANPAKITMVLIAVAASIGGVGIALLTENYVKKDMKAAARLIINN
+                     IEMLVMFLLPALTGAIILARPLYSVFYGASEERAIHLFVAVLFQTLLLALYTLFSPMLQ
+                     ALFENRKAIYYFAYGILIKLVLQIPLIYLLHAYGPLLATTIALVVPIYLMYRRLYQVTH
+                     FNRKLLQKRLLLTLIETLLMGLVVFVANWLLGYAFKPTGRLTSLLYLLIIGGLGMTVYT
+                     ALTLLTHQLDKLIGSKASRLRQKLGWH*"
+     gene            1437717..1438115
+                     /locus_tag=
+                     /old_locus_tag=
+     CDS             1437717..1438115
+                     /locus_tag=""
+                     /old_locus_tag=""
+                     /inference=""
+                     /note=""
+                     /codon_start=1
+                     /transl_table=11
+                     /product=""
+                     /protein_id="gi|523414886|ref|NC_020540.2|_1402"
+                     /db_xref=""
+                     /translation="MKIYKVKVKFRQTCHKKFKGKKYSYFSFEELRVGDLVVVETVYGP
+                     SVAKVTEVVDANELFTATSYVISKVDTSLLAGKKELMATALTVKANIDAETAEFAAKYK
+                     DAYYLGLFDQYKNQNPELAELLTQLKEL*"
+     gene            293552..294184
+                     /locus_tag=
+                     /old_locus_tag=
+     CDS             293552..294184
+                     /locus_tag=""
+                     /old_locus_tag=""
+                     /inference=""
+                     /note=""
+                     /codon_start=1
+                     /transl_table=11
+                     /product=""
+                     /protein_id="gi|523414886|ref|NC_020540.2|_269"
+                     /db_xref=""
+                     /translation="MALELLTPFTKVELEEEKKESNRKQIGILGGNFNPIHNAHLVVAD
+                     QVRQQLGLDQVLLMPECKPPHVDAKETIDEKHRLRMLELAIEDVEGLAIETCELERQGI
+                     SYTYDTMLYLTEQHPDVDFYFIIGADMVDYLPKWHRIDELVKLVQFVGVQRPKYKAGTS
+                     YPVIWVDLPLIDISSSMIRDFIKKGRQPNYLLPKRVLDYITQEGLYQ*"
+     gene            1316985..1317626
+                     /locus_tag=
+                     /old_locus_tag=
+     CDS             1316985..1317626
+                     /locus_tag=""
+                     /old_locus_tag=""
+                     /inference=""
+                     /note=""
+                     /codon_start=1
+                     /transl_table=11
+                     /product=""
+                     /protein_id="gi|523414886|ref|NC_020540.2|_1280"
+                     /db_xref=""
+                     /translation="MSKIKVILVDDHEMVRMGLKSFLNLQADIDVVGEASNGREGVDLA
+                     LALKPDVLVMDLVMPELGGVEATLEVLKKWKEAKVLVLTSYLDNEKIYPVIDAGAKGYM
+                     LKTSSAAEILNAIRKVSKGELAIETEVDKKIKAHDQHPDLHEELTAREYDILHLLAKGY
+                     DNQTIADELFISLKTVKTHVSNILAKLEVGDRTQAVVYAFRHHLVPQDDN*"
+     gene            308661..309218
+                     /locus_tag=
+                     /old_locus_tag=
+     CDS             308661..309218
+                     /locus_tag=""
+                     /old_locus_tag=""
+                     /inference=""
+                     /note=""
+                     /codon_start=1
+                     /transl_table=11
+                     /product=""
+                     /protein_id="gi|523414886|ref|NC_020540.2|_284"
+                     /db_xref=""
+                     /translation="MPTVLIILVVLGVLALWLMISYNSLVKSRMHTKEAWSQIDVQLKR
+                     RNDLIPNLIETVKGYASYEQKTFEKITDLRARVANASTPQETMAASNELSKQVTSLFAV
+                     AENYPDLKANENFLKLQEELTNTENKISYSRQLYNSTTSNYNLQLESFPSNIAGKLFGF
+                     KPSEFLQTPEAEKEVPKVEFNF*"
+     gene            1317619..1318623
+                     /locus_tag=
+                     /old_locus_tag=
+     CDS             1317619..1318623
+                     /locus_tag=""
+                     /old_locus_tag=""
+                     /inference=""
+                     /note=""
+                     /codon_start=1
+                     /transl_table=11
+                     /product=""
+                     /protein_id="gi|523414886|ref|NC_020540.2|_1281"
+                     /db_xref=""
+                     /translation="MKKRYYALVWLYSTITILSIVFVVMDNLGITFNYLRNHLWQVERL
+                     GFSILLLIVSVTLLLLLLWIIMDDNSKRNINQNLKYILNNRRLYLDETSEINTNLSRLS
+                     KKMSHLTANMQKKESAYILDSQEVVKQERKRIARDLHDTVSQELFASSLILSGISMSLE
+                     QLDKTQLQTQLTTVEAMLQNAQNDLRILLLHLRPTELANRTLSEGLHMILKELTDKSDI
+                     EVIYKETIAQLPKTMEDNLFRIAQEFISNTLKHAKASRIEVYLNQTSTELQLKMIDDGV
+                     GFDMDQVRDLSYGLKNIEDRVNDLAGNLHLISQKGKGVSMDIRLPIVKGDDDE*"
+     gene            315258..316160
+                     /locus_tag=
+                     /old_locus_tag=
+     CDS             315258..316160
+                     /locus_tag=""
+                     /old_locus_tag=""
+                     /inference=""
+                     /note=""
+                     /codon_start=1
+                     /transl_table=11
+                     /product=""
+                     /protein_id="gi|523414886|ref|NC_020540.2|_291"
+                     /db_xref=""
+                     /translation="MEKIGETMAKLGQNTRVNSDQLIQTILADPEVASFISQHHLSQEQ
+                     INLSLSKFNQFLVERQKYQLKDPSYIAKGYQPILAMNEGYADVSYLETKELVEAQKQAA
+                     ISERIQLVSLPKSYRHIHLSDIDVNNASRMEAFSAILDFVEQYPSAEQKGLYLYGDMGI
+                     GKSYLLAAMAHELSEKKGVSTTLLHFPSFAIDVKNAISNGSVKEEIDAVKNVPVLILDD
+                     IGAEQATSWVRDEVLQVILQYRMLEELPTFFTSNYSFADLERKWATIKGSDETWQAKRV
+                     MERVRYLAREFHLEGANRR*"
+     gene            806716..808365
+                     /locus_tag=
+                     /old_locus_tag=
+     CDS             806716..808365
+                     /locus_tag=""
+                     /old_locus_tag=""
+                     /inference=""
+                     /note=""
+                     /codon_start=1
+                     /transl_table=11
+                     /product=""
+                     /protein_id="gi|523414886|ref|NC_020540.2|_755"
+                     /db_xref=""
+                     /translation="MRGEQVEEHFKKQLQDDISRHFSYQSLMLSLLLIGLFIIFSLAPQ
+                     QLGLYRDINATATRYHRLISKQEALLDDLGKNSLLPFLNKNLSTADLSKHYFHLRHSSQ
+                     TSPELLLFSPSQDLLFASNPHLGNVFSKSVYIQEVLRATHPPKTLFKVAMDSEDGHYLM
+                     IIKPMIDQNQLKGYAFLVMSGKDFLHPTKTLTSELVIADKLDNTFTFSNREFIASSLDK
+                     INSQYLHHYFVFQDNRAFITRKVALQGGLWLYMYRPLIPMVSVMLFSLISSAVIFVILQ
+                     RKSSGLANRIAAKNSRAINQMVRDMSAISRQEKRRIDLESQDEFQYLSDQINQMVERLQ
+                     QLHDKTLDLETQKLLFEKRMLEAQFNPHFLYNTLETILITSHYDSALTEKIVIQLTKLL
+                     RYSLTDSSKPVLLKDDLSVIESYLVINQVRFEELQYSINLSPDLDSLEVPKLFLLPLIE
+                     NAIKYGLKERHDVKINIACYYQDDHIIFSVRDNGSGIDAHHQKVIREQLEAGESHHGLI
+                     NSYRRLKYHFSEVSLVFDQGDKQFNVSYHVKE*"
+     gene            1692371..1692514
+                     /locus_tag=
+                     /old_locus_tag=
+     CDS             1692371..1692514
+                     /locus_tag=""
+                     /old_locus_tag=""
+                     /inference=""
+                     /note=""
+                     /codon_start=1
+                     /transl_table=11
+                     /product=""
+                     /protein_id="gi|523414886|ref|NC_020540.2|_1643"
+                     /db_xref=""
+                     /translation="MDNPKKDKGLSLGVVDPITILITESVINKMRTVPYHLKNCQAQPI
+                     VC*"
+     gene            362309..363136
+                     /locus_tag=
+                     /old_locus_tag=
+     CDS             362309..363136
+                     /locus_tag=""
+                     /old_locus_tag=""
+                     /inference=""
+                     /note=""
+                     /codon_start=1
+                     /transl_table=11
+                     /product=""
+                     /protein_id="gi|523414886|ref|NC_020540.2|_344"
+                     /db_xref=""
+                     /translation="MKLISWNIDSLNAALTGESPRALLSRAVLDTLVAQDADIIAIQET
+                     KLSAKGPTKKHIETLLSYFPNYLHVWRSSVEPARKGYAGTMFLYKNTLNPVITFPEIGA
+                     PTTMDAEGRIITLEFEDFFVTQVYTPNAGDGLRRLDDRQIWDHKYADYLTELDAQKPVL
+                     ATGDYNVAHKEIDLANPNSNRRSPGFTDEERQGFTNLLARGFTDTFRHVHGDIPHVYTW
+                     WAQRSKTSKINNTGWRIDYWLASNRLVDKVKRSEMISSGERQDHTPILLDIDL*"
+     gene            358650..358889
+                     /locus_tag=
+                     /old_locus_tag=
+     CDS             358650..358889
+                     /locus_tag=""
+                     /old_locus_tag=""
+                     /inference=""
+                     /note=""
+                     /codon_start=1
+                     /transl_table=11
+                     /product=""
+                     /protein_id="gi|523414886|ref|NC_020540.2|_338"
+                     /db_xref=""
+                     /translation="MGKRSLSKDLPVATKVAAHKGKKAFEENTAFATDLMKEVSRLITQ
+                     NQLEMTFVNSVFLLDQHVVLIPFSAEEHMDFYNC*"
+     gene            842356..843021
+                     /locus_tag=
+                     /old_locus_tag=
+     CDS             842356..843021
+                     /locus_tag=""
+                     /old_locus_tag=""
+                     /inference=""
+                     /note=""
+                     /codon_start=1
+                     /transl_table=11
+                     /product=""
+                     /protein_id="gi|523414886|ref|NC_020540.2|_796"
+                     /db_xref=""
+                     /translation="MNVLIIEDDPMVDFIHRNYLEKLNLFDRIISSDSMKAVQSILTDY
+                     AIDLILLDIHITDGNGIQFLEKWRTQHIPCEVIIISAANDGNIIRDGFHLGIIDYLIKP
+                     FTFERFQESIQQFVTHREHLANQQLEQAQIDQLKCLTSKKDTKNKQLLEKGLSESTFQW
+                     IMENIKVFDQPFTIQELASACHLSHVSVRKYIAYLEENKQLNSQQIFTKVGRPYRVYW*
+                     "
+     gene            703356..704249
+                     /locus_tag=
+                     /old_locus_tag=
+     CDS             703356..704249
+                     /locus_tag=""
+                     /old_locus_tag=""
+                     /inference=""
+                     /note=""
+                     /codon_start=1
+                     /transl_table=11
+                     /product=""
+                     /protein_id="gi|523414886|ref|NC_020540.2|_660"
+                     /db_xref=""
+                     /translation="MKRQKMNENIGYGKAHSKIILIGEHAVVYGYPAIALPLTDIEVVC
+                     HIFPADKPLVFDFYDTLSTAIYASLDYLQRLQEPIAYEIVSQVPQKRGMGSSAAVSIAA
+                     IRAVFSYCQEPLSDDLLEILVNKAEIIAHTNPSGLDAKTCLSDHAIKFIRNIGFETIEI
+                     ALNGYLIIADTGIHGHTREAVNKVAQFEETNLPYLAKLGALTQALERAINQKNKVAIGQ
+                     LMTQAHSALKAIGVSISKADQLVEAALRAGALGAKMTGGGLGGCMIALADTKDMAEKIS
+                     HRLKEEGAVNTWIQML*"
+     gene            350281..351063
+                     /locus_tag=
+                     /old_locus_tag=
+     CDS             350281..351063
+                     /locus_tag=""
+                     /old_locus_tag=""
+                     /inference=""
+                     /note=""
+                     /codon_start=1
+                     /transl_table=11
+                     /product=""
+                     /protein_id="gi|523414886|ref|NC_020540.2|_330"
+                     /db_xref=""
+                     /translation="MTTISAEDLTIAYEQRTIIDKLSFYIPEGKITTIIGANGCGKSSL
+                     LKALTRLLPPKQGVVYLNGQNIATLETKEVAKKLALLPQVQEATNGITVYELVSYGRFP
+                     HQSYFGNLSPADKKAIHWAMQATNVMAYADQPVDALSGGQRQRVWLAMALAQGTDTIFL
+                     DEPTTYLDLNHQLEILELVKSLNKDAGKTIVMVLHDLNLSARYSDHLIAMKHGKIHYTG
+                     TIADVMTSPIIQDIFQIKPVLVDDPIHNCPIVLTYQLQ*"
+     gene            697791..698201
+                     /locus_tag=
+                     /old_locus_tag=
+     CDS             697791..698201
+                     /locus_tag=""
+                     /old_locus_tag=""
+                     /inference=""
+                     /note=""
+                     /codon_start=1
+                     /transl_table=11
+                     /product=""
+                     /protein_id="gi|523414886|ref|NC_020540.2|_655"
+                     /db_xref=""
+                     /translation="MIREIITDHFLLQQKAQVAKKEDLWIGQDLQDTLAFYRQECLGMA
+                     ANMIGEQKRIVIVSMGFIDLVMFNPVMVSKKGIYQTKESCLSLSGYRKTQRYDKITVEY
+                     LDHNWRPKRLSLTGLTAQICQHELDHLEGILI*"
+     gene            441953..442738
+                     /locus_tag=
+                     /old_locus_tag=
+     CDS             441953..442738
+                     /locus_tag=""
+                     /old_locus_tag=""
+                     /inference=""
+                     /note=""
+                     /codon_start=1
+                     /transl_table=11
+                     /product=""
+                     /protein_id="gi|523414886|ref|NC_020540.2|_424"
+                     /db_xref=""
+                     /translation="MAKLRCMHAIFIKQYLKQIMEYKVDFVVGVLGVFLTQGLNLLFLS
+                     VLFQHIPSLEGWTFEQIAFIYGFCLIPKGIDHLFFDNLWALGQRLVRKGEFDKYLTRPI
+                     SPLFHVLVETFQVDALGELLVGVILLVTTAGSIVWTLPKVLLFILVIPFATLIYTSLKI
+                     ATASISFWTKQSGAVIYIFYMFNDFSKYPMSIYHSFLRWLISFIIPFAFTAYYPASYFL
+                     TGQHLLFNIGGLVVVSLLVLALSLKLWKWGLDAYESADS*"
+     gene            307798..308511
+                     /locus_tag=
+                     /old_locus_tag=
+     CDS             307798..308511
+                     /locus_tag=""
+                     /old_locus_tag=""
+                     /inference=""
+                     /note=""
+                     /codon_start=1
+                     /transl_table=11
+                     /product=""
+                     /protein_id="gi|523414886|ref|NC_020540.2|_283"
+                     /db_xref=""
+                     /translation="MTPQDFYRTLEEDGFSLSSKQKEQFDTYFKSLVEWNTKINLTAIT
+                     EENEVYLKHFYDSIAPILQGFLANEPIKLLDIGAGAGFPSLPMKILFPNLEVTIIDSLN
+                     KRISFLTLLAQELGLENVHFFHGRAEDFGQDKAFRGQFDVVTARAVARMQVLSELTIPF
+                     LKIGGKLIALKAQAADQELEEAKNALCLLFGKVIKNHSYQLPNGDSRFITIVEKKKETP
+                     NKYPRKAGLPNKKPL*"
+     gene            1677666..1679255
+                     /locus_tag=
+                     /old_locus_tag=
+     CDS             1677666..1679255
+                     /locus_tag=""
+                     /old_locus_tag=""
+                     /inference=""
+                     /note=""
+                     /codon_start=1
+                     /transl_table=11
+                     /product=""
+                     /protein_id="gi|523414886|ref|NC_020540.2|_1629"
+                     /db_xref=""
+                     /translation="MYVSKLFTSQQWRELKLISYVTENADAIGVKDKELSKALNISMLT
+                     LQTCLTNMQFMKEVGGITYKNGYITIWYHQHCGLQEVYQKALRHSQSFKLLETLFFRDF
+                     NSLEELAEELFVSLSTLKRLIKKTNAYLMHTFGITILTSPVQVSGDEHQIRLFYLKYFS
+                     EAYKISEWPFGEILNLKNCERLLSLMIKEVDVRVNFTLFQHLKILSSVNLIRYYKGHSA
+                     VYDNKKTSQRFSQLIQSSLEFQDLSRLFHLKFGLYLDETTIAEMFSNHVNDQLEIGYAF
+                     DSIKQDSPTGCRKVTNWVHLLDELEIRLNLSVTNKYEVAVILHNTTVLKEEDITANYLF
+                     FDYKKSYLNFYKQEHPHLYKAFVAGVEKLMRSEKEPISTELTNQLIYAFFITWENSFLK
+                     VNQKDEKIRLLVIERSFNSVGNFLKKYVGEFFSITNFNELDALTIDLEEIEKQYDVIVT
+                     DVMVGKSEELEIFFFHKMIPEAIIDKLNAFLNISFADSLPLDKPINPLDFHRKEVILPT
+                     PPNKLHAPPSTT*"
+     gene            742024..742443
+                     /locus_tag=
+                     /old_locus_tag=
+     CDS             742024..742443
+                     /locus_tag=""
+                     /old_locus_tag=""
+                     /inference=""
+                     /note=""
+                     /codon_start=1
+                     /transl_table=11
+                     /product=""
+                     /protein_id="gi|523414886|ref|NC_020540.2|_696"
+                     /db_xref=""
+                     /translation="MPFIAKQTLKSQLIPQDNLLAESRFNEIMDFLTGDFPLVFRPMIN
+                     PHRYTISQDNQALEKVKQASYKRMDIAMTHLDSLIGESGHVYRDQQTIADAYAYAMALW
+                     SQKTPKSYENYPHLAAFMAKMVEDSAVQQVLNAAH*"
+     gene            300969..302033
+                     /locus_tag=
+                     /old_locus_tag=
+     CDS             300969..302033
+                     /locus_tag=""
+                     /old_locus_tag=""
+                     /inference=""
+                     /note=""
+                     /codon_start=1
+                     /transl_table=11
+                     /product=""
+                     /protein_id="gi|523414886|ref|NC_020540.2|_277"
+                     /db_xref=""
+                     /translation="MNEAIIQLDHIDITFRQKKRVIEAVKDVTVHINQGDIYGIVGYSG
+                     AGKSTLVRVINLLQAPTNGKITVDGDVTFDQGKIQLSADALRQKRRDIGMIFQHFNLMA
+                     QKTAKENVAFALRHSSLSKTEKEHKVIELLELVGLSERADNYPAQLSGGQKQRVAIARA
+                     LANDPKILISDEATSALDPKTTKQILALLQELNRKLGLTIVMITHEMQIVKDICNRVAV
+                     MQNGVLIEEGSVLDIFSNPKEALTQEFITTATGIDEALEKINQQDIVKHLPANALLAQL
+                     KYAGTSTDEPLLNSIYRQFEVTANILYGNIEILDHIPVGDMIVVLEGQAENILAAEKAL
+                     HEAGVDVSILKRGA*"
+     gene            357756..358631
+                     /locus_tag=
+                     /old_locus_tag=
+     CDS             357756..358631
+                     /locus_tag=""
+                     /old_locus_tag=""
+                     /inference=""
+                     /note=""
+                     /codon_start=1
+                     /transl_table=11
+                     /product=""
+                     /protein_id="gi|523414886|ref|NC_020540.2|_337"
+                     /db_xref=""
+                     /translation="MDLAQKAPNVYQAFQTILKKDRLNHAYLFSGDFANEEMALFLAKV
+                     IFCEQKKDQTPCGHCRSCQLIEQGDFADVTVLEPTGQVIKTDVVKEMMANFSQTGYENK
+                     RQVFIIKDCDKMHINAANSLLKYIEEPQGEAYIFLLTNDDNKVLPTIKSRTQVFQFPKN
+                     EAYLYQLAQEKGLLNHQAKLVAKLATNTSHLERLLQTSKLLELITQAERFVSIWLKDQL
+                     QAYLALNRLVQLATEKEEQDLVLTLLTLLLARERAQTPLTQLEAVYQARLMWQSNVNFQ
+                     NTLEYMVMSE*"
+     gene            1658610..1659377
+                     /locus_tag=
+                     /old_locus_tag=
+     CDS             1658610..1659377
+                     /locus_tag=""
+                     /old_locus_tag=""
+                     /inference=""
+                     /note=""
+                     /codon_start=1
+                     /transl_table=11
+                     /product=""
+                     /protein_id="gi|523414886|ref|NC_020540.2|_1614"
+                     /db_xref=""
+                     /translation="MIDLQEILANMNPNQKINYDRVMQQMAKVWEKESVRPSILMHVCC
+                     APCSTYTLEYLTQFADITVYFANSNIHPKDEYHRRAYVTQQFVSEFNAKTGNTVQFLEA
+                     DYVPNEYVRQVRGLEEEPEGGDRCRVCFDYRLDKTAQKAVELGFDYFASALTISPHKNS
+                     QTINDVGIDVQKVYTTKYLPSDFKKNNGYRRSVEMCEEYDIYRQCYCGCVYAAKMQGID
+                     LVQVKKDAKAFMADKDLDNDFTHIRFSYRGDEM*"
+     gene            951947..952336
+                     /locus_tag=
+                     /old_locus_tag=
+     CDS             951947..952336
+                     /locus_tag=""
+                     /old_locus_tag=""
+                     /inference=""
+                     /note=""
+                     /codon_start=1
+                     /transl_table=11
+                     /product=""
+                     /protein_id="gi|523414886|ref|NC_020540.2|_904"
+                     /db_xref=""
+                     /translation="MGTTDLVSCAVQASEYAYVPYSHFPVGAALKTKDGTIYTGCNIEN
+                     VSFGLTNCGERTAIFKAISDGHKELVEIAIYGETMQPVSPCGACRQVMAEFFDPSSLVT
+                     LIAKNGQTVEMTVGDLLPYSFTDLI*"
+     gene            744016..744915
+                     /locus_tag=
+                     /old_locus_tag=
+     CDS             744016..744915
+                     /locus_tag=""
+                     /old_locus_tag=""
+                     /inference=""
+                     /note=""
+                     /codon_start=1
+                     /transl_table=11
+                     /product=""
+                     /protein_id="gi|523414886|ref|NC_020540.2|_699"
+                     /db_xref=""
+                     /translation="MTKIKIVVIVGPTAVGKTALGISLAKAFNGEIISGDSQQVYRQLD
+                     IGTAKATQEEQEAAVHHLIDIREVTESYSAYDFVQDAQKSISDIVSRGKLPIIVGGTGL
+                     YLQSLLEGYHLGGQVDQEAVKAYRNELEQLDDHDLYERLQVNNITIEQVNRRRAIRALE
+                     LAQFADELENAETAYEPLIIGLNDDRQVIYDRINQRVNRMIENGLLEEAKWLYEHYPTV
+                     QASRGIGYKELFPYFVGEMTLAEASDQLKQNTRRFAKRQLTWFRNRMAVSFTAITAPDY
+                     PQVVHDRVRDFLGQKEKS*"
+     gene            1432795..1435179
+                     /locus_tag=
+                     /old_locus_tag=
+     CDS             1432795..1435179
+                     /locus_tag=""
+                     /old_locus_tag=""
+                     /inference=""
+                     /note=""
+                     /codon_start=1
+                     /transl_table=11
+                     /product=""
+                     /protein_id="gi|523414886|ref|NC_020540.2|_1399"
+                     /db_xref=""
+                     /translation="MKQEKLIVKSSPLQELHIATGSSRTAKTWKNITLTWQELVERLEK
+                     PTVTQETFAEYQKMSRAEKGQAKDVGGFVGGWLKQGKRKNENVQSRSLVALDADSPSKD
+                     FLDRLDLLADYAFVLYSTHSHSKKAAKYRLIIPTDRLMMPDEYEPVARYLANQLGMSNF
+                     DDTTYQSVRLMFWPSHSRDADFTFKYNDEAFLSVDEVLDTYPDWHDSSFWPESPTHAVK
+                     RQREAKKQGDPLSKKGLIGAFCRNYDIRQAIATFLSEVYEEGTTPDRYTYTDGSTANGL
+                     VIYDDVFAYSHHGTDPVGDTLVNAYDLVRIHKFGEQDSEAKDNTPTNKLPSSKAMNAFV
+                     SDLPEIKDHLMAEALGDFDEELPVEDDRSWLEIDERGEPEVNSYLLATQIIKEVPIYWD
+                     GLEFLRYDAKKGIWLPNAEEYLKSYISTKKLGKITKIRHISETVVAIKAQAFSSEVFTE
+                     SDLNKIVLANGVYDLRDNNFKTKFDPELHARSSHPVVYDPEATCETFEGFLRETVGAEN
+                     IDFIFEWFGYNFYREYTIQKMLFIYGSGGTGKSTLINILREMIGADNYSAVTLQYLMQE
+                     RFAKIGLYRKTANFDTDAKPQYLADGAALKMLTGEDTIHADRKNKEPINFYNYAKLSFA
+                     MNELPPMRDFSGGLKRRMMILEMDKVLTQEVKAKYPLDKIMSEVPGIFNRAMEGLRKAL
+                     SKRDFSISASMRSSVEKWEKGNDVVAMFLEDECELGEDFKVPVRDVYPAYKFYCQDSGY
+                     KPLAKNAFNHRLRELNYENKNVKSDGKQAKNWVGFRLKSEF*"
+     gene            1651717..1653063
+                     /locus_tag=
+                     /old_locus_tag=
+     CDS             1651717..1653063
+                     /locus_tag=""
+                     /old_locus_tag=""
+                     /inference=""
+                     /note=""
+                     /codon_start=1
+                     /transl_table=11
+                     /product=""
+                     /protein_id="gi|523414886|ref|NC_020540.2|_1608"
+                     /db_xref=""
+                     /translation="MANSEYMFLLLSIIVYYMTKIYIFSFLSDITLPVWKQLTILALAL
+                     FFNQFPYLSPLLIDPLLFLVVLRQETKQLFSLKALFLAVAPSVLVDLLSRFMGTIVIPY
+                     LFLSSGIYLGHIIFDLLAYLLIFPSFAIINYMIGKDYKMICQSGYSKRSHNFYQTLLIF
+                     VLVYYVDIFVILGFTDPFLHFHHSLFVPTPYKLLFLMFILLLVYLLSYFNHSSKEYLKN
+                     ELRREQQAYMTNLEIYGKHLEKLYRDVRAFQSDYLSRIERLGQAIKSESITQIQDIYAQ
+                     TVHEANDYWDDKHYNISKLRKINISSIKSLLSAKIISAEKSGIDLNVEVPDNIKETYIP
+                     ELDLLLLMSIFCDNAIEAALEAQQPHMSIAYFLLGDYQMFVVTNTTKKKVDINKIFEEG
+                     YSSKGSERGIGLSNAQRILKKYPYLSLRTKSFDKEFSQTLTMPKEEVDR*"
+     gene            360951..361580
+                     /locus_tag=
+                     /old_locus_tag=
+     CDS             360951..361580
+                     /locus_tag=""
+                     /old_locus_tag=""
+                     /inference=""
+                     /note=""
+                     /codon_start=1
+                     /transl_table=11
+                     /product=""
+                     /protein_id="gi|523414886|ref|NC_020540.2|_342"
+                     /db_xref=""
+                     /translation="MIKEFCAENLTLLPTLDAGQISRVELCDNLAVGGTTPSYGVIKEA
+                     CQLLHDKKISVATMIRPRGGDFVYNDLELKAMEEDILKAVEAGSDALVLGLLTTENQLD
+                     TDAIEQLLPATQGLPLVFHMAFDRIPTDHQHQALDQLIDYGFVRVLTHGSPEATPITDN
+                     VEQLKSLVTYANKRIEIMIGGGITAENCQSLSQLTGTAIVHGTKII*"
+     gene            1437149..1437706
+                     /locus_tag=
+                     /old_locus_tag=
+     CDS             1437149..1437706
+                     /locus_tag=""
+                     /old_locus_tag=""
+                     /inference=""
+                     /note=""
+                     /codon_start=1
+                     /transl_table=11
+                     /product=""
+                     /protein_id="gi|523414886|ref|NC_020540.2|_1401"
+                     /db_xref=""
+                     /translation="MTPSTTKVVTGKVRLSYAALLEPKAFEGQEAKYSTVILIPKTDKV
+                     TIKKIKDAQKAAYEAAKDNKLKGVKWERVKTTLRDGDEEMDTEEHPEYAGHMFMSVSSK
+                     TRPQIIDRYKNPVDSADEVYSGVYARVSLNAYAYNTAGNKGISCGLNNVQIVAKGDYLG
+                     GRSSADADFDEWNEEEDEDDIL*"
+     gene            818026..819402
+                     /locus_tag=
+                     /old_locus_tag=
+     CDS             818026..819402
+                     /locus_tag=""
+                     /old_locus_tag=""
+                     /inference=""
+                     /note=""
+                     /codon_start=1
+                     /transl_table=11
+                     /product=""
+                     /protein_id="gi|523414886|ref|NC_020540.2|_765"
+                     /db_xref=""
+                     /translation="MSITKEFDTITAISTPLGEGAIGIVRLSGTDALAIAQSVFKGKNL
+                     EQVASHTINYGHIINPKTGTIIDEVMVSVMLAPKTFTRENVVEINTHGGIAVTNEILQL
+                     LIRQGARMAEPGEFTKRAFLNGRVDLTQAEAVMDIIRAKTDKAMTIAVKQLDGSLSQLI
+                     NDTRQEILNTLAQVEVNIDYPEYDDVEEMTTALLREKTQEFQSLLESLLRTAKRGKILR
+                     EGLSTAIIGRPNVGKSSLLNNLLREDKAIVTDIAGTTRDVIEEYVNIKGVPLKLVDTAG
+                     IRETDDLVEQIGVERSKKALQEADLVLLVLNASEKLTDQDRALLNLSQDSNRIILLNKT
+                     DLEQKIELEQLPDDYIPISVLTNQNINLIEDRINQLFFDNAGLVEQDATYLSNARHISL
+                     IEKAVQSLEAVNDGLALGMPVDLLQVDLTRTWEILGEITGDAAPDELITQLFSQFCLGK
+                     *"
+     gene            704231..705175
+                     /locus_tag=
+                     /old_locus_tag=
+     CDS             704231..705175
+                     /locus_tag=""
+                     /old_locus_tag=""
+                     /inference=""
+                     /note=""
+                     /codon_start=1
+                     /transl_table=11
+                     /product=""
+                     /protein_id="gi|523414886|ref|NC_020540.2|_661"
+                     /db_xref=""
+                     /translation="MDPNVITVTSYANIAIIKYWGKENQAKMIPSTSSISLTLENMFTT
+                     TSVSFLPDTATSDQFYINGILQNDEEHTKISAIIDQFRQPGQAFVKMETQNNMPTAAGL
+                     SSSSSGLSALVKACDQLFDTQLDQKALAQKAKFASGSSSRSFFGPVAAWDKDSGAIYKV
+                     ETDLKMAMIMLVLNAAKKPISSREGMKLCRDTSTTFDQWVEQSAIDYQHMLTYLKTNNF
+                     EKVGQLTEANALAMHATTKTANPPFSYLTKESYQAMEAVKELRQEGFACYFTMDAGPNV
+                     KVLCLEKDLAQLAERLGKNYRIIVSKTKDLPDV*"
+     gene            311887..313389
+                     /locus_tag=
+                     /old_locus_tag=
+     CDS             311887..313389
+                     /locus_tag=""
+                     /old_locus_tag=""
+                     /inference=""
+                     /note=""
+                     /codon_start=1
+                     /transl_table=11
+                     /product=""
+                     /protein_id="gi|523414886|ref|NC_020540.2|_288"
+                     /db_xref=""
+                     /translation="MENQKQKQKKYKNSLPKRLSNIFFVLFFCIFSAFTLIAYSSTNYF
+                     LLKKEKQSVFQAVNIVRVRLSEVDSNFTLENLAEVLYKNDKTHLRIDDRKGSRVIRSER
+                     DITNTLDANQDIYVYNIDKQMIFTTDNEESSPGLHGPIGRVYHDHIEDQYRGFSMTQKV
+                     YSNRTGKFVGYVQVFHDLGNYYVIRARLLFWLLVVELFGTSLAYLIILITTRRFLKPLH
+                     NLHEVMRNISENPNNLNLRSDISSGDEIEELSVIFDNMLDKLETHTKLQSRFISDVSHE
+                     LRTPVAIIKGHIGLLQRWGKDDSDILEESLTATAHEADRMAIMINDMLDMVRVQGSFEG
+                     HQNDMTVLEDSIETVVGNFRVLREDFIFTWQSENPKTIARIYKNHFEQALMILIDNAVK
+                     YSRKEKKIAINLSVTGKQEAIVRVQDKGEGISKEDIEHIFERFYRTDKSRNRTSTQAGL
+                     GIGLSILKQIVDGYHLQMKVESELNEGSVFILHIPLAQSKES*"
+     gene            732145..734094
+                     /locus_tag=
+                     /old_locus_tag=
+     CDS             732145..734094
+                     /locus_tag=""
+                     /old_locus_tag=""
+                     /inference=""
+                     /note=""
+                     /codon_start=1
+                     /transl_table=11
+                     /product=""
+                     /protein_id="gi|523414886|ref|NC_020540.2|_689"
+                     /db_xref=""
+                     /translation="MTKKEITINNYNDDAIQVLEGLDAVRKRPGMYIGSTDATGLHHLI
+                     WEIVDNAVDEALSGFGDDIKVVINKDGSVSVADSGRGMPTGQHAMGIPTVQVIFTILHA
+                     GGKFGQGGYKTSGGLHGVGSSVVNALSAWLEVEITRDGSVYRQRFENGGKPVTTLKKVG
+                     TAPKSKSGTVVTFMPDDKIFSTIDFKFNTISERLKESAFLLKNVKMSLTDLRGDDPIIE
+                     EFHYENGVQDFVEYLNEDKETLTPVIYMEGQDQDFQVEVALQYNDGFSDNILSFVNNVR
+                     TKDGGSHETGLKSAITKAMNDYARKTNLLKEKDKNLEGSDYREGLSAVLSILVPEQHLQ
+                     FEGQTKDKLGSPLARPIVESIVSEKLTFFLLENGEVASHLVRKAIKARDAREAARKARD
+                     DSRNGKKNKKDKGLLSGKLTPAQSKNAKKNELYLVEGDSAGGSAKQGRDRKFQAILPLR
+                     GKVLNTEKAKMADILKNEEINTMVYTIGAGVGADFNLEDINYDKIIIMTDADTDGAHIQ
+                     TLLLTFFYRYMRPLVEAGHVYIALPPLYKMSKGKGKTEKIAYAWTDGELEDLRREFGKG
+                     AILQRYKGLGEMNANQLWETTMDPETRTLIRVTIDDLARAERRVSVLMGDKAAPRRQWI
+                     EDNVKFTLEENTVF*"
+     gene            1432133..1432408
+                     /locus_tag=
+                     /old_locus_tag=
+     CDS             1432133..1432408
+                     /locus_tag=""
+                     /old_locus_tag=""
+                     /inference=""
+                     /note=""
+                     /codon_start=1
+                     /transl_table=11
+                     /product=""
+                     /protein_id="gi|523414886|ref|NC_020540.2|_1398"
+                     /db_xref=""
+                     /translation="MRTEKDIENYLKKKTKGLCLKFTSPGTIGVPDRIVVMNTGTFFVE
+                     VKAPGKKPRPSQVAMHKKIKEAGQHVWVVDSYESVDMALKEMENWV*"
+     gene            1440009..1440395
+                     /locus_tag=
+                     /old_locus_tag=
+     CDS             1440009..1440395
+                     /locus_tag=""
+                     /old_locus_tag=""
+                     /inference=""
+                     /note=""
+                     /codon_start=1
+                     /transl_table=11
+                     /product=""
+                     /protein_id="gi|523414886|ref|NC_020540.2|_1407"
+                     /db_xref=""
+                     /translation="MMTTFEKIIKNLNRIERELVKPEAERRDSLPILSAQLSAIKQDLK
+                     LMLWIELPALNNVEKYEALYQGNDFKFSETFLERQATRKAFWRRLAKETFKEDQDKRNF
+                     VKLAEKEFKGATLSWQEFLWGKKK*"
+     gene            949130..950662
+                     /locus_tag=
+                     /old_locus_tag=
+     CDS             949130..950662
+                     /locus_tag=""
+                     /old_locus_tag=""
+                     /inference=""
+                     /note=""
+                     /codon_start=1
+                     /transl_table=11
+                     /product=""
+                     /protein_id="gi|523414886|ref|NC_020540.2|_902"
+                     /db_xref=""
+                     /translation="MTQHVIEMREITKKFGDFVANDHINLNVRKGEIHALLGENGAGKS
+                     TLMNMLAGLLEPTSGEIVINDKPVQIDSPSKSAKLGIGMVHQHFMLVEAFTVAENIILG
+                     NEVVKNGCLDLNQASKDIKVLSEKYGLAINPSAKVSDISVGAQQRVEILKTLYRGADIL
+                     IFDEPTAVLTPAEIKELMTIMKNLVKEGKSIILITHKLDEIRAVADRVTVIRRGKSIET
+                     VDVAGATSQDLAEMMVGRSVSFTTSKKAAEPKDVVLSIKNLEVDENRGVPAVKGLSLDV
+                     RAGEIVGIAGIDGNGQSELIQAITGLRKVKSGSIMIKNNEVTHLSSRKITELSVGHVPE
+                     DRHRDGLILDLSLAENTALQTYYKQPLSQNGILNYTKINDYARQLMKEFDVRGANELVP
+                     ARGFSGGNQQKAIIAREVDRDPDLLIVSQPTRGLDVGAIEYIHKRLIKERDKGKAVLVV
+                     SFELDEILNLSDRIAVIHDGKIQGIVSPENTNKQELGILMAGGSIHKEEGHV*"
+     gene            1688649..1688885
+                     /locus_tag=
+                     /old_locus_tag=
+     CDS             1688649..1688885
+                     /locus_tag=""
+                     /old_locus_tag=""
+                     /inference=""
+                     /note=""
+                     /codon_start=1
+                     /transl_table=11
+                     /product=""
+                     /protein_id="gi|523414886|ref|NC_020540.2|_1639"
+                     /db_xref=""
+                     /translation="MTHRFFLTPLSTLWRRLRPKRYSKKVLADEPTSYQPPAAHGPCDD
+                     IHQLLEDKSLSDDYLIATSAMRHLWYWGYSQIG*"
+     gene            738474..739679
+                     /locus_tag=
+                     /old_locus_tag=
+     CDS             738474..739679
+                     /locus_tag=""
+                     /old_locus_tag=""
+                     /inference=""
+                     /note=""
+                     /codon_start=1
+                     /transl_table=11
+                     /product=""
+                     /protein_id="gi|523414886|ref|NC_020540.2|_693"
+                     /db_xref=""
+                     /translation="MNEFEDLLNSVSEVNPGDVVTAEVLTVDNGQANVVIEGTGVEGVL
+                     TLRELTNDRDADINDFVKAGDTVEVLVLRQVVGKDTDTVTFLVSKKRLEARKAWDKLVG
+                     REGEVVTVKGTRAVKGGLSVEFEGLRGFIPASMIDTRFVRNTEKFVGQEFDAKIKEVDA
+                     AENRFILSRREVIEEAAKEARAEVFSKISEGAVVTGTVARLTSFGAFIDLGGVDGLVHV
+                     TELSHERNVSPKSVVSVGEEVEVKVLSIDEEAGRVSLSLKATTPGPWDGVEQKLAQGDV
+                     VEGKVKRLTDFGAFVEVLPGIDGLVHISQISHKRVENPKDVLSVGQEVTVKVLEVNAAD
+                     ERVSLSIKALEERPAQAEGDNKEEKRQSRPRRPKRESRRDYELPETQTGFSMADLFGDI
+                     EL*"
+     gene            447790..449142
+                     /locus_tag=
+                     /old_locus_tag=
+     CDS             447790..449142
+                     /locus_tag=""
+                     /old_locus_tag=""
+                     /inference=""
+                     /note=""
+                     /codon_start=1
+                     /transl_table=11
+                     /product=""
+                     /protein_id="gi|523414886|ref|NC_020540.2|_429"
+                     /db_xref=""
+                     /translation="MTRDIIGNLSTFELAILILLVFVAFYFIHLAVRDYRNARIIRMMS
+                     HKIRDLINGRYTDIIDEKADIELMELSDQLNDLSDVFRLTHENLAQEKNRLASILAYMS
+                     DGVLATDRSGKIIMINETARKQLNLSKEEALKKNITDLLEGDTSYTYRDLVSKTPVVTV
+                     NSRNDMGEFVSLRLRFALNRRESGFISGLVVVLHDTTEQEKEERERRLFVSNVSHELRT
+                     PLTSVKSYLEALDEGALKEDIAPSFIKVSLDETNRMMRMISDLLNLSRIDNQVTQLAVE
+                     MTNFTAFITSILNRFDLVKNQHTGTGKVYEIVRDYPITSVWIEIDNDKMTQVIENILNN
+                     AIKYSPDGGKITVRMKTTDTQLIISISDQGLGIPKTDLPLIFDRFYRVDKARSRAQGGT
+                     GLGLAIAKEIIKQHHGFIWAKSDYGKGSTFTIVLPYEKDAAIYEEWEEDVD*"
+     gene            812342..813739
+                     /locus_tag=
+                     /old_locus_tag=
+     CDS             812342..813739
+                     /locus_tag=""
+                     /old_locus_tag=""
+                     /inference=""
+                     /note=""
+                     /codon_start=1
+                     /transl_table=11
+                     /product=""
+                     /protein_id="gi|523414886|ref|NC_020540.2|_761"
+                     /db_xref=""
+                     /translation="MAYQTIYPYTNEVLHTFDNMTDQGLADVLERAHLLYKKWRKEDHL
+                     EERKAQLHQVANILRRDRDKYAEIMTKDMGKLFTEAQGEVNLCADIADYYADKADEFLM
+                     STPLETDSGQAYYLKQSTGVILAVEPWNFPYYQIMRVFAPNFIVGNPMVLKHASICPRS
+                     AQSFEELVLEAGAEAGSITNLFISYDQVSQVIADKRVVGVCLTGSERGGASIAEEAGKN
+                     LKKTTLELGGDDAFIILDDADWDQLEKVLYFSRLYNAGQVCTSSKRFIVLDKDYDRFKE
+                     LLTKVFKTAKWGDPMDPETTLAPLSSAQAKADVLDQIKLALDHGAELVYGGEAIDHPGH
+                     FVMPTIIAGLTKDNPIYYQEIFGPVGEIYKVSSEEEAIEVANDSNYGLGGTIFSSNQEH
+                     AKAVAAKIETGMSFINSGWTSLPELPFGGIKHSGYGRELSELGFTSFVNEHLIYIPNKT
+                     NNGNTKV*"
+     gene            311195..311881
+                     /locus_tag=
+                     /old_locus_tag=
+     CDS             311195..311881
+                     /locus_tag=""
+                     /old_locus_tag=""
+                     /inference=""
+                     /note=""
+                     /codon_start=1
+                     /transl_table=11
+                     /product=""
+                     /protein_id="gi|523414886|ref|NC_020540.2|_287"
+                     /db_xref=""
+                     /translation="MTKKILIIEDEKNLARFVSLELQHEGYEVIVEVNGREGLETALEK
+                     EFDLILLDLMLPEMDGFEVTRRLQTEKTTYIMMMTARDSIMDVVAGLDRGADDYIVKPF
+                     AIEELLARIRAIFRRQDIESEKKVPSQGIYRDLVLNPQNRSVNRGDDEISLTKREYDLL
+                     NILMTNMNRVMTREELLSNVWKYDEAVETNVVDVYIRYLRGKIDIPGKESYIQTVRGMG
+                     YVIREK*"
+     gene            953850..954770
+                     /locus_tag=
+                     /old_locus_tag=
+     CDS             953850..954770
+                     /locus_tag=""
+                     /old_locus_tag=""
+                     /inference=""
+                     /note=""
+                     /codon_start=1
+                     /transl_table=11
+                     /product=""
+                     /protein_id="gi|523414886|ref|NC_020540.2|_906"
+                     /db_xref=""
+                     /translation="MSNEFINFEKISRESWKTLHQKAKALLTQEELKSITSLNDNISIN
+                     DVIDIYLPLINLIQVYKIAQENLSFSKSLFLKKDIQLRPFIIGISGSVAVGKSTTSRLL
+                     QLLLSRTHPNSQVELVTTDGFLYPNQFLIEQGLLNRKGFPESYNMELLLDFLDSIKNGQ
+                     TAFAPVYSHDIYDIIPNQKQSFNNPDFLIVEGINVFQNQQNNRLYMSDYFDFSIYIDAD
+                     SSHIETWYIERFLSILKLAKRDPHNYYAQYAQLPRSEAIAFARNVWKTVNLENLEKFIE
+                     PTRNRAELILHKSADHKIDEIYLKK*"
+     gene            298703..299545
+                     /locus_tag=
+                     /old_locus_tag=
+     CDS             298703..299545
+                     /locus_tag=""
+                     /old_locus_tag=""
+                     /inference=""
+                     /note=""
+                     /codon_start=1
+                     /transl_table=11
+                     /product=""
+                     /protein_id="gi|523414886|ref|NC_020540.2|_275"
+                     /db_xref=""
+                     /translation="MIKKQYLGRATIALASTLVLAACGSSKTAESGNQGSSKEVLFATV
+                     GTTAPFSYEKGGQLTGYDIEVAKAVFKGSDDYKVSFKKTEWSSIFTGLDSGKYQMGGNN
+                     ISFTKERSAKYLFSYPIGSTPSVLVVPKDSDIKSFDDIQGHTTQVVQGTTSVAQLEDFN
+                     KKHSDNPVTLKFTNENITQMLTNLSEGKADFKIFDAPTVNAIIKNQGLDNLKTIELTST
+                     EQPFIYFIFSQDQEKLQSFVNKRIKELTADGTLSKLAKEHLGGDYVPSDKELKLPTAN*
+                     "
+     gene            1664777..1665676
+                     /locus_tag=
+                     /old_locus_tag=
+     CDS             1664777..1665676
+                     /locus_tag=""
+                     /old_locus_tag=""
+                     /inference=""
+                     /note=""
+                     /codon_start=1
+                     /transl_table=11
+                     /product=""
+                     /protein_id="gi|523414886|ref|NC_020540.2|_1619"
+                     /db_xref=""
+                     /translation="MTKVRKAIIPAAGLGTRFLPATKALAKEMLPIVDKPTIQFIVEEA
+                     LKSGIEEILIVTGKSKRSIEDHFDSNFELEYNLQAKGKIELLKLVDETTSINLHFIRQS
+                     HPRGLGDAVLQAKTFVGNEPFVVMLGDDLMDITNPNVKPLTKQLIDDYEETHAATIAVM
+                     RVPHEDVSNYGIIAPQAKAVKGLYSVDTFVEKPQPQDAPSDLAIIGRYLLTPEIFSILE
+                     KQEPGAGNEVQLTDAIDTLNKTQRVFAREFKGKRYDVGDKFGFMKTSLDYALKHPQVKD
+                     DLKAYIIQLGKALEKTKP*"
+     gene            447087..447797
+                     /locus_tag=
+                     /old_locus_tag=
+     CDS             447087..447797
+                     /locus_tag=""
+                     /old_locus_tag=""
+                     /inference=""
+                     /note=""
+                     /codon_start=1
+                     /transl_table=11
+                     /product=""
+                     /protein_id="gi|523414886|ref|NC_020540.2|_428"
+                     /db_xref=""
+                     /translation="MKKILIVDDEKPISDIIKFNLTKEGYDIVTAFDGREAVTIFEEEK
+                     PDLIILDLMLPELDGLEVAKEIRKTSHVPIIMLSAKDSEFDKVIGLEIGADDYVTKPFS
+                     NRELLARVKAHLRRTETIETAVAEENASSGTQELTIGNLQILPDAFVAKKHGQEVELTH
+                     REFELLHHLANHMGQVMTREHLLEIVWGYDYFGDVRTVDVTVRRLREKIEDTPSRPEYI
+                     LTRRGVGYYMKSYD*"
+     gene            1448673..1449029
+                     /locus_tag=
+                     /old_locus_tag=
+     CDS             1448673..1449029
+                     /locus_tag=""
+                     /old_locus_tag=""
+                     /inference=""
+                     /note=""
+                     /codon_start=1
+                     /transl_table=11
+                     /product=""
+                     /protein_id="gi|523414886|ref|NC_020540.2|_1423"
+                     /db_xref=""
+                     /translation="MKVKTVIAVGLLSFTAYKAYQKRCTIKELLSISRQAKDAAQLDLD
+                     NIKANLDLIHSQGKVIQNISQDLAHKWRYFNQETQAHLTEIQNRMAKYQEDSELISSES
+                     PTCQTVILTNNHSR*"
+     gene            1441749..1441904
+                     /locus_tag=
+                     /old_locus_tag=
+     CDS             1441749..1441904
+                     /locus_tag=""
+                     /old_locus_tag=""
+                     /inference=""
+                     /note=""
+                     /codon_start=1
+                     /transl_table=11
+                     /product=""
+                     /protein_id="gi|523414886|ref|NC_020540.2|_1413"
+                     /db_xref=""
+                     /translation="MDEKNPLEQFEEFCKNNSFEYVKGWVDGMQSVLNILSMELSKKNG
+                     STSEVD*"
+     gene            811546..812247
+                     /locus_tag=
+                     /old_locus_tag=
+     CDS             811546..812247
+                     /locus_tag=""
+                     /old_locus_tag=""
+                     /inference=""
+                     /note=""
+                     /codon_start=1
+                     /transl_table=11
+                     /product=""
+                     /protein_id="gi|523414886|ref|NC_020540.2|_760"
+                     /db_xref=""
+                     /translation="MRQKVHYNFLFFDLDHTLLDFDAAEEVALTKLLEEYQVIDIKAYK
+                     DYYKPMNQNLWKQLEGGDISKADLVNSRFALLFAHFGVTVDGRQLAEGYQKHLKDQGQV
+                     YAGAKELLADLTAQGYNLYAATNGIATIQQGRLQASGLAPYFKAIFISEQSGSQKPKKA
+                     FYDWMTQQVSNYQPDQALMIGDSLSADVQGGINAGMDTLWYNPKHLLNNSPVHPTYEVS
+                     DYQALLNCIAE*"
+     gene            1319435..1321333
+                     /locus_tag=
+                     /old_locus_tag=
+     CDS             1319435..1321333
+                     /locus_tag=""
+                     /old_locus_tag=""
+                     /inference=""
+                     /note=""
+                     /codon_start=1
+                     /transl_table=11
+                     /product=""
+                     /protein_id="gi|523414886|ref|NC_020540.2|_1283"
+                     /db_xref=""
+                     /translation="MIQIGKLFAGRYRILKSIGRGGMADVYLANDLILDNEDVAIKVLR
+                     TNYQTDQVAVARFQREARAMAELNHPNIVAIRDIGEEDGQQFLVMEYVDGADLKRYIQN
+                     HAPLSNNEVVRIMEEVLSAMTLAHQKGIVHRDLKPQNILLTKEGVVKVTDFGIAVAFAE
+                     TSLTQTNSMLGSVHYLSPEQARGSKATIQSDIYAMGIMLFEMLTGHIPYDGDSAVTIAL
+                     QHFQKPLPSIIEENHNVPQALENVVIRATAKKLSDRYGSTFEMSRDLMTALSYNRSRER
+                     KIIFENVESTKPLPKVASGPTASVKLSPPTPTVLTQESRLDQTNQTDALQPPTKKKKSG
+                     RFLGTLFKILFSFFIVGVALFTYLILTKPTSVKVPNVAGTSLKVAKQELYDVGLKVGKI
+                     RQIESDTVAEGNVVRTDPKAGTAKRQGSSITLYVSIGNKGFDMENYKGLDYQEAMNSLI
+                     ETYGVPKSKIKIERIVTNEYPENTVISQSPSAGDKFNPNGKSKITLSVAVSDTITMPMV
+                     TEYSYADAVNTLTALGIDASRIKAYVPSSSSATGFVPIHSPSSKAIVSGQSPYYGTSLS
+                     LSDKGEISLYLYPEETHSSSSSSSSTSSSNSSSINDSTAPGSNTELSPSETTSQTP*"
+     gene            357103..357738
+                     /locus_tag=
+                     /old_locus_tag=
+     CDS             357103..357738
+                     /locus_tag=""
+                     /old_locus_tag=""
+                     /inference=""
+                     /note=""
+                     /codon_start=1
+                     /transl_table=11
+                     /product=""
+                     /protein_id="gi|523414886|ref|NC_020540.2|_336"
+                     /db_xref=""
+                     /translation="MITGKLITVEGPDGAGKTTVLEQLIPLLKQKVAQDILTTREPGGV
+                     AISEHIRELILDINHTAMDPKTELLLYIAARRQHLVEKVLPALEAGQLVFIDRFIDSSV
+                     AYQGAGRGLIKADIQWLNEFATDGLEPDLTLYFDVPSEIGLARINANQQREVNRLDLET
+                     IEIHQRVRKGYLALAKEHPKRIVTIDATKPLKEVVSVALEHVLALLLA*"
+     gene            1450922..1451383
+                     /locus_tag=
+                     /old_locus_tag=
+     CDS             1450922..1451383
+                     /locus_tag=""
+                     /old_locus_tag=""
+                     /inference=""
+                     /note=""
+                     /codon_start=1
+                     /transl_table=11
+                     /product=""
+                     /protein_id="gi|523414886|ref|NC_020540.2|_1426"
+                     /db_xref=""
+                     /translation="MFYSENEYTLKAYGETLGTYLSIGDVIVLSGDLGAGKTTLAKGIA
+                     KGMGISQMIKSPTYTIVREYEGRLPLYHLDIYRVGDDPDSIDLDDFLFGNGVTVIEWGE
+                     LLGEGLLQDYLQITITKRDKGRQLDLLAHGERSRQLLEIMSHGSAKSRY*"
+     gene            1439660..1439863
+                     /locus_tag=
+                     /old_locus_tag=
+     CDS             1439660..1439863
+                     /locus_tag=""
+                     /old_locus_tag=""
+                     /inference=""
+                     /note=""
+                     /codon_start=1
+                     /transl_table=11
+                     /product=""
+                     /protein_id="gi|523414886|ref|NC_020540.2|_1405"
+                     /db_xref=""
+                     /translation="MNYLEYALAYLERELEIIDDEVIEVELPGGDWEFVPNPYYEEGLH
+                     DSPHYRSQVAKDILDIKGLLGR*"
+     gene            952995..953582
+                     /locus_tag=
+                     /old_locus_tag=
+     CDS             952995..953582
+                     /locus_tag=""
+                     /old_locus_tag=""
+                     /inference=""
+                     /note=""
+                     /codon_start=1
+                     /transl_table=11
+                     /product=""
+                     /protein_id="gi|523414886|ref|NC_020540.2|_905"
+                     /db_xref=""
+                     /translation="MTKMYYDENPDSLHDIHEVKVELLNHPFTFLTDSGVFSKKMVDFG
+                     SQVLLKTLNFKENERVLDLGCGYGPLGISLAKVQRVDATLVDINNRALDLARKNATNNQ
+                     VAVTIFQSNIYENISGHFEHIISNPPIRAGKRVVHSIIEKSIDFLVVNGDLTIVIQKKQ
+                     GAPSAKAKMATIFGNVEILRKDKGYYVLRSIK*"
+     gene            1074085..1074396
+                     /locus_tag=
+                     /old_locus_tag=
+     CDS             1074085..1074396
+                     /locus_tag=""
+                     /old_locus_tag=""
+                     /inference=""
+                     /note=""
+                     /codon_start=1
+                     /transl_table=11
+                     /product=""
+                     /protein_id="gi|523414886|ref|NC_020540.2|_1040"
+                     /db_xref=""
+                     /translation="MKSIMLVCNAGMSTSMLVTKMQKAAQARDLEVSIWAVPVSEADNE
+                     MAANSIDVLLLGPQVKFLLKDFKDKFEPDIKVDAINMADYGLMNGEKVLETALAMMEE*
+                     "
+     gene            1684096..1685313
+                     /locus_tag=
+                     /old_locus_tag=
+     CDS             1684096..1685313
+                     /locus_tag=""
+                     /old_locus_tag=""
+                     /inference=""
+                     /note=""
+                     /codon_start=1
+                     /transl_table=11
+                     /product=""
+                     /protein_id="gi|523414886|ref|NC_020540.2|_1634"
+                     /db_xref=""
+                     /translation="MEDIIAALSSILSHKMRSILTMLGIIIGIGAIIAIFSIIEGNTEN
+                     TKRQLIGGSNNTINIVFNKKSSIDPKFPDKSNAKKPDYLPFMAEEELSKIQQVKGVKNA
+                     LISYGIDDKVYHLGQKSSAKISAITKNVAEVRRMTFIKGSDFSDKDFIDQKQVIYLEKS
+                     LYESLFPKDDGLGKFVEVMGNPFRVIGVFESKEQSGLTSGTEKIAYIPLHQWYNINGVV
+                     DATPEITIQTYRADDLKPVAKRVSDMLNQTIPKSDYMFGVMNLKEFERQLDNLNKSNFV
+                     LLAGIASISLIVGGIGVMNIMLVSVTERTREIGIKKALGARRKLILKQFLIEAVILTLL
+                     GGVIGVISGMVSGLIITRSLEYPYILSLFSVVLSLAFCCIIGIVFGLLPAIKASKLDPI
+                     EALRFE*"
+     gene            1073301..1073750
+                     /locus_tag=
+                     /old_locus_tag=
+     CDS             1073301..1073750
+                     /locus_tag=""
+                     /old_locus_tag=""
+                     /inference=""
+                     /note=""
+                     /codon_start=1
+                     /transl_table=11
+                     /product=""
+                     /protein_id="gi|523414886|ref|NC_020540.2|_1038"
+                     /db_xref=""
+                     /translation="MIISAEGDVSIHHCFEAMLISLQEDYRQNTLRQLSRDDIKAGINY
+                     VKHYGKYKERTVRVLITALEAPQLYTACFSSNHGIKELAYQLEALGENRTRITYSYDYH
+                     PLDIFQKANQFIVGKLFKKSLERQSQAQLAALIQYAKQLQQPSSL*"
+     gene            1440588..1440758
+                     /locus_tag=
+                     /old_locus_tag=
+     CDS             1440588..1440758
+                     /locus_tag=""
+                     /old_locus_tag=""
+                     /inference=""
+                     /note=""
+                     /codon_start=1
+                     /transl_table=11
+                     /product=""
+                     /protein_id="gi|523414886|ref|NC_020540.2|_1409"
+                     /db_xref=""
+                     /translation="MNKLELFLLATTVILAVIARVQHEVIKKHNSPENKRRIFREVALE
+                     NSKKWSAERYV*"
+     gene            1679931..1680182
+                     /locus_tag=
+                     /old_locus_tag=
+     CDS             1679931..1680182
+                     /locus_tag=""
+                     /old_locus_tag=""
+                     /inference=""
+                     /note=""
+                     /codon_start=1
+                     /transl_table=11
+                     /product=""
+                     /protein_id="gi|523414886|ref|NC_020540.2|_1630"
+                     /db_xref=""
+                     /translation="MIKKVTTPSQKTKKRVRNGYLLKLGTACLLLSILSYGIGLLGQPS
+                     MENTFMGIASVAMLGSVCFFIIFALNRIFDALEDNLRD*"
+     gene            839668..840462
+                     /locus_tag=
+                     /old_locus_tag=
+     CDS             839668..840462
+                     /locus_tag=""
+                     /old_locus_tag=""
+                     /inference=""
+                     /note=""
+                     /codon_start=1
+                     /transl_table=11
+                     /product=""
+                     /protein_id="gi|523414886|ref|NC_020540.2|_793"
+                     /db_xref=""
+                     /translation="MKKTSSLFSIPYFLWILFFVVAPVTLLFYKSFFDIEGRVTLANYE
+                     TFFSSWTYLRMSVNSILYAGIITLVTLLISYPTALFLTRLKHKQLWLMLIILPTWVNLL
+                     LKAYAFMGIFGQQGGINSFLTFMGIGPQQILFTDFSFIFVASYIELPFMMLPIFNALDD
+                     IDHNVINASRDLGASEFQAFSKVIFPLSLNGVRAGVQSVFIPSLSLFMLTRLIGGNRVI
+                     TLGTAIEQHFLTTQNWGMGSTIGVVLILTMVAIMWLTKEKSK*"
+     gene            734221..736644
+                     /locus_tag=
+                     /old_locus_tag=
+     CDS             734221..736644
+                     /locus_tag=""
+                     /old_locus_tag=""
+                     /inference=""
+                     /note=""
+                     /codon_start=1
+                     /transl_table=11
+                     /product=""
+                     /protein_id="gi|523414886|ref|NC_020540.2|_690"
+                     /db_xref=""
+                     /translation="MGERFGRYSKYIIQERALPDIRDGLKPVQRRILYSMNKDGNTFEK
+                     GYRKSAKSVGNIMGNFHPHGDSSIYDAMVRMSQDWKNREILVEMHGNNGSMDGDPPAAM
+                     RYTEARLSEIAGYLLQDIEKNTVSFAWNFDDTEKEPTVLPAAFPNLLVNGSSGISAGYA
+                     TDIPPHNLSEVIDAVVYMIDHPKASLEKLMEFLPGPDFPTGGIIQGADEIKKAYETGKG
+                     RVVVRSRTEIEELKGGKQQIIVTEIPYEVNKAVLVKKIDDVRVNNKVPGIVEVRDESDR
+                     TGLRIAIELKKEADSQTILNYLLKYTDLQVNYNFNMVAIDHFTPRQVGLQKILSSYISH
+                     RKDIIIERSKFDKAKAEKRLHIVEGLIRVLSILDEIIALIRSSDNKADAKENLKVSYDF
+                     SEEQAEAIVTLQLYRLTNTDIVTLQNEENDLRDLITTLSAIIGDEATMYNVMKRELREV
+                     KKKFANPRLSELQAESQIIEIDTASLIAEEETFVSVTRGGYLKRTSPRSFNASSLEEVG
+                     KRDDDELIFVKQAKTTEHLLLFTTLGNVIYRPIHELTDLRWKDIGEHLSQTISNFATEE
+                     EILYADIVTSFDQGLYVAVTQNGFIKRFDRKELSPWRTYKSKSTKYVKLKDDKDRVVTL
+                     SPVIMEDLLLVTKNGYALRFSSQEVPIQGLKSAGVKGINLKNDDSLASAFAVTSNSFFV
+                     LTQRGSLKRMAVDDIPQTSRANRGLLVLRELKTKPHRVFLAGGVQSDTSAEQFDLFTDI
+                     PEEETNQQMLEVISKTGQTYEIALETLSLSERTSNGSFISDTISDQEVLVARTR*"
+     gene            1685987..1687255
+                     /locus_tag=
+                     /old_locus_tag=
+     CDS             1685987..1687255
+                     /locus_tag=""
+                     /old_locus_tag=""
+                     /inference=""
+                     /note=""
+                     /codon_start=1
+                     /transl_table=11
+                     /product=""
+                     /protein_id="gi|523414886|ref|NC_020540.2|_1636"
+                     /db_xref=""
+                     /translation="MFQLRKKMTRKQLALLSAGVLTCVVGGSYLIMNHQQQEIVSSVNK
+                     VKALTIKEAMEQGKDISLTLAGEVTANNSSKVKIDSSKGEVKEVFVKKGDVVKVGQPLF
+                     SYETSQRLTAQSSEFDVQTKANQLQVAKTNAALKWETYNRKVNEINTLKSRYNTAPDES
+                     LLEQIRSAEDSVSQALSDAKTADSDVKTAQIELDKANATATTEKGKLEYDTVKSDTAGT
+                     IVSLNTDLPNQSKSKKENETFMEIIDKSKMLVKGNISEFDRDKLKIGQKVEVIDRKDNS
+                     KKWTGKVTQVGNLKAEEKGQGQGQGGNDQQDNPNQAKFPYVIELDQSDKQPLIGSHTYV
+                     NVLNNVPEAGKIVLKETFTMAENGKTYVWKVDKNKVKKQEIKTKPFSKGYVEVTSGLTM
+                     QDKIAQPLPGMKDGMEVGSIVKP*"
+     gene            1439273..1439572
+                     /locus_tag=
+                     /old_locus_tag=
+     CDS             1439273..1439572
+                     /locus_tag=""
+                     /old_locus_tag=""
+                     /inference=""
+                     /note=""
+                     /codon_start=1
+                     /transl_table=11
+                     /product=""
+                     /protein_id="gi|523414886|ref|NC_020540.2|_1404"
+                     /db_xref=""
+                     /translation="MIEVTFKAESMAGVFDAMREALDMPKTVTKDVVEEKPAPKKKEES
+                     VTLTLADIKKMAKAKVEEGKSKDIKEVLKEMNVAKVGELEEYQFAEFVEKLEAL*"
+     gene            1443656..1444735
+                     /locus_tag=
+                     /old_locus_tag=
+     CDS             1443656..1444735
+                     /locus_tag=""
+                     /old_locus_tag=""
+                     /inference=""
+                     /note=""
+                     /codon_start=1
+                     /transl_table=11
+                     /product=""
+                     /protein_id="gi|523414886|ref|NC_020540.2|_1417"
+                     /db_xref=""
+                     /translation="MAFYRKLGSGWEYRITYRDSQGKKREKSKRGFKTKTLAKVAAQQA
+                     EIDLNTLTADLLDITVLDYNRRWADIYKRPHITAKTWQTYTKNFKHIEHYFGTRKLKSI
+                     THTFYQQVLNDFGAKVAQQTLDKFHYQIKGACKMAIRDGIIRDNFADGAIVRSQKPAKE
+                     ESEKFMEESEYLAFIKVAKSKVKYPSYLTTYIIAVTGLRFAEVQGLTWKDIDFENGYID
+                     INKTFDYSISQNFGPTKNEQSIRKVPIDKNSLEILRNFKSDYYQDNKLGRVCFGASNNA
+                     TNKVIKRVTGRNLTNHSLRHTYASYLIAQGVDLISVSKLLGHENLNITLKVYAHQIESL
+                     KEKNDHQVKNIFQNLKFDG*"
+     gene            808369..809157
+                     /locus_tag=
+                     /old_locus_tag=
+     CDS             808369..809157
+                     /locus_tag=""
+                     /old_locus_tag=""
+                     /inference=""
+                     /note=""
+                     /codon_start=1
+                     /transl_table=11
+                     /product=""
+                     /protein_id="gi|523414886|ref|NC_020540.2|_756"
+                     /db_xref=""
+                     /translation="MYKLVIIEDEHIIRKWLRYAIDYKALDILVIGEAKDGKEGAVLIK
+                     ESQPDIVLTDINMPIMTAFDMFEVTKDQTYAKIILSGYADFPNARSAIHYGVLEFLTKP
+                     IEKAALWECLQTIIAKIEKQKGSNQKTDACVYIPLPQMTDQIPEVVKDILEWVHAHFQD
+                     KISTSRLAHDLGYSESYIYQNIKKHLQMPLSDYINQYRINQAIQLMQQEPDLMVYEIAQ
+                     AVGIYDYRYFDRVFKKYLGQTVKAFKEEHFMKDTDRSKPC*"
+     gene            363370..364551
+                     /locus_tag=
+                     /old_locus_tag=
+     CDS             363370..364551
+                     /locus_tag=""
+                     /old_locus_tag=""
+                     /inference=""
+                     /note=""
+                     /codon_start=1
+                     /transl_table=11
+                     /product=""
+                     /protein_id="gi|523414886|ref|NC_020540.2|_345"
+                     /db_xref=""
+                     /translation="MAQKTVITEETTDFVMDFKTSSAEGNVDFINVFDLEKMAQQVIPK
+                     GAFGYIASGAGDTFTLHENIRSFNHKLIVPHSLKGVENPSTEITFDGDYLTSPLILAPV
+                     AAHKLANEQGEVASAKGLKEFGSIYTTSSYSTTDLPEISAALGGTPHWFQFYYSKDDGI
+                     NRNIMDRVKAQGCKAIVLTADATVGGNREVDRRNGFVFPVGMPIVQEYLPDGAGKTMDY
+                     VYKSAKQALTSKDIEYIATYSGLPVYVKGPQCAEDTLRALDAGASGIWVTNHGGRQLDG
+                     GPAAFDSLQEVAEAVDQKVPIVFDSGIRRGQHIFKALASGADLVALGRPAIYGLAMGGS
+                     IGTRQVFEKLNDELKMVMQLAGTQTIQDVKAFNLRHNPYDSSIPFDQNALRLD*"
+     gene            1673236..1674441
+                     /locus_tag=
+                     /old_locus_tag=
+     CDS             1673236..1674441
+                     /locus_tag=""
+                     /old_locus_tag=""
+                     /inference=""
+                     /note=""
+                     /codon_start=1
+                     /transl_table=11
+                     /product=""
+                     /protein_id="gi|523414886|ref|NC_020540.2|_1626"
+                     /db_xref=""
+                     /translation="MLHKEKPDYNRNQYGFYTLDQLVPDEHFLRQVEAVIDFDFIYDLV
+                     EDTYSSDNGRPSLDPVMLVKIPLIQCFYGIRSMRQTIKDIEVNTAYRWFLGLTLDDKVP
+                     HFTTYGKNYSRRFQEKGLIESIFTHIVGLCINTGLIDPTEIFIDGTHIKAAANNRKFIN
+                     REVEKQAKFMSEQLEIEINRDREKHGKKPLGPAKELEPVAKKISTTDPESGWFHKGDHK
+                     EVFAYSAQVACDKYGWALAYSVEAGNIHDSQAFPALFAKLEPLKPQFIIADSGYNVPSI
+                     AKFLIDKEITPVLPYTRPRGKKDLLRPKELIYDEHFDCVICPEHQALTYRTTTREGYRE
+                     YKSDPVICANCPLLSVCTTSKNYQKVVTRHIWKDYLAQPRNTTISAIRERKASPKWKIR
+                     LD*"
+     gene            1661282..1662988
+                     /locus_tag=
+                     /old_locus_tag=
+     CDS             1661282..1662988
+                     /locus_tag=""
+                     /old_locus_tag=""
+                     /inference=""
+                     /note=""
+                     /codon_start=1
+                     /transl_table=11
+                     /product=""
+                     /protein_id="gi|523414886|ref|NC_020540.2|_1616"
+                     /db_xref=""
+                     /translation="MLKDAILRYKWYALGSFFMVIGVVASSLLQPHYLKSVLSAVIQNN
+                     QEKIYEVGKPLLIIALLGLMSGAINTVLAAKIAQGVSADMREKTFRKIQDFSYANIEAF
+                     NAGNLVVRLTNDINQIQSLVMMMFQILFRLPILFIGAFIMAVQTFPQLWWVIVVMVILI
+                     ALIMGLVMRQMGPRFGKFQRLMDKINRIAKENLRGVRVVKSFVQEQQQYTKFKETSNDL
+                     LALNLSIGYGFSLMQPALMLVSYLAVYVSINVVSTMVETDPTVIGNIASFMTYMMQIMF
+                     SIIVVGSMGMQVSRAFVSMARIRQILSTEPAMTFENEKEETISGSIVFDDVSFTYPNDD
+                     EPTLKHISFAIEPGQMVGIVGATGSGKSTLAQLIPRLFDPQDGQILLGGKPIKTLSQTT
+                     LRQSVSIVLQKAILFSGTIADNLRQGSAKADIDAMQKAAQIAQAKEFIDRMDSRYESQV
+                     EERGSNLSGGQKQRLSIARGVINHPKILILDDSTSALDAKSEKRVQEALSHKLEGTTTV
+                     IVAQKISSVVKADKILVLDQGQLIGEGTHAELVANNAIYREIYETQKGREE*"
+     gene            1685326..1686000
+                     /locus_tag=
+                     /old_locus_tag=
+     CDS             1685326..1686000
+                     /locus_tag=""
+                     /old_locus_tag=""
+                     /inference=""
+                     /note=""
+                     /codon_start=1
+                     /transl_table=11
+                     /product=""
+                     /protein_id="gi|523414886|ref|NC_020540.2|_1635"
+                     /db_xref=""
+                     /translation="MLNLKDIRKSYHLGTEEFAILKGIDLEVNEGDFLAIMGPSGSGKS
+                     TLMNIIGCLDKPGSGSYAIEGRDVSSLSDNELADLRNQKIGFVFQNFNLMPKLTACQNV
+                     ELPLTYMNVPKKERRKRALEMLKLVGLEERSEFKPMELSGGQKQRVAIARALVTNPSFI
+                     LGDEPTGALDTKTSVQIMDLFKQFNDNGKTIIIITHEPEVAALCKKTVILRDGNIEHSD
+                     IE*"
+     gene            1447460..1448185
+                     /locus_tag=
+                     /old_locus_tag=
+     CDS             1447460..1448185
+                     /locus_tag=""
+                     /old_locus_tag=""
+                     /inference=""
+                     /note=""
+                     /codon_start=1
+                     /transl_table=11
+                     /product=""
+                     /protein_id="gi|523414886|ref|NC_020540.2|_1421"
+                     /db_xref=""
+                     /translation="MLNIKNLTGGYHNIPVLNDVSFSVDNGELVGLIGLNGAGKSTTIN
+                     EIIGFLKPYQGSISIDGLTLAENAVAYRQKIGFIPETPSLYEELTLSEHINTVAMAYDI
+                     DLEVAQKRAQPFLEMFRLTDKLEWFPVNFSKGMKQKVMIICAFVIDPSLFILDEPFLGL
+                     DPLAISDLIQTLEVEKAKGKSILMSTHVLDSAERMCDRFVILHHGQVRAQGTLADLQEA
+                     FGDRSASLNDIYLALTKED*"
+     gene            707387..708664
+                     /locus_tag=
+                     /old_locus_tag=
+     CDS             707387..708664
+                     /locus_tag=""
+                     /old_locus_tag=""
+                     /inference=""
+                     /note=""
+                     /codon_start=1
+                     /transl_table=11
+                     /product=""
+                     /protein_id="gi|523414886|ref|NC_020540.2|_664"
+                     /db_xref=""
+                     /translation="MTKTNLNWSGFSKKTFEERLQLIEKFKLLNAENLNQLKTDVLLPI
+                     QTANQMTENVLGRLALPFSIAPDFLVNGSTYQMPFVTEEPSVVAAASFAAKLIKRSGGF
+                     KAQTLNRQMIGQIVLYDIDQIDNAKAAILHKTKKLIALANKAYPSIVKRGGGARTIHLE
+                     EKGEFLIFYLTVDTQEAMGANMVNTMMEALVPDLTRLSKGHCLMAILSNYATESLVTTS
+                     CEIPVRLLDHDKTKSLQLAQKIELASRLAQVDPYRATTHNKGIFNGIDAVVIATGNDWR
+                     AIEAGAHAYASRNGSYQGLSQWHFDQDKQVLLGQMTLPMPIASKGGSIGLNPTVSIAHD
+                     LLNQPDAKTLAQLIASVGLAQNFAALKALTSSGIQAGHMKLHAKSLALLAGATQDEIAP
+                     LVNALLADKPINLEKAHFYLSQLRQS*"
+     gene            1449140..1450414
+                     /locus_tag=
+                     /old_locus_tag=
+     CDS             1449140..1450414
+                     /locus_tag=""
+                     /old_locus_tag=""
+                     /inference=""
+                     /note=""
+                     /codon_start=1
+                     /transl_table=11
+                     /product=""
+                     /protein_id="gi|523414886|ref|NC_020540.2|_1424"
+                     /db_xref=""
+                     /translation="MKIGKKIVLMFTAIVLTTVLALGVYLTSAYTFSTGELSKTFKDFS
+                     TSSNKSDAIKQTRAFSILLMGVDTGSSERASKWEGNSDSMILVTVNPKTKKTTMTSLER
+                     DTLTTLSGPKNNEMNGVEAKLNAAYAAGGAQMAIMTVQDLLNITIDNYVQINMQGLIDL
+                     VNAVGGITVTNEFDFPISIAENEPEYQATVAPGTHKINGEQALVYARMRYDDPEGDYGR
+                     QKRQREVIQKVLKKILALDSISSYRKILSAVSSNMQTNIEISSRTIPSLLGYRDALRTI
+                     KTYQLKGEDATLSDGGSYQIVTSNHLLEIQNRIRTELGLHKVNQLKTNATVYENLYGST
+                     KSQTVNNNYDSSGQAPSYSDSHSSYANYSSGVDTGQSASTDQDSTASSHRPATPSSSSD
+                     ALAADESSSSGSGSLVPPANINPQT*"
+     gene            1681964..1683352
+                     /locus_tag=
+                     /old_locus_tag=
+     CDS             1681964..1683352
+                     /locus_tag=""
+                     /old_locus_tag=""
+                     /inference=""
+                     /note=""
+                     /codon_start=1
+                     /transl_table=11
+                     /product=""
+                     /protein_id="gi|523414886|ref|NC_020540.2|_1632"
+                     /db_xref=""
+                     /translation="MRLIKKTFLVINGLIIVVVTSILLVLYFAMPIYYTKVKDKEVKCE
+                     FDQTSKQIKGKTVTEIRDILTKKINKDNIWYSLVDSDNQLLYPSLQLLDGVSESKDSQN
+                     VNIVTTFDNSYSNVKVMSQKVTLRDGKKMTLLGQSSLQPVTDASKVLLDLYPSLLIFSV
+                     TVGSIVAYLYSRTSSRRILSMSQTAKKMVNLEPNLTCTIHGKDEIAMLASDINRLYASL
+                     STSIKSLQKEYEKASDSEREKSEFLRMTSHELKTPITSVIGMIDGMLYNVGDFADRDKY
+                     LRKCRDVLEGQAQLVQSILSLSKIETLASQNQELFSLKSSLEEEMEVFLVLSELKHLKV
+                     TINLEEQFVKANKVYLLKAIKNIIDNAFHYTKSGGQVMIQLKDNQLVIKNEAETLLTQQ
+                     QMKQLFQPFYRPDYSRNRKDGGTGLGLFITHQILDQHHLAYRFVVLDQRWMVFTIDFPS
+                     HHDD*"
+     gene            356579..356854
+                     /locus_tag=
+                     /old_locus_tag=
+     CDS             356579..356854
+                     /locus_tag=""
+                     /old_locus_tag=""
+                     /inference=""
+                     /note=""
+                     /codon_start=1
+                     /transl_table=11
+                     /product=""
+                     /protein_id="gi|523414886|ref|NC_020540.2|_335"
+                     /db_xref=""
+                     /translation="MFQKQERIGLVVYLYYNRDARKLSKFGDLYYHSKRSRYLIIYINK
+                     NDLDTKLEEMRRLKCVKDIRPSAFDDIDRQFVGNLHRDETNNHQKG*"
+     gene            1444933..1445568
+                     /locus_tag=
+                     /old_locus_tag=
+     CDS             1444933..1445568
+                     /locus_tag=""
+                     /old_locus_tag=""
+                     /inference=""
+                     /note=""
+                     /codon_start=1
+                     /transl_table=11
+                     /product=""
+                     /protein_id="gi|523414886|ref|NC_020540.2|_1418"
+                     /db_xref=""
+                     /translation="MRVRKRKGAEEHLANNPHYVILNPEDAKGRWHDVFGNDRPIHIEV
+                     GSGKGGFITGMALKNPDINYIGIDIQLSVLSYALDKVLASEVPNVKLLRVDGSSLTNYF
+                     EDGEVDMMYLNFSDPWPKTKHEKRRLTYKDFLDTYKRILPEHGEIHFKTDNRGLFEYSL
+                     ASFSQYGMTLRQIWLDLHASNYEGNVMTEYEEKFSNKGQVIYRVEANF*"
+     gene            1666662..1666766
+                     /locus_tag=
+                     /old_locus_tag=
+     CDS             1666662..1666766
+                     /locus_tag=""
+                     /old_locus_tag=""
+                     /inference=""
+                     /note=""
+                     /codon_start=1
+                     /transl_table=11
+                     /product=""
+                     /protein_id="gi|523414886|ref|NC_020540.2|_1621"
+                     /db_xref=""
+                     /translation="MIDLKRNLFKIDVRAQKDEEKVFMRTAWLVSCQP*"
+     gene            1676027..1677481
+                     /locus_tag=
+                     /old_locus_tag=
+     CDS             1676027..1677481
+                     /locus_tag=""
+                     /old_locus_tag=""
+                     /inference=""
+                     /note=""
+                     /codon_start=1
+                     /transl_table=11
+                     /product=""
+                     /protein_id="gi|523414886|ref|NC_020540.2|_1628"
+                     /db_xref=""
+                     /translation="MAKNNTNRHYSLRKLKTGTASVAVALTVLGAGFANQTEVKANGDG
+                     NPREVIEDLAANNPAIQNIRLRHENKDLKARLENAMEVAGRDFKRAEELEKAKQALEDQ
+                     RKDLETKLKELQQDYDLAKESTSWDRQRLEKELEEKKEALELAIDQASRDYHRATALEK
+                     ELEEKKKALELAIDQASQDYNRANVLEKELETITREQEINRNLLGNAKLELDQLSSEKE
+                     QLTIEKAKLEEEKQISDASRQSLRRDLDASREAKKQVEKDLANLTAELDKVKEDKQISD
+                     ASRQGLRRDLDASREAKKQVEKDLANLTAELDKVKEEKQISDASRQGLRRDLDASREAK
+                     KQVEKALEEANSKLAALEKLNKELEESKKLTEKEKAELQAKLEAEAKALKEQLAKQAEE
+                     LAKLRAGKASDSQTPDTKPGNKAVPGKGQAPQAGTKPNQNKAPMKETKRQLPSTGETAN
+                     PFFTAAALTVMATAGVAAVVKRKEEN*"
+     gene            823697..824383
+                     /locus_tag=
+                     /old_locus_tag=
+     CDS             823697..824383
+                     /locus_tag=""
+                     /old_locus_tag=""
+                     /inference=""
+                     /note=""
+                     /codon_start=1
+                     /transl_table=11
+                     /product=""
+                     /protein_id="gi|523414886|ref|NC_020540.2|_772"
+                     /db_xref=""
+                     /translation="MYKILAIDDDKEILKLMKTALEIENYHVITCQEIELPIVFDDFKG
+                     YDLILLDIMMPNISGTEFCYKIREEVHSPIIFVSALDGDNEIVQALNIGGDDFIVKPFS
+                     LKQFVAKVNSHLKREERAKIKNEAEERVKRSFPPIEIYLEERMLYIDKQPLFLTYREYE
+                     ILELLSRHPYKVFTKEEIYEQVYSDEASALFHSISEYIYQIRMKFSSFGINPIKTIRGI
+                     GYKWDV*"
+     gene            956500..957174
+                     /locus_tag=
+                     /old_locus_tag=
+     CDS             956500..957174
+                     /locus_tag=""
+                     /old_locus_tag=""
+                     /inference=""
+                     /note=""
+                     /codon_start=1
+                     /transl_table=11
+                     /product=""
+                     /protein_id="gi|523414886|ref|NC_020540.2|_909"
+                     /db_xref=""
+                     /translation="MIKILLVEDDLSLSNSIFDFLDDFADVMQVFDGDEGLYEAESGIY
+                     DLILLDLMLPEKNGFQVLKELREKDIKIPVLIMTAKEGLDDKGHGFELGADDYLTKPFY
+                     LEELKMRIQALLKRTGKFADKNISFGNLVVDLARKEVKVEGKVVELLGKEFDLLVYLLQ
+                     NQNVILPKTQIFDRLWGFDSDTTISVVEVYISKIRKKLKGTCFVNRLQTLRSVGYILKN
+                     NE*"
+     gene            297784..298500
+                     /locus_tag=
+                     /old_locus_tag=
+     CDS             297784..298500
+                     /locus_tag=""
+                     /old_locus_tag=""
+                     /inference=""
+                     /note=""
+                     /codon_start=1
+                     /transl_table=11
+                     /product=""
+                     /protein_id="gi|523414886|ref|NC_020540.2|_274"
+                     /db_xref=""
+                     /translation="MGRKWANIVAKKTAKDGATSKVYAKFGVEIYVAAKQGEPDPELNT
+                     ALKFVIDRAKQAQVPKHVIDKAIDKAKGNTDETFVEGRYEGFGPNGSMIIVDTLTSNVN
+                     RTAANVRTAYGKNGGNMGASGSVSYLFDKKGVIVFAGDDADSVFEQLLEADVDVDDVEA
+                     EEGTITVYTAPTDLHKGIQALRDNGVEEFQVTELEMIPQSEVVLEGDDLETFEKLIDAL
+                     ESDDDVQKVYHNVADF*"
+     gene            296196..297302
+                     /locus_tag=
+                     /old_locus_tag=
+     CDS             296196..297302
+                     /locus_tag=""
+                     /old_locus_tag=""
+                     /inference=""
+                     /note=""
+                     /codon_start=1
+                     /transl_table=11
+                     /product=""
+                     /protein_id="gi|523414886|ref|NC_020540.2|_273"
+                     /db_xref=""
+                     /translation="MTVTGIIAEFNPFHNGHKYLLETAEGLKIIAMSGNFMQRGEPALI
+                     DKWIRSEMALKNGADIVVELPFFVSVQSADYFAQGAIDILCQLGIQQLAFGTENVIDYQ
+                     KLIKVYEKKSEQMTAYLSTLEDTFSYPQKTQKMWEIFAGVKFSGQTPNHILGLSYAKAS
+                     AGKHIQLCPIKRQGAAYHSKDKNHLLASASAIRQHLNDWDFISHSVPNAGLLINNPHMS
+                     WDHYFSFLKYQILNHSDLTSIFQVNDELASRIKKAIKVSQNIDHLVDTVATKRYTKARV
+                     RRILTYILVNAKEPTLPKGIHILGFTSKGQAHLKKLKKSRPLITRIGAETWDEMTQKAD
+                     SIYQLGHQDIPEQSFGRIPIIIKNERLN*"
+     gene            1665775..1666446
+                     /locus_tag=
+                     /old_locus_tag=
+     CDS             1665775..1666446
+                     /locus_tag=""
+                     /old_locus_tag=""
+                     /inference=""
+                     /note=""
+                     /codon_start=1
+                     /transl_table=11
+                     /product=""
+                     /protein_id="gi|523414886|ref|NC_020540.2|_1620"
+                     /db_xref=""
+                     /translation="MTQLLKRYPITIFLLGLTGLIFIAMQVVYGHLATGAQAIYQVGGM
+                     FGLLVKAMPDQLWRLVTPIFIHIGFGHFFVNGLTLYFVGQIVEDLWGSRRFLLLYVLSG
+                     VMGNAFTFWLTPETVAAGASTSLFGLFAAIVVLSFLGKNQALKDLGKSYQTLIVVNLLM
+                     NLFMPNVSMAGHIGGVVGGALLSIVFPTKMRVITVKKTKRMLALVSYGIILVGVLVLGF
+                     L*"
+     gene            826125..826742
+                     /locus_tag=
+                     /old_locus_tag=
+     CDS             826125..826742
+                     /locus_tag=""
+                     /old_locus_tag=""
+                     /inference=""
+                     /note=""
+                     /codon_start=1
+                     /transl_table=11
+                     /product=""
+                     /protein_id="gi|523414886|ref|NC_020540.2|_775"
+                     /db_xref=""
+                     /translation="MIKAQLKNLIKTIHLVKEAGFSLNGSLYMELLHDFTHDELVHNPI
+                     IESTVDTIQSVEFERVSFSYNGKDNVINDISFSIKAGERLAIVGGNGSGKSTIFKLACG
+                     LYDNYEGNIYINGINLCSIQKKSYYKRISALFQDFLKYELTLRENVGLGELSKLYSDES
+                     YNTSFFTTSWDSENELRLEDIYIRYSDGKFHFTTIDESIKRD*"
+     gene            1683349..1684002
+                     /locus_tag=
+                     /old_locus_tag=
+     CDS             1683349..1684002
+                     /locus_tag=""
+                     /old_locus_tag=""
+                     /inference=""
+                     /note=""
+                     /codon_start=1
+                     /transl_table=11
+                     /product=""
+                     /protein_id="gi|523414886|ref|NC_020540.2|_1633"
+                     /db_xref=""
+                     /translation="MFKILVVEDDDTISQVICEFLKANNYDPDCVFDGQAALDKWQTTS
+                     YDLIILDIMLPSLSGLEVLKTIRKTSDVPIIMLTALDDEYTQLVSFNHLISDYVTKPFS
+                     PLILIKRIENVLRVSTPDEKRQIGDLLVDETEHSVYWQGTLVKLTKKEYDIIDYLAKRH
+                     QKIVTRDQLMDDIWGYSELDTRVLDNHIKNLRKKMTGIPLKTITGMGYLLGERE*"
+     gene            957520..960057
+                     /locus_tag=
+                     /old_locus_tag=
+     CDS             957520..960057
+                     /locus_tag=""
+                     /old_locus_tag=""
+                     /inference=""
+                     /note=""
+                     /codon_start=1
+                     /transl_table=11
+                     /product=""
+                     /protein_id="gi|523414886|ref|NC_020540.2|_910"
+                     /db_xref=""
+                     /translation="MKTVEHLIETFVPENYNIFLDINRQTKTFTGNVAINGEALDNHVA
+                     FHQKDLDIKSILLDNEAVIYQVDNDNEVVRVELPETGMMTLVIEFSGSITDNMTGIYPS
+                     YYTKNGEKKEVISTQFESHFAREAFPCIDEPQAKATFDLSLTFDQEIGEIALSNMPEVN
+                     IDRREETGLWTFDTTLRMSSYLLAFALGELHGKTVESKKGTTVGVYATTAHPLSSLDFS
+                     LDIAVRVINFYEDYFGVHYPIPQSLNIALPDFSSGAMENWGLITYREIYLLVDENSTVQ
+                     SRQQVALVIAHEIAHQWFGNLVTMKWWDDLWLNESFANMMEYVSIEAIEPSWKIIEDFQ
+                     TGGIPLALKRDATDGVQSVHVEVNHPDEINTLFDPAIVYAKGSRLMHMLRRFIGDRDFA
+                     IGLHHYFEKYQYRNTVGRDLWNILSDTSGKDVAAFMDAWLEQPGYPVLTARLENDQLIL
+                     SQKQFFIGKGEEKGRLWPIPLNTNWHGLPETLTEAEMVIPNFSQLAAENEGALRFNIDN
+                     TAHYITDYQGSLLDALVTELAQLDNTSALQVIQERRLLADSGLISYAELVDLIAQLDDS
+                     KSYMVAEAVQQVVSGLKRFIDEGSLAEKSFNRLVTTIYQEDFNQHGFEKKADESDEDEM
+                     VRQVALGRLWLAENQTIIDGLRTIFEAYQNNIASIPAAVRRLVLANQMKYFETDSLVDI
+                     YFETYVATTDNNLRSDLTVAFSQTKQPTTIRRILVSLKDKDIIKPQDLSYWYNALLGQS
+                     FTQDIIWEWARENWDWIKSALGGDMSFDKFVIYPASNFKTPKHLAEYKSFFEPKLDDMA
+                     ISRNITMGINEIEARVALITKEKEAVIAALSHY*"
+     gene            1688109..1688405
+                     /locus_tag=
+                     /old_locus_tag=
+     CDS             1688109..1688405
+                     /locus_tag=""
+                     /old_locus_tag=""
+                     /inference=""
+                     /note=""
+                     /codon_start=1
+                     /transl_table=11
+                     /product=""
+                     /protein_id="gi|523414886|ref|NC_020540.2|_1638"
+                     /db_xref=""
+                     /translation="MTKQDQLIVEKMEQTYEAFSPKLANLIEALDAFKEHYEEYATLRN
+                     FYSSDEWFRLANQPWDDIPCGVLSEDLLFDMIGDHNQLLADILDLAPIMYKHM*"
+     gene            710954..711451
+                     /locus_tag=
+                     /old_locus_tag=
+     CDS             710954..711451
+                     /locus_tag=""
+                     /old_locus_tag=""
+                     /inference=""
+                     /note=""
+                     /codon_start=1
+                     /transl_table=11
+                     /product=""
+                     /protein_id="gi|523414886|ref|NC_020540.2|_667"
+                     /db_xref=""
+                     /translation="MTKEIIAIWAEDEAGLIGVAGKLPWYLPKELEHFKKTTLHQAILM
+                     GRVTFEGMNCKRLPQRQTLVMTRNRDYQVDEVLTMTSIEKVLEWYHAQDKTLYIIGGNK
+                     VLEAFNGYFDRVIKTVIHHRFKGDTYRPNLDFSHFTQESQTFYARDAKNPYDFTVTALK
+                     HK*"
+     gene            360512..360904
+                     /locus_tag=
+                     /old_locus_tag=
+     CDS             360512..360904
+                     /locus_tag=""
+                     /old_locus_tag=""
+                     /inference=""
+                     /note=""
+                     /codon_start=1
+                     /transl_table=11
+                     /product=""
+                     /protein_id="gi|523414886|ref|NC_020540.2|_341"
+                     /db_xref=""
+                     /translation="MTEDQATILILGVYGIILAVFLLSALLCLIANWRLFKRAGYKGWY
+                     SLIPFYAGFVKHKITFGEDNKWFYFIGWVIAIYYYYVHFCYVRAFGGSKGLAVFGLFFP
+                     GIASLIVAFGKTYTTQECHPVPHLLN*"
+     gene            351309..352754
+                     /locus_tag=
+                     /old_locus_tag=
+     CDS             351309..352754
+                     /locus_tag=""
+                     /old_locus_tag=""
+                     /inference=""
+                     /note=""
+                     /codon_start=1
+                     /transl_table=11
+                     /product=""
+                     /protein_id="gi|523414886|ref|NC_020540.2|_331"
+                     /db_xref=""
+                     /translation="MITIEQLLDILKKDHNFREVLDADGYHYHYQGFSFERLSYDSRQV
+                     DGKTLFFAKGATFKADYLKEAITNGLQLYISEVDYELGIPVVLVTDIKKAMSLIAMAFY
+                     GNPQEKLKLLAFTGTKGKTTAAYFAYHMLKESYKPAMFSTMNTTLDGKTFFKSQLTTPE
+                     SLDLFAMMAECVTNGMTHLIMEVSSQAYLVDRVYGLTFDVGVFLNISPDHIGPIEHPTF
+                     EDYFYHKRLLMENSRAVVINSGMDHFSFLADQVADQEHVFYGPLSDNQITTSQAFSFEA
+                     KGQLAGHYDIQLIGHFNQENAMAAGLACLRLGASLADIQKGIAKTRVPGRMEVLTMTNH
+                     AKVFVDYAHNGDSLEKLLSVVEEHQTGKLMLILGAPGNKGESRRADFGRVIHQHPNLTV
+                     ILTADDPNFEDPEDISKEIASHIARPVEIISDREQAIQKAMSLCQGAKDAVIIAGKGAD
+                     AYQIVKGQQVAYAGDLAIAKHYL*"
+     gene            1442594..1442977
+                     /locus_tag=
+                     /old_locus_tag=
+     CDS             1442594..1442977
+                     /locus_tag=""
+                     /old_locus_tag=""
+                     /inference=""
+                     /note=""
+                     /codon_start=1
+                     /transl_table=11
+                     /product=""
+                     /protein_id="gi|523414886|ref|NC_020540.2|_1415"
+                     /db_xref=""
+                     /translation="MMTPETVCQEKGIDLVYFDGRGTNTPGMFNKKHNVIAIDTYLDGI
+                     YKHKVIYHELGHREHTASYYKLNKEKAELQADRCMIHHLLKEELSYWDNMEDFNYIQFM
+                     EKYELTSIADEVMIKEELEFLIS*"
+     gene            1430814..1432136
+                     /locus_tag=
+                     /old_locus_tag=
+     CDS             1430814..1432136
+                     /locus_tag=""
+                     /old_locus_tag=""
+                     /inference=""
+                     /note=""
+                     /codon_start=1
+                     /transl_table=11
+                     /product=""
+                     /protein_id="gi|523414886|ref|NC_020540.2|_1397"
+                     /db_xref=""
+                     /translation="MRLHEYQEYAKTWIVEHPYCGLLLDMGLGKTLTTLSAIDEIQNIF
+                     SEDHKILIVAPKKVAEETWPTEIEKWHFDFTYSKVLGSEGKRIEALETEADIYLINREN
+                     VTWLVEYYKTKWPFTFVVIDELSSFKSSKSKRFRALRKVRPKVQRLVGLTGTPAPNSLI
+                     DLWPQIYLMDRGDRLETSQTRFKDKYFVPDKRNGPIIYSWALRDGAEAEIYNKIEDICV
+                     SMKAKDYLKLPPRTNNVVSVKLSNMKAYKQLEADLVLEFKDKEISAANSAVLANKLLQM
+                     ANGAIYDDDKSTVAIHDDKLDALEDIVEESQGQPILVFYQYQHDFERLKKRFPQAEELT
+                     SVDKWNSGKIPILLCHPQSAGHGLNLQKGGHIIVWFGLTWSLEYYQQANARLDRQGQTE
+                     PVIVHHIVAENTVDEKVLRILQGKEKNQNALLEAVKAQLGV*"
+     gene            304384..305598
+                     /locus_tag=
+                     /old_locus_tag=
+     CDS             304384..305598
+                     /locus_tag=""
+                     /old_locus_tag=""
+                     /inference=""
+                     /note=""
+                     /codon_start=1
+                     /transl_table=11
+                     /product=""
+                     /protein_id="gi|523414886|ref|NC_020540.2|_280"
+                     /db_xref=""
+                     /translation="MKKIYDLWVRVSLIKKIGIGVVIGVMLGILAPDLTGFSILGKLFV
+                     GGLKAIAPLLVFALVSQAISHQKKGKQTNMTLIIVLYLFGTFASALVAVLTAYLFPLTL
+                     VLNTPVNTELSPPQGVAEVFQSLLLKLVDNPINALATANYIGVLSWAIIFGLALKAASK
+                     ETKHLIKTAAEVTSQIVVWIINLAPIGIMSLVFTTISENGVGILSDYAFLILVLVGTML
+                     FVALVVNPLIAVLITRQNPYPLVLRCLRESGLTAFFTRSSAANIPVNMQLCQKIGLSKD
+                     TYSVSIPLGATINMGGAAITINVLTLAAVHTFGIPIDFLTALLLSVVAAVSACGASGVA
+                     GGSLLLIPVACSLFGISNDLAMQVVGVGFIVGVIQDSCETALNSSTDVLFTAIAENAFW
+                     KRKKA*"
+     gene            440139..441131
+                     /locus_tag=
+                     /old_locus_tag=
+     CDS             440139..441131
+                     /locus_tag=""
+                     /old_locus_tag=""
+                     /inference=""
+                     /note=""
+                     /codon_start=1
+                     /transl_table=11
+                     /product=""
+                     /protein_id="gi|523414886|ref|NC_020540.2|_422"
+                     /db_xref=""
+                     /translation="MVMIEVSHLQKNFSKTIKEPGLKGALKSFVHPQREIFEAVKDLSF
+                     EVPKGQILGFIGANGAGKSTTIKMLTGILKPTSGYCRINGKIPQDNRQYYVRDIGAVFG
+                     QRTQLWWDLALQETYVVLKEIYDVPEKAFRKRMDFLNEVLDLNEFIKDPVRTLSLGQRM
+                     RADIAASLLHNPKVLFLDEPTIGLDVSVKDNIRRAITQINQEEETTILLTTHDLSDIEQ
+                     LCDRIIMIDKGQEIFDGTVTQLKQSFGKMKSLSFELKPGQEQVVSQFMGLPDITVERHE
+                     FSLDIQYDSSRYQTADIIQKTMADFAVRDVKMTDVDIEDIVRRFYRKEL*"
+     gene            961754..962557
+                     /locus_tag=
+                     /old_locus_tag=
+     CDS             961754..962557
+                     /locus_tag=""
+                     /old_locus_tag=""
+                     /inference=""
+                     /note=""
+                     /codon_start=1
+                     /transl_table=11
+                     /product=""
+                     /protein_id="gi|523414886|ref|NC_020540.2|_913"
+                     /db_xref=""
+                     /translation="MTEYNWNERHIITFPEETLALATKDLHVYYGAKEAIKGIDMQFEK
+                     HKITALIGPSGCGKSTYLRSLNRMNDTIDIARVTGEILYQGIDVNRKDMNVYEIRKHLG
+                     MVFQRPNPFAKSIYKNITFAHERAGVKDKKVLDEIVETSLKQAALWDQVKDDLHKSAFT
+                     LSGGQQQRLCIARAISVKPDILLMDEPASALDPIATMQLEETMFELKKNYTIIIVTHNM
+                     QQAARASDYTAFFYLGNLIEYDKTRNIFQNAQCQSTNDYVSGHFG*"
+     gene            1663728..1664744
+                     /locus_tag=
+                     /old_locus_tag=
+     CDS             1663728..1664744
+                     /locus_tag=""
+                     /old_locus_tag=""
+                     /inference=""
+                     /note=""
+                     /codon_start=1
+                     /transl_table=11
+                     /product=""
+                     /protein_id="gi|523414886|ref|NC_020540.2|_1618"
+                     /db_xref=""
+                     /translation="MTKQKVAILGPGSWGTALSQVLNDNGHDVRLWGNIPDQIEEINTK
+                     HTNRHYFKDIVLDKNITATLDLGQALSDVDAVLFVVPTKVTRLVARQVAAILDHKVVVM
+                     HASKGLEPETHERLSTILEEEIPAHFRSEVVVVSGPSHAEETIVRDITLITAASKDIEA
+                     AKYVQSLFSNHYFRLYTNTDVIGVETAGALKNIIAVGAGALHGLGYGDNAKAAVITRGL
+                     AEITRLGVKLGADPLTYSGLSGVGDLIVTGTSVHSRNWRAGAALGRGEKLEDIERNMGM
+                     VIEGIATTKVAYEIAQDLGVYMPITTAIYKSIYEGADIKESILGMMSNEFRSENEWH*"
+     gene            1438119..1439273
+                     /locus_tag=
+                     /old_locus_tag=
+     CDS             1438119..1439273
+                     /locus_tag=""
+                     /old_locus_tag=""
+                     /inference=""
+                     /note=""
+                     /codon_start=1
+                     /transl_table=11
+                     /product=""
+                     /protein_id="gi|523414886|ref|NC_020540.2|_1403"
+                     /db_xref=""
+                     /translation="MPVENHALLSASSAHRWLYCPMLPRLEADYPSRDTVYTQEGTSAH
+                     ELSEIKLMYKSGKITKRKFNTLTKAFKENSDFYNEEMEEMTELYTDIVMEHLNAYEDAE
+                     IELEKRIDFSDWVPGGFGTSDVVILADGVIEIIDLKYGKGMPVSANQNPQMGLYALGAY
+                     ASYDMVYDFDRIKMTIIQPRLDSVSSVDIYVEELLYWADNVVLPMAAQADAGIGDWNLS
+                     EKVLQWSPVAAKLVPRAQENWELIDKYDYQEPVYLSDEAVAEILDKASAIKKWVESVEA
+                     YALKEALSGKEVPGYKIVEGRSNRVLTNKEAAATILEKNGFEDIYKPKELLSMGALEKM
+                     VGKKRFEDMMAFILDKPQGKPVLVKNSDKRPALNSLEQAIKEFE*"
+     gene            700515..701165
+                     /locus_tag=
+                     /old_locus_tag=
+     CDS             700515..701165
+                     /locus_tag=""
+                     /old_locus_tag=""
+                     /inference=""
+                     /note=""
+                     /codon_start=1
+                     /transl_table=11
+                     /product=""
+                     /protein_id="gi|523414886|ref|NC_020540.2|_657"
+                     /db_xref=""
+                     /translation="MKERLEHYSTSSIYSGFEVYLPLVLQTITDVIIAENIKSKKETGF
+                     KLYEHFTSRIKSEASMIEKCQRKQLPLTSKSALKIIKDSIGIRIICGFIDDIYRMVDLL
+                     KSIPGMSVNTEKDYILNAKPNGYRSYHLILELETHFPDILGEKKGCYFIEVQLRTIAQD
+                     SWASLEHQMKYKHQVANAEMITRELKRCADELASCDVTMQTIRQLIQETTEEE*"
+     gene            960262..960915
+                     /locus_tag=
+                     /old_locus_tag=
+     CDS             960262..960915
+                     /locus_tag=""
+                     /old_locus_tag=""
+                     /inference=""
+                     /note=""
+                     /codon_start=1
+                     /transl_table=11
+                     /product=""
+                     /protein_id="gi|523414886|ref|NC_020540.2|_911"
+                     /db_xref=""
+                     /translation="MLRTKFEEELDKLHNQFYSMGTEVLAQINKTVRAFVSHDRELAKE
+                     VIEEDDTINNFETKLEKKSLEIIALQQPVSNDLRMVITVLKASSDIERMGDHAASIAKA
+                     TIRMKGEERIPVVEEQINLMGKAVKQMVEEALNAYINADDTKAYEIAASDEIIDQYFRN
+                     IQTLAVEEIRKSPDAVFAGKEYFQVLMYLERIGDYARNICEWIVYLKTGKIIEL*"
+     gene            1282023..1283747
+                     /locus_tag=
+                     /old_locus_tag=
+     CDS             1282023..1283747
+                     /locus_tag=""
+                     /old_locus_tag=""
+                     /inference=""
+                     /note=""
+                     /codon_start=1
+                     /transl_table=11
+                     /product=""
+                     /protein_id="gi|523414886|ref|NC_020540.2|_1257"
+                     /db_xref=""
+                     /translation="MSVKTLGRYVTNHFKQGFLINRLMKLYSLLIVSFFTLAAIGLSSY
+                     SISSTYKRVDAEAQMRLEETLGRLQSQNDITLRVLDQLVGRSEDYHNLYQYMTLTPNQY
+                     FSNVFEDWEKGKDTVLFSEEVRRLFDLYPDVTSMTLLLEDSSAYLYADKVIKTGRLLYS
+                     KPEKVTGNVLVRSIRNPESGDVTGRLYLTFDKPPTLVETQQDHYLATFAFDYYGRKLFH
+                     QGGRRFPHLEAEVKKAIKADRAADLSNLSKAYRMQYNRSGDLLAYVAVRKSYLLAEAVR
+                     TVFVYGLVSLLLAWLLLQLLFRVFRNYIQQVSEITDTVEMVAAGDLSLTIDNSHMELEL
+                     YHISEAINQMLASIKAYIDEVYVLEVEQRDAQMRALQSQINPHFLYNTLEYIRMYALSC
+                     QQEELADVIYAFASLLRNNISQDKMTTLKEELAFCEKYIYLYQMRYPDSFAYHVKIDES
+                     VADLAIPKFVIQPLVENYFVHGIDYSRHDNALSIKALDETDYLLIQVLDNGRGISQERL
+                     ADMEKRLQEHQTTGNSSIGLQNVYLRLFHHFRDRVSWSMAKEPNGGFIIQIRIRKDA*"
+     gene            841228..842301
+                     /locus_tag=
+                     /old_locus_tag=
+     CDS             841228..842301
+                     /locus_tag=""
+                     /old_locus_tag=""
+                     /inference=""
+                     /note=""
+                     /codon_start=1
+                     /transl_table=11
+                     /product=""
+                     /protein_id="gi|523414886|ref|NC_020540.2|_795"
+                     /db_xref=""
+                     /translation="MRKLYSFLAGVLGVIVILTSLSFILQKKSGSGSQSDKLVIYNWGD
+                     YIDPALLKKFTKETGIEVQYETFDSNEAMYTKIKQGGTTYDIAVPSDYTIDKMIKENLL
+                     NKLDKSKLVGMDNIGKEFLGKSFDPQNDYSLPYFWGTVGIVYNDQLVDKAPMHWEDLWR
+                     PEYKNSIMLIDGAREMLGVGLTTFGYSVNSKNLEQLQAAERKLQQLTPNVKAIVADEMK
+                     GYMIQGDAAIGITFSGEASEMLDSNEHLHYIVPSEGSNLWFDNLVLPKTMKHEKEAYAF
+                     LNFINRPENAAQNAAYIGYATPNKKAKALLPDEIKNDPAFYPTDDIIKKLEVYDNLGSR
+                     WLGIYNDLYLQFKMYRK*"
+     gene            1073747..1074082
+                     /locus_tag=
+                     /old_locus_tag=
+     CDS             1073747..1074082
+                     /locus_tag=""
+                     /old_locus_tag=""
+                     /inference=""
+                     /note=""
+                     /codon_start=1
+                     /transl_table=11
+                     /product=""
+                     /protein_id="gi|523414886|ref|NC_020540.2|_1039"
+                     /db_xref=""
+                     /translation="MTEPSNLEAIMGLIMYGGEAKGKAVEAIHAARDGQFEEAQHLLQE
+                     ATNSLNIAHKSQTHLLSQEAAGDAVELSLLMVHGQDHMMTALAFIDLAKELVTVYDKMS
+                     AIQRGES*"
+     gene            810976..811542
+                     /locus_tag=
+                     /old_locus_tag=
+     CDS             810976..811542
+                     /locus_tag=""
+                     /old_locus_tag=""
+                     /inference=""
+                     /note=""
+                     /codon_start=1
+                     /transl_table=11
+                     /product=""
+                     /protein_id="gi|523414886|ref|NC_020540.2|_759"
+                     /db_xref=""
+                     /translation="MTTEFDKMTRGEWYDANFDSELIQKRMMAQDLCFDLNQLKPSREE
+                     ERSAVLNQLFGQSFEGLVLLSPFICDYGKNITFGKNCFINSNCYFMDGAKIALGDNVFV
+                     GPSTGFYTANHPLDYKRRNEGLEKALPITIGDNVWFGANVNVMPGVTIGSGCVIASGSV
+                     VTHDIPVNSLAAGVPCQVVRKIEQE*"
+     gene            441133..441951
+                     /locus_tag=
+                     /old_locus_tag=
+     CDS             441133..441951
+                     /locus_tag=""
+                     /old_locus_tag=""
+                     /inference=""
+                     /note=""
+                     /codon_start=1
+                     /transl_table=11
+                     /product=""
+                     /protein_id="gi|523414886|ref|NC_020540.2|_423"
+                     /db_xref=""
+                     /translation="MWSFWKRYRPFLSAGIQELITYRVNFFLYRIGDVMGAFVAYYLWK
+                     AVFDSSKQSLINGFTLSDMTFYIIMSFVTTLLTKSDSSFMIGEEVKDGSIIMRLLRPVH
+                     FAASYLFMEIGFRWIVLMSVGFPFLMVLSGIKVMAGLSILQVLASSCLYLVSLLLAFLI
+                     NFYFNICFGSSAFVFKNLWGSNLLKNALVAFMSGSLIPLAFFPKMVSIVLSFLPFSSLV
+                     YTPVMIVIGKYSLSQIMVALSLQIFWLLVMVVLSQVIWKKVQYHLTIQGG*"
+     gene            740226..740528
+                     /locus_tag=
+                     /old_locus_tag=
+     CDS             740226..740528
+                     /locus_tag=""
+                     /old_locus_tag=""
+                     /inference=""
+                     /note=""
+                     /codon_start=1
+                     /transl_table=11
+                     /product=""
+                     /protein_id="gi|523414886|ref|NC_020540.2|_694"
+                     /db_xref=""
+                     /translation="MTYELCLEYGTYPLSRVDAYWGEDQNPPTFIQEDRLLCHKLETMN
+                     HLFHDLFVTIESQFHYVGFNMPEKRAQIRILYQEVATILKSKYKDYPIKIETFLL*"
+     gene            955197..956507
+                     /locus_tag=
+                     /old_locus_tag=
+     CDS             955197..956507
+                     /locus_tag=""
+                     /old_locus_tag=""
+                     /inference=""
+                     /note=""
+                     /codon_start=1
+                     /transl_table=11
+                     /product=""
+                     /protein_id="gi|523414886|ref|NC_020540.2|_908"
+                     /db_xref=""
+                     /translation="MNKLKKEILSDNYNHFFHFFAVFTGIFVIMTIIILQIMRFGVYSS
+                     VDSSLVSVSNNASSYANRTMARISSFYFDTENNIIKALPDSDSSKLLGTPAANTDIILF
+                     SANGTILNAFDAFSNYQNFHLDKRRLGSIETTSLMNFYGQEEKYHTITVGVHIKNYPAV
+                     AYMMAVVNVEQLDRANERYERIIIIVMSVFWLISILASIYLAKWSRKPILESYEKQKMF
+                     VENASHELRTPLAVLQNRLESLFRKPNETILENSEHLASSLDEVRNMRILTTNLLNLAR
+                     RDDGINPQWTHLDTDFFNAIFENYELVAKEYGKIFYFQNQVNRSLRMDKALLKQLITIL
+                     FDNAIKYTDKNGIIEIIVKTTDKNLLISVIDNGPGITDEEKKKIFDRFYRVDKARTRQT
+                     GGFGLGLALAQQIVMSLKGNITVKDNDPKGSIFEVKL*"
+     gene            1446423..1447457
+                     /locus_tag=
+                     /old_locus_tag=
+     CDS             1446423..1447457
+                     /locus_tag=""
+                     /old_locus_tag=""
+                     /inference=""
+                     /note=""
+                     /codon_start=1
+                     /transl_table=11
+                     /product=""
+                     /protein_id="gi|523414886|ref|NC_020540.2|_1420"
+                     /db_xref=""
+                     /translation="MKALFLKRRQDFQKQQNKYLRYVLNDHFVLVLMFLLGFAMVQYGQ
+                     LLNHFPTNHLPIQVCLGILIPLLLSMGSIATYLEEADQHFLLPKEEEVISYIKQAERLS
+                     FLLWGTLQTAVLLFLYPIFRRLGLSLFIFIILVLILLALKRVVLSRKTRYFLRGNRLDW
+                     AKAVAFESNRKQSILKFYSLFTTVKGISTKVKERTYLNPLLKLVKQTPSNLWLSLYARA
+                     FLRSSDYLGLFLRLMLLSSLSVFFIHNLYLSVSLALIFNYLVVFQLLSLYYHYDYHYMT
+                     SLYPENSRSKKKNMLSFLRGLSFLMLIVNMLCCSSAPKALILIVGMVFIACIYLPYKLK
+                     KIID*"
+     gene            1318620..1319312
+                     /locus_tag=
+                     /old_locus_tag=
+     CDS             1318620..1319312
+                     /locus_tag=""
+                     /old_locus_tag=""
+                     /inference=""
+                     /note=""
+                     /codon_start=1
+                     /transl_table=11
+                     /product=""
+                     /protein_id="gi|523414886|ref|NC_020540.2|_1282"
+                     /db_xref=""
+                     /translation="MKKFQFFLLIECILLAMGIMTILDNDLSSFILILVLILLALRFYN
+                     QDSRNNFLLTVSLLFLFLIFMLNPYIIMAVLLGIVYIFINHFSQVKKKNRFALIRFKEE
+                     KIEVNNTKHQWIGTANYESDYYCFDDINIIRISGNDTVDLTNVIVTGMDNIIVIRKIFG
+                     NTTILVPIDVTVTLDVSSIYGSVDFFRCQQYDLRNESIKLKETDNQSLKKVKIIVTTIA
+                     GNVEVDRR*"
+     gene            744985..746226
+                     /locus_tag=
+                     /old_locus_tag=
+     CDS             744985..746226
+                     /locus_tag=""
+                     /old_locus_tag=""
+                     /inference=""
+                     /note=""
+                     /codon_start=1
+                     /transl_table=11
+                     /product=""
+                     /protein_id="gi|523414886|ref|NC_020540.2|_700"
+                     /db_xref=""
+                     /translation="MMIETKRQQERVILLGVELQTTEHFDMSMTELANLAKTAGVKVMA
+                     SFSQKRERYDSKTFIGSGKLDEIKAIVEADEIDAVIVNNRLTARQNANLEAVLEVKVID
+                     RMQLILDIFAMRARSHEGKLQVHLAQLKYMLPRLVGQGIMLSRQAGGIGSRGPGESQLE
+                     LNRRSIRHQIADIERQLTQVEKNRQTIRDRRVGSDTFKIGLIGYTNAGKSTIMNLLTDD
+                     SHYEANELFATLDATTKQLYLENQFQATLTDTVGFIQDLPTELVAAFKSTLEESKYVDL
+                     LLHVIDASDPNHSEQEKVVLNLLKELDMLNIPRLAIYNKVDIAEQFTATAFPNIRISAR
+                     SKDSKILLRRLIIDQIRDQFVPFRIKVHQDKAYKLYDLNRVALLDHYTFDQEIEDISGY
+                     ISPKQQWRLDDFYE*"
+     gene            1070707..1071447
+                     /locus_tag=
+                     /old_locus_tag=
+     CDS             1070707..1071447
+                     /locus_tag=""
+                     /old_locus_tag=""
+                     /inference=""
+                     /note=""
+                     /codon_start=1
+                     /transl_table=11
+                     /product=""
+                     /protein_id="gi|523414886|ref|NC_020540.2|_1035"
+                     /db_xref=""
+                     /translation="MTELKIDVQDLHKSYGQNEVLKGIDAKFYEGDVVCIIGPSGSGKS
+                     TFLRTLNLLETITSGKVMVDGFELSDPKTNIDKARENIGMVFQHFNLFPHMTVLENIIF
+                     APVELGKESKEVAKKHGMALLEKVGLSDKADAFPGSLSGGQKQRVAIARSLAMNPDIML
+                     FDEPTSALDPEMVGDVLNVMKDLAEQGMTMLIVTHEMGFARQVANRVIFTDGGQFLEDG
+                     TPEEIFDHPKHPRLIEFLDKVLNV*"
+     gene            274965..275570
+                     /locus_tag=
+                     /old_locus_tag=
+     CDS             274965..275570
+                     /locus_tag=""
+                     /old_locus_tag=""
+                     /inference=""
+                     /note=""
+                     /codon_start=1
+                     /transl_table=11
+                     /product=""
+                     /protein_id="gi|523414886|ref|NC_020540.2|_256"
+                     /db_xref=""
+                     /translation="MKILLIDDHRLFAKSIQLLFQQYDEVDVIDTITSHFNDVTIDLSK
+                     YDIILLDINLANISKENGLEIAKELIQSTPHLKVVMLTGYVKSIYRERAKKVGAYGFVD
+                     KNIDPKQLISILKKVDSGKKYFEQIESQDYVESLTDQEIAILNLSKKGFSIKEIEETLQ
+                     ISRRTVFNHLTHIYSKLLVNNKQEAIYKAEQLGYFMDF*"
+     gene            960983..961741
+                     /locus_tag=
+                     /old_locus_tag=
+     CDS             960983..961741
+                     /locus_tag=""
+                     /old_locus_tag=""
+                     /inference=""
+                     /note=""
+                     /codon_start=1
+                     /transl_table=11
+                     /product=""
+                     /protein_id="gi|523414886|ref|NC_020540.2|_912"
+                     /db_xref=""
+                     /translation="MTEPILQIRDLSVYYNQKKTLKDVSLDLYPNEITALIGPSGSGKS
+                     TLLRSINRMNDLNPEVTITGSIVYNGHNIYSPRTDTVDLRKEIGMVFQQPNPFPMSIYE
+                     NVVYGLRLKGIRDKSILDHAVESSLKGASIWNEVKDRLHDSAVGLSGGQQQRVCIARVL
+                     ATSPRIILLDEPTSALDPISAGKIEETLLLLKKDYTLAIVTRSMQQASRLSDRTGFFLE
+                     GDLLECGPTKAMFMNPKRKETEDYISGKFG*"
+     gene            1071744..1073123
+                     /locus_tag=
+                     /old_locus_tag=
+     CDS             1071744..1073123
+                     /locus_tag=""
+                     /old_locus_tag=""
+                     /inference=""
+                     /note=""
+                     /codon_start=1
+                     /transl_table=11
+                     /product=""
+                     /protein_id="gi|523414886|ref|NC_020540.2|_1037"
+                     /db_xref=""
+                     /translation="MSHFSDKFMEISGKIGSQRHLVAIRDSFISMMPITMAGSVAVLLN
+                     VFLRDIPNNMGWTGFAKAMQPVIDINGYVYFGTIGIMALFFAFAFGYNLAVMHKINPLA
+                     GGLISFGSFIATLPQTLTISTPLENASANLISNLKEMGLSVVTAGGASSIETSQWGAIA
+                     LKYVGATGLFTALIIGFLSSFVYAALTKRNITITLPDNVPPAVNKAFAAIIPGTVAIYA
+                     SAIFAYLIFALTGSSLSDVISTYIQLPLLGLSQGIGSVILLTFLVQLLWFFGLHGHNVL
+                     APVMDGIYMVALTENTAAYNTAHSAANLPYLWTRGSFDAYAQMGGSGVTLALIIAIFIF
+                     SKREEHKTIAKLSAPMGVFNINEPITFGMPIVLNPTFVIPWLIVPPICASIAYFATAIG
+                     LIPPVFLSVPWITPVGLYAYLATGGNIMAGLVSLFNLFVAFLIWAPFVILANKEKASDL
+                     A*"
+     gene            1689161..1690081
+                     /locus_tag=
+                     /old_locus_tag=
+     CDS             1689161..1690081
+                     /locus_tag=""
+                     /old_locus_tag=""
+                     /inference=""
+                     /note=""
+                     /codon_start=1
+                     /transl_table=11
+                     /product=""
+                     /protein_id="gi|523414886|ref|NC_020540.2|_1640"
+                     /db_xref=""
+                     /translation="MNKLITGVVTLATVVTLSACQSSHNNTKLVSMKGDTITVSDFYNE
+                     TKNTELAQKAMLSLVISRVFETQYANKVSDKEVEKAYKQTADQYGTSFKTVLAQSGLTP
+                     ETYKKQIRLTKLVEYAVKEQAKNETISKKDYRQAYDAYTPTMTAEIMQFEKEEDAKAAL
+                     EAVKAEGADFAAIAKEKTTAADKKTTYTFDSGETTLPAEVVRAASGLKEGNRSEIITAL
+                     DPATSKRTYHIIKVTKKATKKADWKAYQKRLKDIIVTGKLKDPDFQNKVIAKALDKANV
+                     KIKDKAFANILAQFAKPNQKQPAQK*"
+     gene            1435184..1437106
+                     /locus_tag=
+                     /old_locus_tag=
+     CDS             1435184..1437106
+                     /locus_tag=""
+                     /old_locus_tag=""
+                     /inference=""
+                     /note=""
+                     /codon_start=1
+                     /transl_table=11
+                     /product=""
+                     /protein_id="gi|523414886|ref|NC_020540.2|_1400"
+                     /db_xref=""
+                     /translation="MRHLNIDIETYSSNDIKNGVYKYADAEDFEILLFAYSIDGGEVEC
+                     LDLTRQSLPEDIKDMLFDDKVRKHAFNAQFERVCLSRYLGLPYYLDPAQWQCTMVLAQE
+                     LGLPASLEKCALYLKLAQEKDAAGKNLIKYFSVPCKPTKANGGRTRNLPEHDPGKWQMF
+                     INYCMQDVVVEMAIAEKLESVPVHDREWDYYVCDQRINDRGVALDKELVASALYCKDVK
+                     MESLSGELKALTGLDNPNSRAQLLPWLKEHGYSANGLTKADVEQELKKAEGELKRVLEL
+                     KLQTAMSSLKKYEAMERAMCSDGRVHGLLQFYGASRTGRWAGRVVQVQNLARNYIKDLD
+                     DAREYVKKRDIDAVEILYDSLNDTLKQLVRTALVAKDGYTFYVSDFSAIEARVIAWFAG
+                     EQWRLDVFSTHGKIYEASASQMFGIPIEEIDKELRQKGKISELALGYQGGPGALKQMGA
+                     LNMGVKEEELQGLVDDWRRANKKIVQFWKDVQRAAIKAIKSRAPIKLGKIRFRYRKGFL
+                     FITLPSGRNLAYARAKVEPGDYGDKIIYEGQGDRAYFTAQETYGGKLVENIVQATARDI
+                     LAEALLRIEAAGYDVVFHVHDEAIIEGSGLIIEEVNDLMAQAPEWAEGLPLNSEGYVTK
+                     YYMKD*"
+     gene            816549..817958
+                     /locus_tag=
+                     /old_locus_tag=
+     CDS             816549..817958
+                     /locus_tag=""
+                     /old_locus_tag=""
+                     /inference=""
+                     /note=""
+                     /codon_start=1
+                     /transl_table=11
+                     /product=""
+                     /protein_id="gi|523414886|ref|NC_020540.2|_764"
+                     /db_xref=""
+                     /translation="MTTIDFKAEVDKRKKAMLADLVDLLRINSERDDQLADDKHPFGPG
+                     PVKALEHFLAMAERDGYKTRNIDNYAGDFEFGQGDEVLGIFGHLDVVPAGSGWDTDPYE
+                     PVIKDDRIYARGSSDDKGPTMACYYALKIIKELGLPVSKKVRFIVGTDEESGWGDMDYY
+                     FAHNGLKNPDFGFSPDAEFPIINGEKGNITEYLHFAGDNKGAFVLHRFQGGLRENMVPE
+                     SATAVITAPHDLDVLEAALEQFLSEHGVKGSMKATDGKIEVTIIGKSAHGSTPEAGVNG
+                     ATLLAKFLNQFTFEGAAKDYLHVAGEVLHEDFAAEKLGLAYTDDRMGALSMNAGVFTFD
+                     SQSADNTIALNFRYPKGTDAATLKAGLEKLPGLTKVSLSEHEHTPHYVPMDDELVATLL
+                     AVYEKQTGLKGYEQVIGGGTFGRLLERGVAFGAMFPGDENTMHQANEYMPLENIYRSAA
+                     IYAEAIYELIK*"
+     gene            810294..810641
+                     /locus_tag=
+                     /old_locus_tag=
+     CDS             810294..810641
+                     /locus_tag=""
+                     /old_locus_tag=""
+                     /inference=""
+                     /note=""
+                     /codon_start=1
+                     /transl_table=11
+                     /product=""
+                     /protein_id="gi|523414886|ref|NC_020540.2|_758"
+                     /db_xref=""
+                     /translation="MPPKTIDIEKYHQLAWQRQAEHRKFLATLKKKPPKHLDKIVQDIH
+                     QEVFQEIDCTSCANCCKDLGPDLTETDIVKIAKLFRMKLATFEKTYLRVDEDDDKVFRF
+                     MPCPFLGGDNL*"
+     gene            826824..827513
+                     /locus_tag=
+                     /old_locus_tag=
+     CDS             826824..827513
+                     /locus_tag=""
+                     /old_locus_tag=""
+                     /inference=""
+                     /note=""
+                     /codon_start=1
+                     /transl_table=11
+                     /product=""
+                     /protein_id="gi|523414886|ref|NC_020540.2|_776"
+                     /db_xref=""
+                     /translation="MLKIQNLKKSYGKRTILNNVNMNIPKGKVYALIGPNGAGKSTIMK
+                     ILTGLVSKTSGSIIFEGREWSRRDLRKIGSIIEEPPLYKNLSAYDNMKVVTTMLGVSES
+                     TILPLLNKVGLGNIDKRPVKQFSLGMKQRLGIAISLINSPKLLILDEPTNGLDPIGIQE
+                     LREIIESFKSEGMTIMISSHILSEVEHLADFIGFIYEGKIILEKEYDGSENLEELFNNQ
+                     ILFEKRR*"
+     gene            705168..706175
+                     /locus_tag=
+                     /old_locus_tag=
+     CDS             705168..706175
+                     /locus_tag=""
+                     /old_locus_tag=""
+                     /inference=""
+                     /note=""
+                     /codon_start=1
+                     /transl_table=11
+                     /product=""
+                     /protein_id="gi|523414886|ref|NC_020540.2|_662"
+                     /db_xref=""
+                     /translation="MSNYCVQTGGKLYLTGEYAILTPGQKALIHFIPLMMTAEISPAAH
+                     IQLASDMFSHKAGMTPDASYALIQATVKTFADYLGQSIDQLEPFSLIITGKMERDGKKF
+                     GIGSSGSVTLLTLKALSAYYQITLTPELLFKLAAYTLLKQGDNGSMGDIACIAYQTLVA
+                     YTSFDREQVSNWLQTMPLKKLLVKDWGYHIQVIQPALPCDFLVGWTKIPAISRQMIQQV
+                     TASITPAFLRTSYQLTQSAMVALQEGHKEELKKSLAGASHLLKELHPAIYHPKLVTLVA
+                     ACQKQDAVAKSSGSGGGDCGIALAFNQDARDTLISKWQEADIALLYQERWGEND*"
+     gene            701845..703077
+                     /locus_tag=
+                     /old_locus_tag=
+     CDS             701845..703077
+                     /locus_tag=""
+                     /old_locus_tag=""
+                     /inference=""
+                     /note=""
+                     /codon_start=1
+                     /transl_table=11
+                     /product=""
+                     /protein_id="gi|523414886|ref|NC_020540.2|_659"
+                     /db_xref=""
+                     /translation="MFNRIRIRFIMIASIAIFIILSSIVGIINTARCYQSQQEINRILH
+                     LISSNKGKLPGTTESSKRLGTKLSEDSLSQFRYYSVIFNANGHLLSSNTANISALDREE
+                     AQYFARLFAKSGEEKGSYRHQDSVYSYLITQLPNEEKLVVILDTTFYFRSVGDLLAVSV
+                     MLAFGGFIFFVVLVSLFSGMVIKPFVQNYEKQRRFITNAGHELKTPLAIISANNELVEL
+                     MTGESEWTKSTSDQVKRLTGLINQMITLARLEEQPDVVLHMVDFSAIAQDAAEDFKSLV
+                     LKDGKRFDLTIQPNIMIKAEEKSLFELVTILVDNANKYCDPKGLVKVSLTTIGRRRKRA
+                     KLEVSNTYLEGKSIDYSRFFERFYREDESHNSKEKGYGIGLSMAESMVKLFKGTITVNY
+                     KNDAIVFTVVI*"
+     gene            1441092..1441307
+                     /locus_tag=
+                     /old_locus_tag=
+     CDS             1441092..1441307
+                     /locus_tag=""
+                     /old_locus_tag=""
+                     /inference=""
+                     /note=""
+                     /codon_start=1
+                     /transl_table=11
+                     /product=""
+                     /protein_id="gi|523414886|ref|NC_020540.2|_1411"
+                     /db_xref=""
+                     /translation="MSQQHKKWSALVEQRLKEKGWTRVDLALAAGLRSSGTITDLLTKG
+                     KGSVDLKVRVSKILSIREPWELFENE*"
+     gene            701168..701836
+                     /locus_tag=
+                     /old_locus_tag=
+     CDS             701168..701836
+                     /locus_tag=""
+                     /old_locus_tag=""
+                     /inference=""
+                     /note=""
+                     /codon_start=1
+                     /transl_table=11
+                     /product=""
+                     /protein_id="gi|523414886|ref|NC_020540.2|_658"
+                     /db_xref=""
+                     /translation="MKILLAEDEWQMSNVLTTAMTHQGYDVDVVFNGQEAIDKAKDNAY
+                     DIMILDIMMPIKSGIEALKEIRASGNCSHIIMLTAMAEINDRVTGLDAGADDYLTKPFS
+                     LKELLARLRSMERRVESFTPQVLQFAGVTLNINEQELSAGNAIRLASKEGKLMAFLMLN
+                     QGKYLDTKTLYQHVWSDQEDYDTSIVWVYISYLRQKLLAIQANVIIAGDKDTSYCLLEK
+                     *"
+     gene            359294..359617
+                     /locus_tag=
+                     /old_locus_tag=
+     CDS             359294..359617
+                     /locus_tag=""
+                     /old_locus_tag=""
+                     /inference=""
+                     /note=""
+                     /codon_start=1
+                     /transl_table=11
+                     /product=""
+                     /protein_id="gi|523414886|ref|NC_020540.2|_339"
+                     /db_xref=""
+                     /translation="MNKKELFDAFDGFSQNLMVTLAEIEAMKKQVQSLVEENTILRLEN
+                     TKLRERLSHLEHETVAKNPSKQRKDHLEGIYDEGFHICNFFYGQRRENDEECMFCRELL
+                     DRK*"
+     gene            444588..445835
+                     /locus_tag=
+                     /old_locus_tag=
+     CDS             444588..445835
+                     /locus_tag=""
+                     /old_locus_tag=""
+                     /inference=""
+                     /note=""
+                     /codon_start=1
+                     /transl_table=11
+                     /product=""
+                     /protein_id="gi|523414886|ref|NC_020540.2|_426"
+                     /db_xref=""
+                     /translation="MLTKLEYWAKQCPNKKAIVADQISLTYQELWQAVLIKDQTIKDSV
+                     PYIISHSRYLNQLLSFLRGLKEGSCPIILHPNISGTFQQQIKHVDGELLKKADFAVLSS
+                     GTTGKAKLFWRRLSTWTRLFDYQNKVFGMTGNSCLFLHGSFSFTGNLNLALAQLWAGGC
+                     LVLSQKLSLKTWLSLWQAKKVSHLYLLPTYLNRLLPYLTKNNMTATHLLTSSQMISQEL
+                     LRHYYKKFPQLEIVIFYGASELSFITWCNGRAAVKINGLVGQPFPDVSISFKDKEIFVE
+                     TPYSVEGMSQPYSVSDLGKMSPAGLILEGRQDDWVNQRGVKCHLPSLVELAHQAPNVKE
+                     AHALKIGKGENETLILVLVLTKKDCLAPIKDFLALYLNSGQLPKYYLVIDCLPLKDNGK
+                     INREVLLNKIPKQWLS*"
+     gene            316223..317533
+                     /locus_tag=
+                     /old_locus_tag=
+     CDS             316223..317533
+                     /locus_tag=""
+                     /old_locus_tag=""
+                     /inference=""
+                     /note=""
+                     /codon_start=1
+                     /transl_table=11
+                     /product=""
+                     /protein_id="gi|523414886|ref|NC_020540.2|_292"
+                     /db_xref=""
+                     /translation="MVLPTVAIVGRPNVGKSTLFNRIAGERISIVEDVEGVTRDRIYAT
+                     GEWLNRQFSLIDTGGIDDVDAPFMEQIKHQAQIAMEEADVIVFVVSGKEGVTDADEYVS
+                     KILYRTNTPVILAVNKVDNPEMRNDIYDFYSLGLGDPYPVSSVHGIGTGDVLDAIVENL
+                     PVEEAEENDDIIRFSLIGRPNVGKSSLINAILGEDRVIASPVAGTTRDAIDTHFTDADG
+                     QEFTMIDTAGMRKSGKIYENTEKYSVMRAMRAIDRSDVVLMVINAEEGIREYDKRIAGF
+                     AHEAGKGMIIVVNKWDTIDKDNHTVAKWEADIRDQFQFLTYAPIIFVSALTKQRLNKLP
+                     DLIKRISESQNKRIPSAVLNDVIMDAIAINPTPTDKGKRLKIFYATQVSVKPPTFVVFV
+                     NEEELMHFSYLRFLENQIRAAFTFEGTPIHLIARKRK*"
+     gene            1662981..1663430
+                     /locus_tag=
+                     /old_locus_tag=
+     CDS             1662981..1663430
+                     /locus_tag=""
+                     /old_locus_tag=""
+                     /inference=""
+                     /note=""
+                     /codon_start=1
+                     /transl_table=11
+                     /product=""
+                     /protein_id="gi|523414886|ref|NC_020540.2|_1617"
+                     /db_xref=""
+                     /translation="MSQVIGDLRELIHQIEQISDEIAKKYDVEHLAGPQGYVLVFLAKH
+                     QNQEIFVKDIEKQLRISKSVASHLVKRMVKNGFINVMPSQVDKRYKQVVLAQVGRDKLP
+                     LLRECRKDIEHYFLKEITKEELLTAKKVIEQLKQNMLTYKGDNDA*"
+     gene            270377..270739
+                     /locus_tag=
+                     /old_locus_tag=
+     CDS             270377..270739
+                     /locus_tag=""
+                     /old_locus_tag=""
+                     /inference=""
+                     /note=""
+                     /codon_start=1
+                     /transl_table=11
+                     /product=""
+                     /protein_id="gi|523414886|ref|NC_020540.2|_252"
+                     /db_xref=""
+                     /translation="MKFHTPLFRDNPSLSGGQKQRISLARELVTTPRILVLDEPTSALD
+                     VKTERIIQKNVEALHCTRVLVTHRLNTVEKADKILIMDNGKIIDYGNHHYLYKNNKDYC
+                     DLYDSYMNKYQEEEVK*"
+     gene            294181..294774
+                     /locus_tag=
+                     /old_locus_tag=
+     CDS             294181..294774
+                     /locus_tag=""
+                     /old_locus_tag=""
+                     /inference=""
+                     /note=""
+                     /codon_start=1
+                     /transl_table=11
+                     /product=""
+                     /protein_id="gi|523414886|ref|NC_020540.2|_270"
+                     /db_xref=""
+                     /translation="MTYEDYLPYSRTELLAKIAEQMSPKRFKHVLGVEKAALSLAECYG
+                     CNPDKAGLAALLHDYAKECPDQVFLDLIDKYQLSPELAKWNNNVWHGMVGIYKIQEDLG
+                     LKDKDILRAIEIHTVGAAEMTLLDKVLYVADYIEEGRIFPLVDDARKIAKLDLNQAVAY
+                     ETVNTVAYLASKAQPIFPQTLDTYNAFCSYLKEY*"
+     gene            1442230..1442580
+                     /locus_tag=
+                     /old_locus_tag=
+     CDS             1442230..1442580
+                     /locus_tag=""
+                     /old_locus_tag=""
+                     /inference=""
+                     /note=""
+                     /codon_start=1
+                     /transl_table=11
+                     /product=""
+                     /protein_id="gi|523414886|ref|NC_020540.2|_1414"
+                     /db_xref=""
+                     /translation="MFSTFERIKELAKSRGISLGLLEEKLGLSRNSIYTIKNKKPSAER
+                     LQLIADYFHVSTDYLLGRTDNPKIAQDGHASVAIDLKKDAEETFFFDGHELNDEDIDLI
+                     TSILETRIKNRK*"
+     gene            294774..295151
+                     /locus_tag=
+                     /old_locus_tag=
+     CDS             294774..295151
+                     /locus_tag=""
+                     /old_locus_tag=""
+                     /inference=""
+                     /note=""
+                     /codon_start=1
+                     /transl_table=11
+                     /product=""
+                     /protein_id="gi|523414886|ref|NC_020540.2|_271"
+                     /db_xref=""
+                     /translation="MDNDMRNKMKKEELLKIVVEATEEKRAKDILALDLEGLTSLTDYF
+                     VIASATNSRQLEAIADNIREKVKEAGGDASHVEGNSQAGWVLLDLTDVVVHLFLEDERY
+                     HYNLEKLWHEAPAVALDAYLA*"
+     gene            737853..738083
+                     /locus_tag=
+                     /old_locus_tag=
+     CDS             737853..738083
+                     /locus_tag=""
+                     /old_locus_tag=""
+                     /inference=""
+                     /note=""
+                     /codon_start=1
+                     /transl_table=11
+                     /product=""
+                     /protein_id="gi|523414886|ref|NC_020540.2|_692"
+                     /db_xref=""
+                     /translation="MSKKDKKIEIQLIDHKVMVNETKIDGYQLQIGKRVVGEIAELDEK
+                     FAVLKNDGVDCFFKTLEQAVENIIENYNLNH*"
+     gene            295199..295942
+                     /locus_tag=
+                     /old_locus_tag=
+     CDS             295199..295942
+                     /locus_tag=""
+                     /old_locus_tag=""
+                     /inference=""
+                     /note=""
+                     /codon_start=1
+                     /transl_table=11
+                     /product=""
+                     /protein_id="gi|523414886|ref|NC_020540.2|_272"
+                     /db_xref=""
+                     /translation="MEHNYEKFASVYDAVMDDSLYDLWTDFSLRHLPKSKGRNRLLELA
+                     CGTGIQSVRFAQAGFDVTGLDLSQDMLAIAKKRAQSAKKKIDFIQGNMLDLSQVGQFDF
+                     VTCYSDSICYMQDEVDVGDVFKEVYDVLANDGIFIFDVHSTYQTDECFPGYSYHENADD
+                     FAMVWDTYADEAPHSVVHELTFFIQEDDGRFSRFDEVHEERTYELLTYDILLEQAGFKS
+                     FKVYADFEDKEPTKTSKRWFFVAYK*"
+     gene            706168..707157
+                     /locus_tag=
+                     /old_locus_tag=
+     CDS             706168..707157
+                     /locus_tag=""
+                     /old_locus_tag=""
+                     /inference=""
+                     /note=""
+                     /codon_start=1
+                     /transl_table=11
+                     /product=""
+                     /protein_id="gi|523414886|ref|NC_020540.2|_663"
+                     /db_xref=""
+                     /translation="MTNRKDDHIKYALKYQSPYNAFDDIELIHHSLPSYDLSDIDLSTH
+                     FAGQDFDFPFYINAMTGGSQKGKAVNEKLAKVAAATGIVMVTGSYSAALKNPNDDSYRL
+                     HEVADNLKLATNIGLDKPVALGQQTVQEMQPLFLQVHVNVMQELLMPEGERVFHTWKKH
+                     LAEYASQIPVPVILKEVGFGMDVNSIKLAHDLGIQTFDISGRGGTSFAYIENQRGGDRS
+                     YLNDWGQTTVQCLLNAQGLMDQVEILASGGVRHPLDMIKCFVLGARAVGLSRTVLELVE
+                     KYPTERVIAIVNGWKEELKIIMCALDCKTIKELKGVDYLLYGRLQQVN*"
+     gene            1441355..1441768
+                     /locus_tag=
+                     /old_locus_tag=
+     CDS             1441355..1441768
+                     /locus_tag=""
+                     /old_locus_tag=""
+                     /inference=""
+                     /note=""
+                     /codon_start=1
+                     /transl_table=11
+                     /product=""
+                     /protein_id="gi|523414886|ref|NC_020540.2|_1412"
+                     /db_xref=""
+                     /translation="MEKFNFWLTIATAVLPAAISAIISFLASRYKNRSDIESLEKKFNH
+                     EMTTIEKNHSNDLERLEKQYQHDFEAMEKNHFRELEKMKEAHTLELENIQKQSEAEVNN
+                     TVAQGLMTMLGSAMTPALSKYLEENDVFNQPPK*"
+     gene            822377..822586
+                     /locus_tag=
+                     /old_locus_tag=
+     CDS             822377..822586
+                     /locus_tag=""
+                     /old_locus_tag=""
+                     /inference=""
+                     /note=""
+                     /codon_start=1
+                     /transl_table=11
+                     /product=""
+                     /protein_id="gi|523414886|ref|NC_020540.2|_770"
+                     /db_xref=""
+                     /translation="MTDRVVKKPIRGRQLSKRDLYDEEFFRTHFAKIEIESRLEFLLNR
+                     ANSLEELLLKAKEVNLTIDLKQKM*"
+     gene            1445568..1446359
+                     /locus_tag=
+                     /old_locus_tag=
+     CDS             1445568..1446359
+                     /locus_tag=""
+                     /old_locus_tag=""
+                     /inference=""
+                     /note=""
+                     /codon_start=1
+                     /transl_table=11
+                     /product=""
+                     /protein_id="gi|523414886|ref|NC_020540.2|_1419"
+                     /db_xref=""
+                     /translation="MTTTEQELTLTPLRGKSGKAYKGTYPNGECVFIKLNTTPILPALA
+                     KEQIAPQLLWAKRMGNGDMMSAQEWLNGRTLTKEDMNSKQIIHILLRLHKSKKLVNQLL
+                     QLNYKIENPYDLLVDFEQNAPLQIQQNSYLQAIVKELKRSLPEFKSEVATIVHGDIKHS
+                     NWVITTSGMIFLVDWDSVRLTDRMYDVAYLLSHYIPRSRWSEWLSYYGYKNNDKVMQKI
+                     IWYGQFSHLTQILKCFDKRDMEHVNQEIYALRKFREIFRKK*"
+     gene            314085..315257
+                     /locus_tag=
+                     /old_locus_tag=
+     CDS             314085..315257
+                     /locus_tag=""
+                     /old_locus_tag=""
+                     /inference=""
+                     /note=""
+                     /codon_start=1
+                     /transl_table=11
+                     /product=""
+                     /protein_id="gi|523414886|ref|NC_020540.2|_290"
+                     /db_xref=""
+                     /translation="MKPIDTFTYLKRNKVTLDSVTLIQLYFPIIGSDAVSIYQYFIHFF
+                     DDGLQRHKFSDILNHLQFGMKRFEDALAILTAMELVSVYQLSDTYLITLHQPLSRDLFF
+                     QHPAYSRLLEQKIGEVAVSELQVTVPSQARNISKRFSDIFGVQGDLTNVPQKPQKNFDL
+                     SSFQQLMVRDGLQFEDNQKDIISLYSIAEQYDMTWFDTYQIAKATAVNGKIRPERLLAK
+                     KNQSMTKPSKENFSQAEQIILREAKQDSALVFLEKIKKARRATITKDERILLQTLAKMN
+                     FLDDVINVMVLYTFNKTKSANLQKSYVLKMANDFAYQKVSTAEEAIVVLRAFTDRQSRR
+                     QSKVKTSQSNVPKWSNPDYQETTSQEEQAKLDQFKQAALKRLENLGKGGD*"
+     gene            822851..823546
+                     /locus_tag=
+                     /old_locus_tag=
+     CDS             822851..823546
+                     /locus_tag=""
+                     /old_locus_tag=""
+                     /inference=""
+                     /note=""
+                     /codon_start=1
+                     /transl_table=11
+                     /product=""
+                     /protein_id="gi|523414886|ref|NC_020540.2|_771"
+                     /db_xref=""
+                     /translation="MEHQIERLIAEDIYIKVSFSVKQSGLIFIPNYQLDIRKEENHKKY
+                     KVYIRETAQFFIYNKEASELNRYMRGHELICQLTNDSKSIPKRRRQTIDTLKKKIEEIS
+                     LLIELDTENKPYQDIKDDIVKDMAQLDLTITELQDHIAHLNKVAEVLLNLNNNDIENRR
+                     LARYDYAKMNLTAAIKIEEVEKEIETSQNELNISIDEYEYLVRRLEKFGEILSDSKIID
+                     TSRNEIQWE*"
+     gene            708651..709826
+                     /locus_tag=
+                     /old_locus_tag=
+     CDS             708651..709826
+                     /locus_tag=""
+                     /old_locus_tag=""
+                     /inference=""
+                     /note=""
+                     /codon_start=1
+                     /transl_table=11
+                     /product=""
+                     /protein_id="gi|523414886|ref|NC_020540.2|_665"
+                     /db_xref=""
+                     /translation="MTIGIDKIGFATSQYVLKLEDLALARQVDPAKFSQGLLIESFSVA
+                     PITEDIITLAASAADQILTDEDRAKIDMVILATESSTDQSKASAIYVHHLVGIQPFARS
+                     FEVKQACYSATAALDYAKLHVASKPDSRVLVIASDIARYGVGSPGESTQGSGSIALLVT
+                     ANPRILALNEDNVAQTRDIMDFWRPNYSFTPYVDGIYSTKQYLNCLETTWQAYQKRENL
+                     QLSDLAAVCFHIPFPKLALKGLNNIMDNTVPPEHREKLIEAFQASISYSKQIGNIYTGS
+                     LYLGLLSLLENSKVLQSGDKIGFFSYGSGAVSEFYSGQLVAGYDKMLMTNRQALLDQRT
+                     RLSVSKYEDLFYEQVQLDDNGNANFDIYLTGKFALTAIKEHRRIYHTNDKN*"
+     gene            1659495..1661279
+                     /locus_tag=
+                     /old_locus_tag=
+     CDS             1659495..1661279
+                     /locus_tag=""
+                     /old_locus_tag=""
+                     /inference=""
+                     /note=""
+                     /codon_start=1
+                     /transl_table=11
+                     /product=""
+                     /protein_id="gi|523414886|ref|NC_020540.2|_1615"
+                     /db_xref=""
+                     /translation="MKTARFFWFYFKRYRFSFTVIAVAVILATYLQVKAPVFLGESLTE
+                     LGKIGQAYYVAKMSGQTHFSPDLSAFNAVMFKLLMTYFFTVLANLIYSFLLTRVVSHST
+                     NRMRKGLFGKLERLTVAFFDRHKDGEILSRFTSDLDNIQNSLNQSLIQVVTNIALYIGL
+                     VWMMFRQDSRLALLTIASTPVALIFLVINIRLARKYTNIQQQEVSALNAFMDETISGQK
+                     AIIVQGVQEDTMTAFLKHNERVRQATFKRRLFSGQLFPVMNGMSLINTAIVIFVGSTIV
+                     LSDKSMPAAAALGLVVTFVQYSQQYYQPMMQIASSWGELQLAFTGAHRIQEMFDETEEV
+                     RPQNAPAFTSLKEAVAINHVDFGYLPGQKVLSDVSIVAPKGKMIAVVGPTGSGKTTIMN
+                     LINRFYDVDAGSITFDGRDIRDYDLDSLRQKVGIVLQESVLFSGTITDNIRFGDQTISQ
+                     DMVETAARATHIHDFIMSLPKGYNTYVSDDDNVFSTGQKQLISIARTLLTDPEVLILDE
+                     ATSNVDTVTESKIQRAMEAIVAGRTSFVIAHRLKTILNADHIIVLKDGKVIEQGNHHEL
+                     LHQKGFYAELYHNQFVFE*"
+     gene            1667189..1667893
+                     /locus_tag=
+                     /old_locus_tag=
+     CDS             1667189..1667893
+                     /locus_tag=""
+                     /old_locus_tag=""
+                     /inference=""
+                     /note=""
+                     /codon_start=1
+                     /transl_table=11
+                     /product=""
+                     /protein_id="gi|523414886|ref|NC_020540.2|_1623"
+                     /db_xref=""
+                     /translation="MIDFIISIDDCAVELDSRQSWKIRYPLSTILFLVFVCQLAGIETW
+                     KEMEDFIEMNEPLFATYVDLSEGCPSHDTLERVISLVNSDRLKELKVQFEQSLTSLDAV
+                     HQLISVDGKTIRGNRGKNQKPVHIVTAYDGGHHLSLGQVAVEEKSNEIVAIPQLLRTID
+                     IRKSIVTIDAMGTQTAIVDTIIKGKADYCLAVKGNQETLYDDIALYFSDVNLLEELQEN
+                     AQYYQTVEKSRS*"
+     gene            1442988..1443539
+                     /locus_tag=
+                     /old_locus_tag=
+     CDS             1442988..1443539
+                     /locus_tag=""
+                     /old_locus_tag=""
+                     /inference=""
+                     /note=""
+                     /codon_start=1
+                     /transl_table=11
+                     /product=""
+                     /protein_id="gi|523414886|ref|NC_020540.2|_1416"
+                     /db_xref=""
+                     /translation="MDIAKLKEFAITAAGKAKDGAIKANELRKKASQESKIILPPALNL
+                     ELGAQTAIRKTIDGKYYIGFYSETPELYEFVSLQFDGSRIIEKTVTKGKTTQKGRSSSV
+                     LGGAAIGKVLAPGVGTIIGGMAGGARKKKGTINTTATTTSEEIPGKATVALRNIQTGEV
+                     KTLKTKLTQAQYVSVNNFFK*"
+     gene            736767..737789
+                     /locus_tag=
+                     /old_locus_tag=
+     CDS             736767..737789
+                     /locus_tag=""
+                     /old_locus_tag=""
+                     /inference=""
+                     /note=""
+                     /codon_start=1
+                     /transl_table=11
+                     /product=""
+                     /protein_id="gi|523414886|ref|NC_020540.2|_691"
+                     /db_xref=""
+                     /translation="MTIAIDWDNLGFEYHKLPFRYISYYKNGQWDKGQLTEDATLHISE
+                     SAPALHYGQQAFEGLKAYRTKDGSIQLFRPDRNAVRLQATADRLLMPQVSTEQFIDAAK
+                     QVVKANEDFVPPYGTGATLYLRPLLIGVGDIIGVKPAEEYIFTIFAMPVGNYFKGGLAP
+                     TNFIVSEAFDRAAPYGTGAAKVGGNYAGSLLPGKAAKSAGFSDVIYLDPATHTKIEEVG
+                     AANFFGITANNEFVTPLSPSILPSITKYSLLQLAEERLGMTVIEGDVPINELDKFVEAG
+                     ACGTAAVISPIGGIQYKDNLHVFYSETEVGPVTRRLYDELVGIQFGDIEAPEGWIVKVD
+                     *"
+     gene            1448257..1448676
+                     /locus_tag=
+                     /old_locus_tag=
+     CDS             1448257..1448676
+                     /locus_tag=""
+                     /old_locus_tag=""
+                     /inference=""
+                     /note=""
+                     /codon_start=1
+                     /transl_table=11
+                     /product=""
+                     /protein_id="gi|523414886|ref|NC_020540.2|_1422"
+                     /db_xref=""
+                     /translation="MENCIFCSIIQGDIPSSKVYEDEQVLAFLDISQTTKGHTLVIPKQ
+                     HVRNLLEMTAETASHLFARIPKIARAIQSATGATAMNIINNNEALAGQTVFHAHVHLVP
+                     RYNEEDGISIQYTTHEPDFPVLEKLARQINQEVSS*"
+ORIGIN      
+//
+
